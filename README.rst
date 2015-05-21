@@ -22,7 +22,7 @@ If you want to help with the development (reporting, improvement, update, bug-fi
 
 Please file any issues or ideas for enhancement at the `issue tracker <https://github.com/plone/plone.github/issues>`_.
 
-The code is located in the `github collective <https://github.com/plone/plone.github>`_.
+The code is located in `github <https://github.com/plone/plone.github>`_.
 
 Maintainer is Jens Klein and the Plone Foundation Core Developer team.
 We appreciate any contribution!
