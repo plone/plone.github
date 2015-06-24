@@ -3,12 +3,12 @@
 This script manages labels for all repositories of an organization.
 """
 from __future__ import print_function
+from definitions import FALLBACKCOLOR
+from definitions import GENERAL_LABELS
+from definitions import MIGRATIONS
+from definitions import MILESTONES
+from definitions import SPECIAL_LABELS
 from github import Github
-from labelsplone import FALLBACKCOLOR
-from labelsplone import GENERAL_LABELS
-from labelsplone import MIGRATIONS
-from labelsplone import MILESTONES
-from labelsplone import SPECIAL_LABELS
 
 import argparse
 import re
@@ -138,7 +138,13 @@ def manage_labels():
             )
         )
         # milestones
-        print(MILESTONES)
+        current_milestones = set()
+        for ms in repo.get_milestones():
+            current_milestones.update([ms.title])
+        for new_milestone in MILESTONES:
+            if new_milestone not in current_milestones:
+                repo.create_milestone(title=new_milestone)
+                print('-> create milestone: "{0}"'.format(new_milestone))
 
         # labels
         current_labels = [_ for _ in repo.get_labels()]
