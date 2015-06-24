@@ -4,37 +4,35 @@ This script manages labels for all repositories of an organization.
 """
 from __future__ import print_function
 from github import Github
+from labelsplone import FALLBACKCOLOR
+from labelsplone import GENERAL_LABELS
+from labelsplone import MIGRATIONS
+from labelsplone import SPECIAL_LABELS
 
 import argparse
 import re
 
+
 # the following map defines labels valid for the whole organization.
 # they will be added to every repository, color will be set (also updated)
-GENERAL_LABELS = {
-    # Pull Request Specific Labels
-    'pr wip': '0052cc',
-    'pr rebase': '207de5',
-    'pr review': 'fbca04',
-    'pr testing': 'eb6420',
-    'pr ok': '009800',
-    'pr orphaned': 'e11d21',
-    'pr p4.3': 'f7f7f7',
-    'pr p5.0': 'f7f7f7',
+# GENERAL_LABELS = {
+#    Pull Request Specific Labels
+#    'pr wip': '0052cc',
+# }
 
-    # issue specific labels
-}
 
 # special labels are labels specific to one or more repositories, but they
 # wont be added to all. This way we can change its color.
-SPECIAL_LABELS = {
-    'plog2014': 'f7f7f7',
-}
+# SPECIAL_LABELS = {
+
+#     # 'plog2014': 'f7f7f7',
+# }
 
 # Migration of labels. This updates name and color (taken from ALL_LABELS)
 # At the moment it fails if the target label already exists.
-MIGRATE = {
-    'Question': 'question',
-}
+# MIGRATIONS = {
+#     'Question': 'question',
+# }
 
 # rough validation
 assert not set(GENERAL_LABELS.keys()) & set(SPECIAL_LABELS.keys()), \
@@ -62,39 +60,50 @@ argparser.add_argument(
 )
 
 
-def _migrate_label(label, current_label_names, all_labels):
+def _migrate_label(repo, label, current_label_names, all_labels):
     """Either renames a label or if already exist it set the target on
     all issues and deletes the old label
 
     - given label is a valid key of MIGRATE
     """
-    if MIGRATE[label.name] in current_label_names:
-        # ok, target exists, so we have to fetch with this label
-        # and give it the new label, then delete the old label
+    for new_label in MIGRATIONS[label.name]:
+        if new_label in current_label_names:
+            # ok, target exists, so we have to fetch with this label
+            # and give it the new label, then delete the old label
 
-        # XXX: TODO: set new label to all issues with old label
-        print(
-            '-> migration for {0}" target {1} exists, delete!'.format(
-                label.name,
-                MIGRATE[label.name]
+            # set new label to all issues with old label
+            print(
+                '-> migration for {0}" but target {1} exists, rename'
+                'and remove old label'.format(
+                    label.name,
+                    MIGRATIONS[label.name]
+                )
             )
-        )
-        print('-> DELETE NOT FULLY IMPLEMENTED, SKIPPED!')
-        return
-        current_label_names.remove(label.name)
-        label.delete()
-    else:
+            for issue in repo.get_issues(state='all', labels=[label]):
+                issue.set_labels(
+                    ','.join(
+                        [_.name for _ in issue.labels if _ != label] +
+                        [new_label]
+                    )
+                )
+            current_label_names.remove(label.name)
+            label.delete()
+            continue
+
         print(
             '-> migrate {0} to {1}'.format(
                 label.name,
-                MIGRATE[label.name]
+                MIGRATIONS[label.name]
             )
         )
-        current_label_names.append(MIGRATE[label.name])
-        all_labels.update([MIGRATE[label.name]])
+        current_label_names.append(new_label)
+        all_labels.update(new_label)
         label.edit(
-            MIGRATE[label.name],
-            ALL_LABELS.get(MIGRATE[label.name], label.color)
+            new_label,
+            ALL_LABELS.get(
+                MIGRATIONS[label.name],
+                FALLBACKCOLOR
+            )
         )
         label.update()
 
@@ -137,8 +146,8 @@ def manage_labels():
             label_summary[clabel.name][repo.name] = clabel.color
 
             # migrate name
-            if clabel.name in MIGRATE:
-                _migrate_label(clabel, current_label_names, all_labels)
+            if clabel.name in MIGRATIONS:
+                _migrate_label(repo, clabel, current_label_names, all_labels)
                 continue
 
             # adjust color
@@ -153,7 +162,7 @@ def manage_labels():
                 clabel.edit(clabel.name, ALL_LABELS[clabel.name])
 
         # deal general labels: create missing
-        for label_name, color in GENERAL_LABELS.items():
+        for label_name, color in sorted(GENERAL_LABELS.items()):
             if label_name in current_label_names:
                 continue
             print('-> create label {0}'.format(label_name))
@@ -161,3 +170,5 @@ def manage_labels():
 
     if args.summary:
         _show_summary(label_summary)
+
+    print(sorted(all_labels, key=lambda v: v.upper()))

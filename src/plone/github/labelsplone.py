@@ -1,0 +1,186 @@
+# -*- coding: utf-8 -*-
+
+GENERAL_LABELS = {
+    '01 type: bug': 'f70000',
+    '02 type: regression': 'f39100',
+    '03 type: feature': '00c000',
+    '04 type: enhancement': 'f3f300',
+    '05 type: question': 'de00ed',
+    '11 prio: low': 'f4cccc',
+    '12 prio: normal':  'e06666',
+    '13 prio: high': 'cc0000',
+    '14 prio: blocker': '990000',
+    '20 state: confirmed':  'd9ead3',
+    '21 state: in-progress': 'b6d7a8',
+    '22 state: needs help': '93c47d',
+    '23 state: needs rebase': '93c47d',
+    '24 state: needs docs': '93c47d',
+    '25 state: needs review': '93c47d',
+    '26 state: testing': '6aa84f',
+    '27 state: ready':  '38761d',
+    '28 state: deferred':  '274e13',
+    '29 state: duplicate':  '666666',
+    '30 state: wontfix': '434343',
+    '31 state: invalid': '000000',
+    '40 lvl: easy': 'a4c2f4',
+    '41 lvl: moderate': '3c78d8',
+    '42 lvl: complex':  '1c4587',
+}
+
+FALLBACKCOLOR = 'f3f3f3'
+
+SPECIAL_LABELS = {}
+
+MIGRATIONS = {
+    '1.x': '!tag',
+    '2.x': '!tag',
+    '3.x': '!tag',
+    '4.3': '!tag',
+    '5.0': '!tag',
+    'Accessibility': 'tag: accessibility',
+    'Ansible': 'tag: ansible',
+    'area:accessibility': 'tag: accessibility',
+    'area:documentation': 'tag: documentation',
+    'area:plone.app.widgets': 'tag: plone.app.widgets',
+    'area:plone5': '@Plone 5.0',
+    'area:styles': 'tag: styles',
+    'Bug': '01 type: bug',
+    'bug': '01 type: bug',
+    'bundle:barceloneta': 'tag: bundle barceloneta',
+    'bundle:foldercontents': '!tag',
+    'bundle:toolbar': '!tag',
+    'bundle:widgets': '!tag',
+    'ci': '!tag',
+    'Cleanup needed': ('!tag', '22 state: needs help'),
+    'Confirmed': '20 state: confirmed',
+    'Content': '!tag',
+    'Contributor profile': '!tag',
+    'Dependencies': '!tag',
+    'Design': '!tag',
+    'developer': '!tag',
+    'Difficulty-Easy': '40 lvl: easy',
+    'Difficulty-Hard': '42 lvl: complex',
+    'Difficulty-Moderate': '41 lvl: moderate',
+    'documentation': '!tag',
+    'duplicate': '29 state: duplicate',
+    'Enhancement': '04 type: enhancement',
+    'enhancement': '04 type: enhancement',
+    'Feature': '03 type: feature',
+    'feature': '03 type: feature',
+    'feature request': '03 type: feature',
+    'Foundation Information': '!tag',
+    'help wanted': '22 state: needs help',
+    'HomePage': '!tag',
+    'hosting': '!tag',
+    'Important': '13 prio: high',
+    'important': '13 prio: high',
+    'imported': '!tag',
+    'imported from dev.plone.org': '!tag',
+    'in progress': '21 state: in-progress',
+    'invalid': '31 state: invalid',
+    'Jenkins Job Builder': '!tag',
+    'Jenkins VM donation': '!tag',
+    'migration': '!tag',
+    'missing': '!tag',
+    'Missing': '!tag',
+    'needs review': '25 state: needs review',
+    'OSX': '!tag',
+    'pattern:filemanager': '!tag',
+    'pattern:modal': '!tag',
+    'pattern:pickadate': '!tag',
+    'pattern:querystring': '!tag',
+    'pattern:relateditems': '!tag',
+    'pattern:resourceregistry': '!tag',
+    'pattern:select2': '!tag',
+    'pattern:structure': '!tag',
+    'pattern:thememapper': '!tag',
+    'PLIP': '03 type: feature',
+    'PLIP 10359: z3cform control panel':
+        ('03 type: feature', 'tag: PLIP 10359: z3cform control panel'),
+    'PLIP 13260: Remove CMF':
+        ('03 type: feature', 'tag: PLIP 13260: Remove CMF'),
+    'PLIP 13350: Edit Member Schema TTW':
+        ('03 type: feature', 'tag: PLIP 13350: Edit Member Schema TTW'),
+    'PLIP 13770: Portal Tools Removal':
+        ('03 type: feature', 'tag: PLIP 13770: Portal Tools Removal'),
+    'PLIP 13787 - Barceloneta / MainTemplate':
+        ('03 type: feature', 'tag: PLIP 13787 - Barceloneta / MainTemplate'),
+    'plog2014': '!tag',
+    'plone.app.blocks': '!tag',
+    'plone.app.standardtiles': '!tag',
+    'plone.app.tiles': '!tag',
+    'plone.tiles': '!tag',
+    'plone3': '!tag',
+    'plone4': '!tag',
+    'plone5': '!tag',
+    'pr 3.3': 'tag: Plone 3.3',
+    'pr ok': '27 state: ready',
+    'pr orphaned': '22 state: needs help',
+    'pr p4.3': '@plone 4.3',
+    'pr p5.0': '@plone 5.0',
+    'pr ready': '27 state: ready',
+    'pr rebase': '23 state: needs rebase',
+    'pr review': '25 state: needs review',
+    'pr testing': '26 state: testing',
+    'pr wip': '21 state: in-progress',
+    'prio:high': '13 prio: high',
+    'prio:low': '11 prio: low',
+    'prio:normal': '12 prio: normal',
+    'Priority-High': '13 prio: high',
+    'Priority-Low': '11 prio: low',
+    'Priority-Medium': '12 prio: normal',
+    'ready': '27 state: ready',
+    'regression': '02 type: regression',
+    'Regression': '02 type: regression',
+    'regression from atct': ('02 type: regression', 'tag: from atct'),
+    'release': 'tag: release',
+    'request for comments': '25 state: needs review',
+    'skunkworks': '!tag',
+    'sprint': 'tag: sprint',
+    'Sprint': 'tag: sprint',
+    'status:confirmed': '20 state: confirmed',
+    'status:deferred': '28 state: deferred',
+    'status:feedback-needed': '25 state: needs review',
+    'status:fix-committed': '27 state: ready',
+    'status:in-progress': '21 state: in-progress',
+    'status:rejected': '31 state: invalid',
+    'status:resolved': '27 state: ready',
+    'styleguide': '!tag',
+    'Testing': '26 state: testing',
+    'testing': '26 state: testing',
+    'Tests': '!tag',
+    'Theme': '!tag',
+    'todo': '04 type: enhancement',
+    'toolbar': '!tag',
+    'Type-Documentation': '24 state: needs docs',
+    'type:bug': '01 type: bug',
+    'type:feature': '03 type: feature',
+    'type:invalid': '31 state: invalid',
+    'unconfirmed': '25 state: needs review',
+    'UX Editor': '!tag',
+    'UX Integrator/Themer': '!tag',
+    'UX Site Admin': '!tag',
+    'widgets': '!tag',
+    'wineandbeersprint': '!tag',
+    'wontfix': '30 state: wontfix',
+}
+
+# make all tuples and expand !tag
+for key in MIGRATIONS:
+    value = MIGRATIONS[key]
+    if not isinstance(value, tuple):
+        value = (value,)
+    expanded = []
+    for entry in value:
+        if entry == '!tag':
+            expanded.append('90 tag: {0}'.format(key))
+        elif entry in GENERAL_LABELS:
+            expanded.append(entry)
+        elif entry.startswith('tag: '):
+            expanded.append('90 ' + entry)
+        elif entry.startswith('@'):
+            # handle milestones
+            pass
+        else:
+            raise ValueError((key, entry))
+    MIGRATIONS[key] = tuple(expanded)
