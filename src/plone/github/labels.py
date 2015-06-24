@@ -7,6 +7,7 @@ from github import Github
 from labelsplone import FALLBACKCOLOR
 from labelsplone import GENERAL_LABELS
 from labelsplone import MIGRATIONS
+from labelsplone import MILESTONES
 from labelsplone import SPECIAL_LABELS
 
 import argparse
@@ -136,6 +137,10 @@ def manage_labels():
                 gh.rate_limiting[1]
             )
         )
+        # milestones
+        print(MILESTONES)
+
+        # labels
         current_labels = [_ for _ in repo.get_labels()]
         current_label_names = [_.name for _ in current_labels]
         all_labels.update(current_label_names)
