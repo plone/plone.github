@@ -109,6 +109,17 @@ def _migrate_label(repo, label, current_label_names, all_labels):
         label.update()
 
 
+def _handle_milstones(repo):
+    # milestones
+    current_milestones = set()
+    for ms in repo.get_milestones():
+        current_milestones.update([ms.title])
+    for new_milestone in MILESTONES:
+        if new_milestone not in current_milestones:
+            repo.create_milestone(title=new_milestone)
+            print('-> create milestone: "{0}"'.format(new_milestone))
+
+
 def _show_summary(label_summary):
     print('-' * 47)
     print('Overall label summary with colors')
@@ -137,14 +148,8 @@ def manage_labels():
                 gh.rate_limiting[1]
             )
         )
-        # milestones
-        current_milestones = set()
-        for ms in repo.get_milestones():
-            current_milestones.update([ms.title])
-        for new_milestone in MILESTONES:
-            if new_milestone not in current_milestones:
-                repo.create_milestone(title=new_milestone)
-                print('-> create milestone: "{0}"'.format(new_milestone))
+
+        _handle_milstones(repo)
 
         # labels
         current_labels = [_ for _ in repo.get_labels()]
