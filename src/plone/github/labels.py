@@ -5,6 +5,7 @@ This script manages labels for all repositories of an organization.
 from __future__ import print_function
 from definitions import CFG
 from github import Github
+from github.GithubException import GithubException
 
 import argparse
 import re
@@ -70,7 +71,8 @@ def _migrate_label(repo, label, current_label_names, all_labels):
 
     - given label is a valid key of MIGRATE
     """
-    for new_label in CFG['MIGRATIONS'][label.name]:
+    label_name = label.name  # may chnage otherwise while migration
+    for new_label in CFG['MIGRATIONS'][label_name]:
         if new_label in current_label_names:
             # ok, target exists, so we have to fetch with this label
             # and give it the new label, then delete the old label
@@ -80,7 +82,7 @@ def _migrate_label(repo, label, current_label_names, all_labels):
                 '-> migration for {0}" but target {1} exists, rename'
                 'and remove old label'.format(
                     label.name,
-                    CFG['MIGRATIONS'][label.name]
+                    CFG['MIGRATIONS'][label_name]
                 )
             )
             for issue in repo.get_issues(state='all', labels=[label]):
@@ -88,25 +90,27 @@ def _migrate_label(repo, label, current_label_names, all_labels):
                     *[_.name for _ in issue.labels if _ != label] +
                     [new_label]
                 )
-            current_label_names.remove(label.name)
+            current_label_names.remove(label_name)
             label.delete()
             continue
-
         print(
             '-> migrate {0} to {1}'.format(
-                label.name,
-                CFG['MIGRATIONS'][label.name]
+                label_name,
+                CFG['MIGRATIONS'][label_name]
             )
         )
         current_label_names.append(new_label)
         all_labels.update(new_label)
-        label.edit(
-            new_label,
-            ALL_LABELS.get(
-                CFG['MIGRATIONS'][label.name],
-                CFG['FALLBACKCOLOR']
+        try:
+            label.edit(
+                new_label,
+                ALL_LABELS.get(
+                    CFG['MIGRATIONS'][label_name],
+                    CFG['FALLBACKCOLOR']
+                )
             )
-        )
+        except:
+            print('   failed... :(')
         label.update()
 
 
@@ -115,11 +119,14 @@ def _handle_milstones(repo):
     current_milestones = set()
     for ms in repo.get_milestones():
         current_milestones.update([ms.title.lower()])
-    print(current_milestones)
     for new_milestone in CFG['MILESTONES']:
         if new_milestone.lower() not in current_milestones:
             print('-> create milestone: "{0}"'.format(new_milestone))
-            repo.create_milestone(title=new_milestone)
+            try:
+                repo.create_milestone(title=new_milestone)
+            except GithubException:
+                # XXX
+                print('   milestone closed')
 
 
 def _show_summary(label_summary):
@@ -165,6 +172,7 @@ def manage_labels():
         current_label_names = [_.name for _ in current_labels]
         all_labels.update(current_label_names)
         for clabel in current_labels:
+            clabel_name = clabel.name
             # collect summary
             if clabel.name not in label_summary:
                 label_summary[clabel.name] = {}
@@ -175,15 +183,15 @@ def manage_labels():
                 _migrate_label(repo, clabel, current_label_names, all_labels)
 
             # adjust color
-            if clabel.name in ALL_LABELS \
-               and clabel.color != ALL_LABELS[clabel.name]:
+            if clabel_name in ALL_LABELS \
+               and clabel.color != ALL_LABELS[clabel_name]:
                 print(
                     '-> update color of {0} to {1}'.format(
                         clabel.name,
-                        ALL_LABELS[clabel.name]
+                        ALL_LABELS[clabel_name]
                     )
                 )
-                clabel.edit(clabel.name, ALL_LABELS[clabel.name])
+                clabel.edit(clabel_name, ALL_LABELS[clabel_name])
 
         # deal general labels: create missing
         for label_name, color in sorted(CFG['GENERAL_LABELS'].items()):
@@ -191,7 +199,6 @@ def manage_labels():
                 continue
             print('-> create label {0}'.format(label_name))
             repo.create_label(label_name, color)
-    import pdb; pdb.set_trace()
     print("skipped: {0}".format(', '.join(sorted(skipped))))
 
     if args.summary:
