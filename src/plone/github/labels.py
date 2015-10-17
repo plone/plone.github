@@ -3,11 +3,7 @@
 This script manages labels for all repositories of an organization.
 """
 from __future__ import print_function
-from definitions import FALLBACKCOLOR
-from definitions import GENERAL_LABELS
-from definitions import MIGRATIONS
-from definitions import MILESTONES
-from definitions import SPECIAL_LABELS
+from definitions import CFG
 from github import Github
 
 import argparse
@@ -36,11 +32,14 @@ import re
 # }
 
 # rough validation
-assert not set(GENERAL_LABELS.keys()) & set(SPECIAL_LABELS.keys()), \
-    'general and special labels must not overlap'
-
+# assert(
+#     not set(['GENERAL_LABELS'].keys()) & set(CFG['SPECIAL_LABELS'].keys()),
+#     'general and special labels must not overlap'
+# )
 # for simplification of color picking
-ALL_LABELS = dict(GENERAL_LABELS.items() + SPECIAL_LABELS.items())
+ALL_LABELS = dict(
+    CFG['GENERAL_LABELS'].items() + CFG['SPECIAL_LABELS'].items()
+)
 
 # define command line arguments
 argparser = argparse.ArgumentParser()
@@ -59,6 +58,10 @@ argparser.add_argument(
     type=int,
     help='Limit the number of repos fetched, for debugging'
 )
+argparser.add_argument(
+    '--repo',
+    help='Repository to match'
+)
 
 
 def _migrate_label(repo, label, current_label_names, all_labels):
@@ -67,7 +70,7 @@ def _migrate_label(repo, label, current_label_names, all_labels):
 
     - given label is a valid key of MIGRATE
     """
-    for new_label in MIGRATIONS[label.name]:
+    for new_label in CFG['MIGRATIONS'][label.name]:
         if new_label in current_label_names:
             # ok, target exists, so we have to fetch with this label
             # and give it the new label, then delete the old label
@@ -77,15 +80,13 @@ def _migrate_label(repo, label, current_label_names, all_labels):
                 '-> migration for {0}" but target {1} exists, rename'
                 'and remove old label'.format(
                     label.name,
-                    MIGRATIONS[label.name]
+                    CFG['MIGRATIONS'][label.name]
                 )
             )
             for issue in repo.get_issues(state='all', labels=[label]):
                 issue.set_labels(
-                    ','.join(
-                        [_.name for _ in issue.labels if _ != label] +
-                        [new_label]
-                    )
+                    *[_.name for _ in issue.labels if _ != label] +
+                    [new_label]
                 )
             current_label_names.remove(label.name)
             label.delete()
@@ -94,7 +95,7 @@ def _migrate_label(repo, label, current_label_names, all_labels):
         print(
             '-> migrate {0} to {1}'.format(
                 label.name,
-                MIGRATIONS[label.name]
+                CFG['MIGRATIONS'][label.name]
             )
         )
         current_label_names.append(new_label)
@@ -102,8 +103,8 @@ def _migrate_label(repo, label, current_label_names, all_labels):
         label.edit(
             new_label,
             ALL_LABELS.get(
-                MIGRATIONS[label.name],
-                FALLBACKCOLOR
+                CFG['MIGRATIONS'][label.name],
+                CFG['FALLBACKCOLOR']
             )
         )
         label.update()
@@ -113,11 +114,12 @@ def _handle_milstones(repo):
     # milestones
     current_milestones = set()
     for ms in repo.get_milestones():
-        current_milestones.update([ms.title])
-    for new_milestone in MILESTONES:
-        if new_milestone not in current_milestones:
-            repo.create_milestone(title=new_milestone)
+        current_milestones.update([ms.title.lower()])
+    print(current_milestones)
+    for new_milestone in CFG['MILESTONES']:
+        if new_milestone.lower() not in current_milestones:
             print('-> create milestone: "{0}"'.format(new_milestone))
+            repo.create_milestone(title=new_milestone)
 
 
 def _show_summary(label_summary):
@@ -137,7 +139,14 @@ def manage_labels():
     organization = gh.get_organization('plone')
     all_labels = set()
     label_summary = {}
+    skipped = []
     for idx, repo in enumerate(organization.get_repos()):
+        if (
+            (args.repo and args.repo != repo.name)
+            or repo.name not in CFG['PACKAGE_WHITELIST']
+        ):
+            skipped.append(repo.name)
+            continue
         if args.debug_limit and idx+1 > args.debug_limit:
             break
         print(
@@ -162,9 +171,8 @@ def manage_labels():
             label_summary[clabel.name][repo.name] = clabel.color
 
             # migrate name
-            if clabel.name in MIGRATIONS:
+            if clabel.name in CFG['MIGRATIONS']:
                 _migrate_label(repo, clabel, current_label_names, all_labels)
-                continue
 
             # adjust color
             if clabel.name in ALL_LABELS \
@@ -178,11 +186,13 @@ def manage_labels():
                 clabel.edit(clabel.name, ALL_LABELS[clabel.name])
 
         # deal general labels: create missing
-        for label_name, color in sorted(GENERAL_LABELS.items()):
+        for label_name, color in sorted(CFG['GENERAL_LABELS'].items()):
             if label_name in current_label_names:
                 continue
             print('-> create label {0}'.format(label_name))
             repo.create_label(label_name, color)
+    import pdb; pdb.set_trace()
+    print("skipped: {0}".format(', '.join(sorted(skipped))))
 
     if args.summary:
         _show_summary(label_summary)
