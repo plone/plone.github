@@ -1,10 +1,12 @@
 {
-    "PACKAGE_WHITELIST": [
+    "ORGANISATION": "plone",
+    "REPOSITORIES": [
         "archetypes.multilingual",
         "archetypes.querywidget",
         "archetypes.referencebrowserwidget",
         "archetypes.schemaextender",
         "borg.localrole",
+        "buildout.coredev",
         "collective.monkeypatcher",
         "diazo",
         "mockup",
@@ -146,7 +148,18 @@
         "Products.TinyMCE",
         "Products.validation",
         "txtfilter",
-        "wicked"
+        "wicked",
+        "__BELOW HERE NON COREDEV BUILDOUT__",
+        "ansible.plone_server",
+        "bobtemplates.plone",
+        "papyrus",
+        "plone.app.ldap",
+        "plone.app.mosaic",
+        "plone.app.workflowmanager",
+        "plone.documentation",
+        "plone.github",
+        "plone.recipe.codeanalysis",
+        "plone.training"
     ],
     "MILESTONES": [
         "Plone 4.3",
@@ -157,32 +170,32 @@
     ],
 
     "GENERAL_LABELS": {
-        "01 type: bug": "f70000",
-        "02 type: regression": "f39100",
-        "03 type: feature": "00c000",
-        "04 type: enhancement": "f3f300",
-        "05 type: question": "de00ed",
+        "01 type: bug": "fa0000",
+        "02 type: regression": "ff9900",
+        "03 type: feature": "0000fa",
+        "04 type: enhancement": "00fa00",
+        "05 type: question": "fa00fa",
 
         "11 prio: blocker": "990000",
         "12 prio: high": "cc0000",
         "13 prio: normal":  "e06666",
         "14 prio: low": "f4cccc",
 
-        "21 status: confirmed":  "005000",
-        "22 status: in-progress": "005000",
-        "23 status: testing": "005000",
-        "24 status: ready":  "005000",
-        "25 status: deferred":  "005000",
+        "21 status: confirmed":  "fafa00",
+        "22 status: in-progress": "fafa00",
+        "23 status: testing": "fafa00",
+        "24 status: ready":  "fafa00",
+        "25 status: deferred":  "fafa00",
 
-        "31 needs: help": "00e6e6",
-        "32 needs: review": "00e6e6",
-        "33 needs: docs": "00e6e6",
-        "34 needs: tests": "00e6e6",
-        "35 needs: rebase": "00e6e6",
+        "31 needs: help": "00fafa",
+        "32 needs: review": "00fafa",
+        "33 needs: docs": "00fafa",
+        "34 needs: tests": "00fafa",
+        "35 needs: rebase": "00fafa",
 
-        "41 lvl: easy": "3c78d8",
-        "42 lvl: moderate": "3c78d8",
-        "43 lvl: complex":  "3c78d8"
+        "41 lvl: easy": "6aa84f",
+        "42 lvl: moderate": "38761d",
+        "43 lvl: complex": "274e13"
     },
 
     "FALLBACKCOLOR": "f3f3f3",
@@ -208,7 +221,6 @@
         "bundle:foldercontents": "!tag",
         "bundle:toolbar": "!tag",
         "bundle:widgets": "!tag",
-        "ci": "!tag",
         "Cleanup needed": ["!tag", "31 needs: help"],
         "Confirmed": "21 status: confirmed",
         "Content": "!tag",
@@ -241,6 +253,7 @@
         "migration": "!tag",
         "missing": "!tag",
         "Missing": "!tag",
+        "new feature": "03 type: feature",
         "needs review": "32 needs: review",
         "OSX": "!tag",
         "pattern:filemanager": "!tag",
@@ -291,7 +304,7 @@
         "regression": "02 type: regression",
         "Regression": "02 type: regression",
         "regression from atct": ["02 type: regression", "tag: from atct"],
-        "release": "tag: release",
+        "release": "!tag",
         "request for comments": "32 needs: review",
         "skunkworks": "!tag",
         "sprint": "tag: sprint",
@@ -320,7 +333,9 @@
         "UX Site Admin": "!tag",
         "widgets": "!tag",
         "wineandbeersprint": "!tag",
-        "wontfix": "!tag"
+        "wontfix": "!tag",
+        "question": "05 type: question",
+        "ci": ["34 needs: tests", "tag: CI"]
     }
 
 }

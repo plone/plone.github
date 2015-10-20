@@ -143,14 +143,14 @@ def _show_summary(label_summary):
 def manage_labels():
     args = argparser.parse_args()
     gh = Github(args.token)
-    organization = gh.get_organization('plone')
+    organization = gh.get_organization(CFG['ORGANIZATION'])
     all_labels = set()
     label_summary = {}
     skipped = []
     for idx, repo in enumerate(organization.get_repos()):
         if (
             (args.repo and args.repo != repo.name)
-            or repo.name not in CFG['PACKAGE_WHITELIST']
+            or repo.name not in CFG['REPOSITORIES']
         ):
             skipped.append(repo.name)
             continue
@@ -186,8 +186,8 @@ def manage_labels():
             if clabel_name in ALL_LABELS \
                and clabel.color != ALL_LABELS[clabel_name]:
                 print(
-                    '-> update color of {0} to {1}'.format(
-                        clabel.name,
+                    '-> update color of "{0}" to "{1}"'.format(
+                        clabel_name,
                         ALL_LABELS[clabel_name]
                     )
                 )
@@ -203,5 +203,3 @@ def manage_labels():
 
     if args.summary:
         _show_summary(label_summary)
-
-    print(sorted(all_labels, key=lambda v: v.upper()))
