@@ -60,8 +60,10 @@ argparser.add_argument(
     help='Limit the number of repos fetched, for debugging'
 )
 argparser.add_argument(
-    '--repo',
-    help='Repository to match'
+    'repos',
+    default=[],
+    nargs='*',
+    help='Repositories to match'
 )
 
 
@@ -149,10 +151,18 @@ def manage_labels():
     skipped = []
     for idx, repo in enumerate(organization.get_repos()):
         if (
-            (args.repo and args.repo != repo.name)
-            or repo.name not in CFG['REPOSITORIES']
+            (args.repos and repo.name not in args.repos) or
+            repo.name not in CFG['REPOSITORIES']
         ):
             skipped.append(repo.name)
+            print(
+                'skip #{0} {1} (limit at {2} of {3})'.format(
+                    idx+1,
+                    repo.name,
+                    gh.rate_limiting[0],
+                    gh.rate_limiting[1]
+                )
+            )
             continue
         if args.debug_limit and idx+1 > args.debug_limit:
             break
@@ -172,7 +182,6 @@ def manage_labels():
         current_label_names = [_.name for _ in current_labels]
         all_labels.update(current_label_names)
         for clabel in current_labels:
-            clabel_name = clabel.name
             # collect summary
             if clabel.name not in label_summary:
                 label_summary[clabel.name] = {}
@@ -183,15 +192,15 @@ def manage_labels():
                 _migrate_label(repo, clabel, current_label_names, all_labels)
 
             # adjust color
-            if clabel_name in ALL_LABELS \
-               and clabel.color != ALL_LABELS[clabel_name]:
+            if clabel.name in ALL_LABELS \
+               and clabel.color != ALL_LABELS[clabel.name]:
                 print(
                     '-> update color of "{0}" to "{1}"'.format(
-                        clabel_name,
-                        ALL_LABELS[clabel_name]
+                        clabel.name,
+                        ALL_LABELS[clabel.name]
                     )
                 )
-                clabel.edit(clabel_name, ALL_LABELS[clabel_name])
+                clabel.edit(clabel.name, ALL_LABELS[clabel.name])
 
         # deal general labels: create missing
         for label_name, color in sorted(CFG['GENERAL_LABELS'].items()):

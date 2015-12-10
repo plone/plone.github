@@ -21,6 +21,8 @@ for key in CFG['MIGRATIONS']:
             expanded.append('tag: {0}'.format(key))
         elif entry.startswith('tag: '):
             expanded.append('99 ' + entry)
+        elif entry.startswith('99 tag: '):
+            expanded.append(entry)
         elif entry.startswith('@'):
             # handle milestones
             pass
