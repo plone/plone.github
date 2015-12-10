@@ -161,7 +161,7 @@
         "bobtemplates.plone",
         "mr.gutenberg",
         "papyrus",
-        "plone.documentation",
+        "documentation",
         "plone.github",
         "training",
         "training.plone.org",
