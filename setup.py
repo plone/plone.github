@@ -3,7 +3,7 @@ from setuptools import find_packages
 from setuptools import setup
 import os
 
-version = '1.0.dev0'
+version = '1.0dev0'
 shortdesc = 'Github Organization Information and Management Tools'
 longdesc = open(os.path.join(os.path.dirname(__file__), 'README.rst')).read()
 longdesc = open(os.path.join(os.path.dirname(__file__), 'CHANGES.rst')).read()
