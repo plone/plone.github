@@ -118,7 +118,7 @@ def _show_summary(label_summary):
             print(repo.ljust(40, '.'), color)
 
 
-def manage_labels():
+def manage_labels():  # NOQA: C901
     args = argparser.parse_args()
     cfg = load_definitions(args.configuration)
     gh = Github(args.token)
