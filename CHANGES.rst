@@ -7,3 +7,5 @@ Changes
 
 - initial package
 
+- Document Usage
+  [loechel]
