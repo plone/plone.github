@@ -205,7 +205,14 @@
             "Products.MasterSelectWidget",
             "Products.Relations",
 
+            "__ploneorg packages__",
+            "ploneorg.core",
+            "ploneorg.theme",
+            "ploneorg.addonlisting",
+            "ploneorg.releasesecurityinfo",
+
             "__other__"
+
         ]
     },
 
