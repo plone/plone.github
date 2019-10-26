@@ -2,8 +2,7 @@
 """
 This script manages labels for all repositories of an organization.
 """
-from __future__ import print_function
-from definitions import load_definitions
+from .definitions import load_definitions
 from github import Github
 from github.GithubException import GithubException
 
@@ -45,7 +44,7 @@ def _migrate_label(cfg, repo, label, current_label_names, new_labels):
 
             # set new label to all issues with old label
             print(
-                '-> migration for {0}" but target {1} exists, rename'
+                '-> migration for {0}" but target {1} exists, rename '
                 "and remove old label".format(label.name, cfg["MIGRATIONS"][old_label])
             )
             for issue in repo.get_issues(state="all", labels=[label]):
@@ -83,12 +82,15 @@ def _handle_milstones(cfg, repo):
                 print("   milestone already closed, do nothing")
 
 
-def _show_summary(label_summary):
+def _show_summary(label_summary, cfg):
     print("-" * 47)
     print("Overall label summary with colors")
     print("-" * 47)
     for label_name, label_repo_colors in sorted(label_summary.items()):
         print("\n[{0}]".format(label_name))
+        if label_name in cfg["MIGRATIONS"]:
+            print("- migrated")
+            continue
         for repo, color in sorted(label_repo_colors.items()):
             r, g, b = [int(_, 16) for _ in re.findall("..", color)]
             print(repo.ljust(40, "."), color)
@@ -115,6 +117,17 @@ def manage_labels():  # NOQA: C901
                     reason = "by arg"
                 print(
                     "skip #{0} {1} {2} (limit at {3} of {4})".format(
+                        idx + 1,
+                        reason,
+                        repo.name,
+                        gh.rate_limiting[0],
+                        gh.rate_limiting[1],
+                    )
+                )
+                continue
+            if repo.archived:
+                print(
+                    "ignore archived #{0} {1} {2} (limit at {3} of {4})".format(
                         idx + 1,
                         reason,
                         repo.name,
@@ -169,4 +182,4 @@ def manage_labels():  # NOQA: C901
     print("skipped: {0}".format(", ".join(sorted(skipped))))
 
     if args.summary:
-        _show_summary(label_summary)
+        _show_summary(label_summary, cfg)
