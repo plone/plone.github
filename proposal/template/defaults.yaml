@@ -1,0 +1,19 @@
+pdf-engine: xelatex
+from: markdown+raw_tex
+include-in-header:
+  - proposal/template/header.tex
+toc: false
+number-sections: true
+variables:
+  documentclass: article
+  classoption: [titlepage, a4paper]
+  mainfont: Lato
+  monofont: DejaVu Sans Mono
+  monofontoptions: Scale=0.86
+  fontsize: 11pt
+  geometry: margin=25mm
+  colorlinks: true
+  linkcolor: accent
+  urlcolor: accent
+  toccolor: accent
+  lang: en-US
