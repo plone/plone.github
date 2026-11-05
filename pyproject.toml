@@ -1,0 +1,12 @@
+[project]
+name = "plone-github-proposal"
+version = "2026.11"
+description = "Proposal and definitions for how Plone repositories on GitHub handle issues and labels"
+requires-python = ">=3.12"
+dependencies = []
+
+[dependency-groups]
+dev = ["pytest>=8", "pyyaml>=6"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

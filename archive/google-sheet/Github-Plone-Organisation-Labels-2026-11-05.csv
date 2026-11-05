@@ -1,0 +1,38 @@
+Color,Label,Description,,Color,Label,Description
+,01 type: bug,something does not work,,,21 status: confirmed,issue was read and got confirmed
+,02 type: regression,missing stuff from former version,,,22 status: in-progress,somebody works on that issue
+,03 type: feature (plip),really new stuff or major change,,,23 status: testing,"for this PR a PR test or similar is running, waiting for results"
+,04 type: enhancement,making existing stuff better,,,24 status: ready,"for a PR it means, tests passing, merge me asap"
+,05 type: question,discussing,,,25 status: deferred,work on issue is scheduled for future
+,06 type: accessibility,proposed! ,,,,
+,,,,,31 needs: help,anybody: please help with this issue
+,11 prio: blocker,need to be fixed immediatly,,,32 needs: review,"this issue needs review, mostly PRs"
+,12 prio: high,High priority,,,33 needs: docs,this issue implies missing documentation
+,13 prio: normal,Normal priority,,,34 needs: tests,this issue implies missing tests
+,14 prio: low,Low priority,,,35 needs: rebase,this PR needs a rebase
+,,,,,36 needs: cla,submitter has not signed the contributor license agreement
+,41 lvl: easy,beginner skills needed,,,37 needs: release,"a release is needed
+"
+,42 lvl: moderate,fair insight  needed,,,,
+,43 lvl: complex,for wizards,,,51: target: patch,release target is a patch release with a bugfix (see http://semver.org)
+,,,,,52: target: minor,release target is a minor release with a new feature (see http://semver.org)
+,,,,,53: target: major,release target is a major release with breaking changes (see http://semver.org)
+,,,,,,
+,,,,,99 tag: {others},free form labels
+,,,,,,
+Explanation:,,,,,,
+,"number-prefix
+","we need this to have a sanely sorted list of the issues in github, the widgets sorts them alphabetically. otherwise selecting them is a large headache",,,,
+,group-prefix,"it makes things more clear to prefix
+",,,,
+,color,"while the main types should be easily to differenciate, the other groups are base color plus gradient",,,,
+,open/closed,"is handled by github already!
+",,,,
+,"the tag: thing
+","we have a bunch of custom tags around, and this makes sense. they get their own namespace and can be labled free after the prefix",,,,
+,issue vs. Pull Request,"Dont make a difference here, Github does it already. A PR is usally a 01-04. ",,,,
+,state vs. status,For the non-native-english folks: http://english.stackexchange.com/questions/12958/status-vs-state,,,,
+,,,,,,
+"How to get this on all issue trackers?
+",,,,,,
+There is already a script that takes care (plone.github). Also migration form old labels to new labels happens automatically. For new repositories the script just need to be re-run. Github-API FTW!,,,,,,
