@@ -1,0 +1,21 @@
+digraph triage {
+  rankdir=LR; splines=ortho; nodesep=0.35; ranksep=0.55; bgcolor="transparent";
+  node [shape=box, style="rounded,filled", fillcolor="#F3F6FA", color="#1F4E79", fontname="Lato", fontsize=11, margin="0.18,0.10"];
+  edge [color="#1F4E79", fontname="Lato", fontsize=9, arrowsize=0.7];
+
+  new    [label="New issue\nvia the form"];
+  auto   [label="Type set by the form\nlabel: needs: triage", fillcolor="#E4ECF5"];
+  look   [label="First look by\nwhoever triages", shape=diamond, style="filled", fillcolor="#FFFFFF", height=1.0];
+  disc   [label="Convert to a Discussion\nor point to community.plone.org"];
+  close  [label="Close with a reason\nduplicate / not planned"];
+  info   [label="needs: info with a comment\nreporter has 30 days"];
+  accept [label="Accepted: remove needs: triage\noptionally Priority field, blocker,\nconcern label, milestone, board", fillcolor="#E4ECF5"];
+  work   [label="Work: assignee, draft PR,\nchecks, review, merge"];
+  done   [label="Closed as completed", fillcolor="#E4ECF5"];
+
+  new -> auto -> look;
+  look -> disc; look -> close; look -> info; look -> accept;
+  info -> look [xlabel="reply", style=dashed];
+  info -> close [xlabel="silence", style=dashed];
+  accept -> work -> done;
+}

@@ -1,0 +1,39 @@
+digraph thennow {
+  rankdir=LR; nodesep=0.22; ranksep=1.4; bgcolor="transparent"; splines=true;
+  node [shape=box, style="rounded,filled", fontname="Lato", fontsize=10, margin="0.15,0.08", color="#1F4E79"];
+  edge [color="#8FA7C2", arrowsize=0.6];
+
+  subgraph cluster_then {
+    label="2015: 27 numbered labels"; fontname="Lato"; fontsize=12; color="#B0BEC5"; style="rounded";
+    node [fillcolor="#F7F7F7"];
+    t_type   [label="01-05 type:\nbug, regression, feature (plip),\nenhancement, question"];
+    t_prio   [label="11-14 prio:\nblocker, high, normal, low"];
+    t_status [label="21-25 status:\nconfirmed, in-progress, testing,\nready, deferred"];
+    t_needs  [label="31-37 needs:\nhelp, review, docs, tests,\nrebase, cla, release"];
+    t_lvl    [label="41-43 lvl:\neasy, moderate, complex"];
+    t_target [label="51-53 target:\npatch, minor, major"];
+    t_tag    [label="99 tag: ...\nfree form"];
+  }
+
+  subgraph cluster_now {
+    label="2026: GitHub features and eight labels"; fontname="Lato"; fontsize=12; color="#1F4E79"; style="rounded";
+    node [fillcolor="#E4ECF5"];
+    n_types  [label="Issue types\nBug, Feature, Task, PLIP"];
+    n_fields [label="Issue fields\nPriority, Effort"];
+    n_disc   [label="Discussions /\ncommunity.plone.org"];
+    n_pr     [label="Draft PRs, checks,\nreview requests, auto-merge"];
+    n_mile   [label="Milestones +\ntowncrier fragments"];
+    n_close  [label="Close reasons\ncompleted, not planned, duplicate"];
+    n_proj   [label="Project boards\n(Status field)"];
+    n_labels [label="Eight labels\nneeds: triage, needs: info, blocker,\nhelp wanted, good first issue,\naccessibility, i18n, documentation", fillcolor="#FFFFFF"];
+    n_local  [label="Repo-local labels\n(each team's own)"];
+  }
+
+  t_type -> n_types; t_type -> n_disc;
+  t_prio -> n_fields; t_prio -> n_labels;
+  t_status -> n_pr; t_status -> n_proj; t_status -> n_close; t_status -> n_labels;
+  t_needs -> n_labels; t_needs -> n_pr;
+  t_lvl -> n_labels; t_lvl -> n_fields;
+  t_target -> n_mile;
+  t_tag -> n_local; t_tag -> n_labels; t_tag -> n_close; t_tag -> n_mile;
+}
