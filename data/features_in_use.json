@@ -1,0 +1,46 @@
+{
+ "issue_types": [
+  "Task",
+  "Bug",
+  "Feature",
+  "PLIP"
+ ],
+ "typed_open_issues": 223,
+ "typed_since_2025_06": 172,
+ "issues_since_2025_06": 1282,
+ "projects_total": 68,
+ "projects_open": 46,
+ "projects_public": 34,
+ "discussions_enabled": {
+  "volto": false,
+  "aurora": false,
+  "Products.CMFPlone": false,
+  "plone.restapi": false,
+  "documentation": false,
+  "mockup": false
+ },
+ "open_draft_prs": 138,
+ "open_automerge_prs": 0,
+ "open_regressions": 42,
+ "open_good_first_issue_exact": 0,
+ "open_help_wanted_exact": 1,
+ "issue_fields": [
+  {
+   "name": "Effort",
+   "visibility": "organization_members_only"
+  },
+  {
+   "name": "Priority",
+   "visibility": "organization_members_only"
+  },
+  {
+   "name": "Start date",
+   "visibility": "organization_members_only"
+  },
+  {
+   "name": "Target date",
+   "visibility": "organization_members_only"
+  }
+ ],
+ "blank_issues_enabled": true
+}

@@ -1,0 +1,195 @@
+label,repo_count,created_since_2025,open_issues,open_prs,all_issues,all_prs,repos
+dependencies,149,1927,2,135,3,2405,Installers-UnifiedInstaller; Products.CMFDiffTool; Products.CMFDynamicViewFTI; Products.CMFEditions; Products.CMFPlacefulWorkflow; Products.CMFPlone; Products.ExtendedPathIndex; Products.MimetypesRegistry; Products.PlonePAS; Products.PortalTransforms; Products.isurlinportal; Products.statusmessages; Products.validation; borg.localrole; buildout.coredev; collective.monkeypatcher; container-backend; container-nick; cookieplone; cookieplone-templates; diazo; docs-guide; documentation; executioner; five.intid; guillotina; jenkins.plone.org; meta; mockup; mr.roboto; nick; pastanaga-angular; pastanaga-icons; plone-client; plone-sphinx-theme; plone.alterego; plone.api; plone.app.blocks; plone.app.caching; plone.app.content; plone.app.contentlisting; plone.app.contentmenu; plone.app.contentrules; plone.app.contenttypes; plone.app.customerize; plone.app.debugtoolbar; plone.app.dexterity; plone.app.discussion; plone.app.drafts; plone.app.event; plone.app.i18n; plone.app.intid; plone.app.iterate; plone.app.layout; plone.app.ldap; plone.app.linkintegrity; plone.app.lockingbehavior; plone.app.mosaic; plone.app.multilingual; plone.app.portlets; plone.app.querystring; plone.app.redirector; plone.app.registry; plone.app.relationfield; plone.app.robotframework; plone.app.standardtiles; plone.app.testing; plone.app.textfield; plone.app.theming; plone.app.tiles; plone.app.upgrade; plone.app.users; plone.app.uuid; plone.app.versioningbehavior; plone.app.viewletmanager; plone.app.vocabularies; plone.app.widgets; plone.app.workflow; plone.app.workflowmanager; plone.app.z3cform; plone.autoform; plone.autoinclude; plone.base; plone.batching; plone.behavior; plone.browserlayer; plone.cachepurging; plone.caching; plone.classicui; plone.contentrules; plone.dexterity; plone.distribution; plone.event; plone.exportimport; plone.folder; plone.formwidget.autocomplete; plone.formwidget.namedfile; plone.formwidget.recaptcha; plone.formwidget.recurrence; plone.gallery; plone.i18n; plone.indexer; plone.intelligenttext; plone.jsonserializer; plone.keyring; plone.locking; plone.memoize; plone.namedfile; plone.observability; plone.outputfilters; plone.patternslib; plone.portlet.collection; plone.portlet.static; plone.portlets; plone.protect; plone.recipe.codeanalysis; plone.recipe.zeoserver; plone.recipe.zope2instance; plone.registry; plone.releaser; plone.reload; plone.resource; plone.resourceeditor; plone.rest; plone.restapi; plone.restapi-angular; plone.rfc822; plone.scale; plone.schema; plone.schemaeditor; plone.session; plone.staticresources; plone.stringinterp; plone.subrequest; plone.supermodel; plone.testing; plone.theme; plone.tiles; plone.transformchain; plone.uuid; plone.volto; plonecli; ploneorg.core; plonetheme.barceloneta; pytest-plone; repoplone; training; volto; volto-reference-backend
+github_actions,129,1609,0,90,0,1609,Products.CMFDiffTool; Products.CMFDynamicViewFTI; Products.CMFEditions; Products.CMFPlacefulWorkflow; Products.CMFPlone; Products.ExtendedPathIndex; Products.MimetypesRegistry; Products.PlonePAS; Products.PortalTransforms; Products.isurlinportal; Products.statusmessages; Products.validation; borg.localrole; collective.monkeypatcher; container-backend; container-nick; cookieplone; cookieplone-templates; diazo; documentation; five.intid; meta; mr.roboto; plone-client; plone-sphinx-theme; plone.alterego; plone.api; plone.app.blocks; plone.app.caching; plone.app.content; plone.app.contentlisting; plone.app.contentmenu; plone.app.contentrules; plone.app.contenttypes; plone.app.customerize; plone.app.debugtoolbar; plone.app.dexterity; plone.app.discussion; plone.app.drafts; plone.app.event; plone.app.i18n; plone.app.intid; plone.app.iterate; plone.app.layout; plone.app.linkintegrity; plone.app.lockingbehavior; plone.app.mosaic; plone.app.multilingual; plone.app.portlets; plone.app.querystring; plone.app.redirector; plone.app.registry; plone.app.relationfield; plone.app.robotframework; plone.app.standardtiles; plone.app.testing; plone.app.textfield; plone.app.theming; plone.app.tiles; plone.app.upgrade; plone.app.users; plone.app.uuid; plone.app.versioningbehavior; plone.app.viewletmanager; plone.app.vocabularies; plone.app.widgets; plone.app.workflow; plone.app.z3cform; plone.autoform; plone.autoinclude; plone.base; plone.batching; plone.behavior; plone.browserlayer; plone.cachepurging; plone.caching; plone.classicui; plone.contentrules; plone.dexterity; plone.distribution; plone.event; plone.exportimport; plone.folder; plone.formwidget.autocomplete; plone.formwidget.namedfile; plone.formwidget.recaptcha; plone.formwidget.recurrence; plone.i18n; plone.indexer; plone.intelligenttext; plone.jsonserializer; plone.keyring; plone.locking; plone.memoize; plone.namedfile; plone.observability; plone.outputfilters; plone.patternslib; plone.portlet.collection; plone.portlet.static; plone.portlets; plone.protect; plone.recipe.zeoserver; plone.recipe.zope2instance; plone.registry; plone.releaser; plone.reload; plone.resource; plone.resourceeditor; plone.rest; plone.restapi; plone.rfc822; plone.scale; plone.schema; plone.schemaeditor; plone.session; plone.staticresources; plone.stringinterp; plone.subrequest; plone.supermodel; plone.testing; plone.theme; plone.tiles; plone.transformchain; plone.uuid; plone.volto; plonetheme.barceloneta; pytest-plone; training
+javascript,8,256,0,19,0,463,mockup; nick; pastanaga-angular; plone.app.mosaic; plone.gallery; plone.staticresources; plonetheme.barceloneta; volto
+30 needs: triage,3,141,26,0,153,2,aurora; training; volto
+27 status: stale,2,137,54,67,104,102,aurora; volto
+06 type: plip task,2,87,56,0,86,1,aurora; volto
+status,1,71,0,0,71,0,plone-ping
+99 tag: UX Accessibility,5,65,50,13,143,119,Products.CMFPlone; mockup; plone.app.event; plone.z3cform; volto
+python,8,51,0,3,0,55,Products.validation; documentation; jenkins.plone.org; meta; mr.roboto; plone-client; plone.tiles; volto
+99 tag: data,1,45,5,0,17,28,plone-contributor-statistics
+demo-site,1,38,0,0,38,0,plone-ping
+99 tag: community recognition,1,31,5,1,16,15,plone-contributor-statistics
+99 tag: github stats,1,27,5,0,17,10,plone-contributor-statistics
+plone-brasil,1,25,0,0,25,0,plone-ping
+99 tag: docs,1,23,28,9,28,13,volto
+skip changelog,5,23,0,4,0,23,container-nick; cookieplone-templates; plone-client; plone-stubs; pytest-plone
+99 tag: seven,1,19,0,17,0,19,volto
+62 scope: viewer,1,17,46,0,48,0,volto
+61 scope: editor,1,16,112,0,113,0,volto
+99 tag: documentation,4,12,3,0,60,5,Products.CMFPlone; cookiecutter-zope-instance; mockup; plone-contributor-statistics
+First Contribution,1,11,0,5,0,62,volto
+hacktoberfest-accepted,2,11,0,0,0,12,plone.app.mosaic; volto
+python:uv,2,9,0,3,0,9,plonecli; repoplone
+enhancement,38,8,22,0,60,12,aiteam-mkpasswd; archive.plone.org; code-analysis-action; code-quality; copier-templates; demo.plone.org; dockerhub-docs; dockerhub-official-images; docs-guide; guillotina; guillotina-volto; guillotina_dbusers; guillotina_elasticsearch; guillotina_gcloudstorage; guillotina_mailer; guillotina_prometheus; guillotina_rediscache; guillotina_s3storage; guillotina_statsd; marketing-materials; mr.roboto; pastanaga; pastanaga-angular; pastanaga-icons; plone-mcp; plone-vs-snippets; plone.de; plone.dotfiles; plone.instanceprofiling; plone.jenkins_node; plone.jenkins_server; plone_best_practices_discussion; ploneconf2016.policy; plonedev.vagrant; pylons-project-assimilation; pytest-plone; quickstart; sphinxtheme.plone
+99 tag: good first issue,2,6,13,0,13,0,aurora; documentation
+99 tag: duplicate,33,6,0,0,12,0,ansible-playbook; ansible.plone_server; bobtemplates.plone; container-historical; documentation; executioner; experimental.publishtraverse; plone.api; plone.app.mosaic; plone.app.multilingualindexes; plone.app.robotframework; plone.batching; plone.github; plone.jsonserializer; plone.login; plone.recipe.codeanalysis; plone.recipe.precompiler; plone.recipe.unifiedinstaller; plone.releaser; plone.rest; plone.restapi-angular; plone.schema; plone.staticresources; plone.versioncheck; plone.z3cform; plonecli; ploneorg.core; ploneorg.theme; plonetheme.barceloneta; plonetheme.classic; training; volto-reference-backend; zodbverify
+99 tag: hacktoberfest,2,5,12,0,12,0,aurora; documentation
+99 tag: dependencies,3,5,0,0,17,146,Products.CMFPlone; plonetheme.barceloneta; volto
+30.1 needs: confirmation,1,4,13,0,19,0,volto
+discussion,2,4,6,1,17,3,aurora; volto
+ci-jenkins,1,4,0,0,4,0,plone-ping
+99 tag: UX,1,3,23,1,61,6,volto
+bug,38,3,5,0,33,2,aiteam-mkpasswd; archive.plone.org; code-analysis-action; code-quality; copier-templates; demo.plone.org; dockerhub-docs; dockerhub-official-images; docs-guide; guillotina; guillotina-volto; guillotina_dbusers; guillotina_elasticsearch; guillotina_gcloudstorage; guillotina_mailer; guillotina_prometheus; guillotina_rediscache; guillotina_s3storage; guillotina_statsd; marketing-materials; mr.roboto; pastanaga; pastanaga-angular; pastanaga-icons; plone-mcp; plone-vs-snippets; plone.de; plone.dotfiles; plone.instanceprofiling; plone.jenkins_node; plone.jenkins_server; plone_best_practices_discussion; ploneconf2016.policy; plonedev.vagrant; pylons-project-assimilation; pytest-plone; quickstart; sphinxtheme.plone
+wayfinder:grilling,1,3,3,0,3,0,plone.gallery
+60: Mastering Plone 6,1,3,1,0,9,1,training
+99 tag: Plone 6.1,3,3,0,0,4,1,Products.CMFPlone; plone.app.z3cform; plonetheme.barceloneta
+internal,1,3,0,0,2,1,pytest-plone
+question,39,2,7,0,45,1,aiteam-mkpasswd; archive.plone.org; code-analysis-action; code-quality; copier-templates; demo.plone.org; dockerhub-docs; dockerhub-official-images; docs-guide; guillotina; guillotina-volto; guillotina_dbusers; guillotina_elasticsearch; guillotina_gcloudstorage; guillotina_mailer; guillotina_prometheus; guillotina_rediscache; guillotina_s3storage; guillotina_statsd; jenkins.plone.org; marketing-materials; mr.roboto; pastanaga; pastanaga-angular; pastanaga-icons; plone-mcp; plone-vs-snippets; plone.de; plone.dotfiles; plone.instanceprofiling; plone.jenkins_node; plone.jenkins_server; plone_best_practices_discussion; ploneconf2016.policy; plonedev.vagrant; pylons-project-assimilation; pytest-plone; quickstart; sphinxtheme.plone
+99 tag: Classic UI,1,2,4,0,4,0,Products.CMFPlone
+26 status: blocked,2,2,2,0,9,2,nick; volto
+99 tag:backend,1,2,1,0,3,0,Products.CMFPlone
+documentation,10,2,1,0,3,0,code-analysis-action; code-quality; copier-templates; demo.plone.org; dockerhub-docs; dockerhub-official-images; guillotina-volto; plone-mcp; plone.de; pytest-plone
+60: Effective Volto,1,2,0,0,3,0,training
+backport,1,2,0,0,1,245,volto
+plone-conference-2024,1,2,0,0,2,0,plone-ping
+ruby,1,2,0,0,0,2,nick
+wayfinder:research,1,2,0,0,2,0,plone.gallery
+99 tag: Plone 6.x,4,1,44,0,107,7,documentation; plone.app.contenttypes; plone.app.mosaic; training
+99 tag: backend,1,1,18,0,28,3,documentation
+99 tag: Plone 6.0,1,1,11,0,19,1,Products.CMFPlone
+99 tag: cleanup,2,1,10,0,25,2,Products.CMFPlone; plone-contributor-statistics
+99 tag: Plone 5.2,1,1,8,0,16,1,Products.CMFPlone
+99 tag: migration,3,1,8,0,55,2,Products.CMFPlone; plone.app.contenttypes; plone.app.multilingual
+99 tag: classic-ui,1,1,5,0,16,7,documentation
+multilingual,1,1,1,0,1,0,documentation
+wayfinder:map,1,1,1,0,1,0,plone.gallery
+60: Customizing Volto Light Theme,1,1,0,0,1,0,training
+60: Volto Add-ons Development,1,1,0,0,2,1,training
+60: Volto Customization for JavaScript Beginners,1,1,0,0,1,0,training
+99 tag: Plone 6.2,1,1,0,0,1,0,plone.restapi
+needs: backport,1,1,0,0,0,1,volto
+plone-conference-2026,1,1,0,0,1,0,plone-ping
+static-files,1,1,0,0,1,0,plone-ping
+wayfinder:prototype,1,1,0,0,1,0,plone.gallery
+99 tag: Plone 5.x,151,0,17,2,113,207,Plone; Products.ATContentTypes; Products.Archetypes; Products.CMFDiffTool; Products.CMFDynamicViewFTI; Products.CMFEditions; Products.CMFFormController; Products.CMFPlacefulWorkflow; Products.CMFQuickInstallerTool; Products.ExtendedPathIndex; Products.LinguaPlone; Products.Marshall; Products.MimetypesRegistry; Products.PlacelessTranslationService; Products.PloneLanguageTool; Products.PlonePAS; Products.PloneTestCase; Products.PortalTransforms; Products.ResourceRegistries; Products.contentmigration; Products.statusmessages; Products.validation; ansible.plone_server; archetypes.multilingual; archetypes.querywidget; archetypes.referencebrowserwidget; archetypes.schemaextender; bobtemplates.plone; borg.localrole; buildout.coredev; collective.monkeypatcher; diazo; documentation; mockup; papyrus; plone.alterego; plone.api; plone.app.blob; plone.app.blocks; plone.app.caching; plone.app.collection; plone.app.content; plone.app.contentlisting; plone.app.contentmenu; plone.app.contentrules; plone.app.contenttypes; plone.app.controlpanel; plone.app.customerize; plone.app.debugtoolbar; plone.app.dexterity; plone.app.discussion; plone.app.drafts; plone.app.event; plone.app.folder; plone.app.form; plone.app.i18n; plone.app.imaging; plone.app.intid; plone.app.iterate; plone.app.layout; plone.app.ldap; plone.app.linkintegrity; plone.app.lockingbehavior; plone.app.mosaic; plone.app.openid; plone.app.portlets; plone.app.querystring; plone.app.redirector; plone.app.referenceablebehavior; plone.app.registry; plone.app.relationfield; plone.app.robotframework; plone.app.search; plone.app.standardtiles; plone.app.testing; plone.app.textfield; plone.app.theming; plone.app.tiles; plone.app.upgrade; plone.app.users; plone.app.uuid; plone.app.versioningbehavior; plone.app.viewletmanager; plone.app.vocabularies; plone.app.widgets; plone.app.workflow; plone.app.workflowmanager; plone.app.z3cform; plone.autoform; plone.batching; plone.behavior; plone.browserlayer; plone.cachepurging; plone.caching; plone.contentrules; plone.dexterity; plone.folder; plone.formwidget.autocomplete; plone.formwidget.contenttree; plone.formwidget.datetime; plone.formwidget.namedfile; plone.formwidget.querystring; plone.formwidget.recurrence; plone.github; plone.i18n; plone.indexer; plone.intelligenttext; plone.keyring; plone.locking; plone.memoize; plone.multilingualbehavior; plone.namedfile; plone.openid; plone.outputfilters; plone.portlet.collection; plone.portlet.static; plone.portlets; plone.protect; plone.recipe.alltests; plone.recipe.codeanalysis; plone.recipe.haproxy; plone.recipe.precompiler; plone.recipe.unifiedinstaller; plone.recipe.zeoserver; plone.recipe.zope2instance; plone.registry; plone.releaser; plone.reload; plone.resource; plone.resourceeditor; plone.rest; plone.restapi; plone.rfc822; plone.scale; plone.schema; plone.schemaeditor; plone.session; plone.stringinterp; plone.subrequest; plone.supermodel; plone.synchronize; plone.testing; plone.theme; plone.tiles; plone.transformchain; plone.uuid; ploneorg.theme; plonetheme.barceloneta; plonetheme.classic; plonetheme.sunburst; training
+GIP,1,0,17,0,25,0,guillotina
+wip,1,0,14,1,14,11,guillotina
+99 tag: UX Editor,1,0,13,0,122,1,Products.CMFPlone
+99 tag: sprint,5,0,12,0,166,7,Products.CMFPlone; documentation; papyrus; plone.restapi; volto
+99 tag: Content,1,0,8,0,36,0,ploneorg.core
+99 tag: UX Site Admin,1,0,8,0,58,2,Products.CMFPlone
+PloneConfSprint,1,0,8,0,8,0,bobtemplates.plone
+99 tag: Plone 4.3.x,150,0,7,0,26,71,Plone; Products.ATContentTypes; Products.Archetypes; Products.CMFDiffTool; Products.CMFDynamicViewFTI; Products.CMFEditions; Products.CMFFormController; Products.CMFPlacefulWorkflow; Products.CMFQuickInstallerTool; Products.ExtendedPathIndex; Products.LinguaPlone; Products.Marshall; Products.MimetypesRegistry; Products.PlacelessTranslationService; Products.PloneLanguageTool; Products.PlonePAS; Products.PloneTestCase; Products.PortalTransforms; Products.ResourceRegistries; Products.contentmigration; Products.statusmessages; Products.validation; ansible.plone_server; archetypes.multilingual; archetypes.querywidget; archetypes.referencebrowserwidget; archetypes.schemaextender; bobtemplates.plone; borg.localrole; buildout.coredev; collective.monkeypatcher; diazo; documentation; mockup; papyrus; plone.alterego; plone.api; plone.app.blob; plone.app.blocks; plone.app.caching; plone.app.collection; plone.app.content; plone.app.contentlisting; plone.app.contentmenu; plone.app.contentrules; plone.app.contenttypes; plone.app.controlpanel; plone.app.customerize; plone.app.debugtoolbar; plone.app.dexterity; plone.app.discussion; plone.app.drafts; plone.app.event; plone.app.folder; plone.app.form; plone.app.i18n; plone.app.imaging; plone.app.intid; plone.app.iterate; plone.app.layout; plone.app.ldap; plone.app.linkintegrity; plone.app.lockingbehavior; plone.app.mosaic; plone.app.openid; plone.app.portlets; plone.app.querystring; plone.app.redirector; plone.app.referenceablebehavior; plone.app.registry; plone.app.relationfield; plone.app.robotframework; plone.app.search; plone.app.standardtiles; plone.app.testing; plone.app.textfield; plone.app.theming; plone.app.tiles; plone.app.upgrade; plone.app.users; plone.app.uuid; plone.app.versioningbehavior; plone.app.viewletmanager; plone.app.vocabularies; plone.app.widgets; plone.app.workflow; plone.app.workflowmanager; plone.app.z3cform; plone.autoform; plone.batching; plone.behavior; plone.browserlayer; plone.cachepurging; plone.caching; plone.contentrules; plone.dexterity; plone.folder; plone.formwidget.autocomplete; plone.formwidget.contenttree; plone.formwidget.datetime; plone.formwidget.namedfile; plone.formwidget.querystring; plone.formwidget.recurrence; plone.github; plone.i18n; plone.indexer; plone.intelligenttext; plone.keyring; plone.locking; plone.memoize; plone.multilingualbehavior; plone.namedfile; plone.openid; plone.outputfilters; plone.portlet.collection; plone.portlet.static; plone.portlets; plone.protect; plone.recipe.alltests; plone.recipe.codeanalysis; plone.recipe.haproxy; plone.recipe.precompiler; plone.recipe.unifiedinstaller; plone.recipe.zeoserver; plone.recipe.zope2instance; plone.registry; plone.releaser; plone.reload; plone.resource; plone.resourceeditor; plone.rest; plone.restapi; plone.rfc822; plone.scale; plone.schema; plone.schemaeditor; plone.session; plone.stringinterp; plone.subrequest; plone.supermodel; plone.synchronize; plone.testing; plone.theme; plone.tiles; plone.transformchain; plone.uuid; ploneorg.theme; plonetheme.barceloneta; plonetheme.classic; plonetheme.sunburst
+99 tag: performance,1,0,5,2,8,3,volto
+blocked,1,0,7,0,7,0,pylons-project-assimilation
+99 tag: bssp,5,0,5,1,12,3,Products.CMFPlone; mockup; plone.app.z3cform; plone.namedfile; plone.staticresources
+papyrus 1.5,1,0,6,0,7,0,papyrus
+61 sites: visual/theming,1,0,5,0,16,0,plone.org
+99 tag: Deployment,1,0,4,0,11,0,ploneorg.core
+99 tag: CI,2,0,3,0,6,0,documentation; papyrus
+99 tag: Theme,1,0,3,0,39,0,ploneorg.core
+99 tag: imported,9,0,3,0,62,0,plone.app.dexterity; plone.app.linkintegrity; plone.app.relationfield; plone.app.textfield; plone.autoform; plone.formwidget.autocomplete; plone.formwidget.contenttree; plone.formwidget.namedfile; plone.supermodel
+99 tag: missing,1,0,3,0,19,0,documentation
+Abandoned,1,0,0,3,0,18,volto
+60 sites: page content,1,0,2,0,10,0,plone.org
+99 tag: Content Migration,1,0,2,0,8,0,ploneorg.core
+99 tag: Contributor profile,1,0,2,0,11,0,ploneorg.core
+99 tag: Design,1,0,2,0,9,0,ploneorg.core
+99 tag: Sponorship,1,0,2,0,4,0,ploneorg.core
+99 tag: UX Integrator/Themer,1,0,2,0,65,2,Products.CMFPlone
+99 tag: docs-reorg,1,0,2,0,4,5,volto
+99 tag: pattern:structure,1,0,2,0,23,3,mockup
+99 tag: plone.app.standardtiles,1,0,2,0,14,0,plone.app.mosaic
+99 tag: skunkworks,1,0,2,0,5,0,plone.app.mosaic
+GSOC-input,1,0,0,2,0,26,volto
+contrib.dbusers,1,0,2,0,4,0,guillotina
+proof of concept,1,0,0,2,0,10,volto
+tag: release,1,0,2,0,3,0,papyrus
+06 type: release feature,1,0,0,1,0,1,mockup
+60: Volto Hands-On,1,0,1,0,2,1,training
+62 sites: graphics/images,1,0,1,0,1,0,plone.org
+99 tag: HomePage,1,0,1,0,8,1,ploneorg.core
+99 tag: PLIP 3211 ES6,1,0,1,0,6,2,Products.CMFPlone
+99 tag: pattern:querystring,1,0,1,0,4,1,mockup
+99 tag: resource registry,1,0,1,0,14,0,Products.CMFPlone
+99 tag: wontfix,15,0,1,0,24,1,ansible-playbook; container-historical; documentation; executioner; experimental.publishtraverse; plone.app.multilingualindexes; plone.jsonserializer; plone.login; plone.restapi-angular; plone.staticresources; plone.z3cform; plonecli; training; volto-reference-backend; zodbverify
+99 use case for AI assistance,1,0,1,0,1,0,training
+Jenkins Job Builder,1,0,1,0,17,0,jenkins.plone.org
+help wanted,35,0,1,0,1,0,aiteam-mkpasswd; archive.plone.org; code-analysis-action; code-quality; copier-templates; demo.plone.org; dockerhub-docs; dockerhub-official-images; docs-guide; guillotina; guillotina-volto; guillotina_dbusers; guillotina_elasticsearch; guillotina_gcloudstorage; guillotina_mailer; guillotina_prometheus; guillotina_rediscache; guillotina_s3storage; guillotina_statsd; pastanaga; pastanaga-angular; pastanaga-icons; plone-mcp; plone-vs-snippets; plone.de; plone.instanceprofiling; plone.jenkins_node; plone.jenkins_server; plone.releaser; plone_best_practices_discussion; ploneconf2016.policy; pylons-project-assimilation; pytest-plone; quickstart; sphinxtheme.plone
+py39,1,0,1,0,1,0,guillotina
+ready,1,0,1,0,2,0,jenkins.plone.org
+v5.x,1,0,1,0,1,0,bobtemplates.plone
+v6.x,1,0,1,0,1,0,bobtemplates.plone
+03 type: feature,1,0,0,0,1,0,nick
+60: Content editing for Plone,1,0,0,0,1,0,training
+60: Mastering Plone 5,1,0,0,0,0,0,training
+60: Migration best practices,1,0,0,0,0,0,training
+60: Plone 6 Classic UI Theming,1,0,0,0,2,0,training
+60: Plone Deployment,1,0,0,0,2,0,training
+60: Plone Workflow,1,0,0,0,0,0,training
+60: Testing Plone,1,0,0,0,0,0,training
+63 sites: information architecture,1,0,0,0,0,0,plone.org
+99 HACKTOBERFEST-ACCEPTED,2,0,0,0,0,0,Products.CMFPlone; plonetheme.barceloneta
+99 hacktoberfest-accepted,1,0,0,0,0,1,bobtemplates.plone
+99 tag: 4.3,10,0,0,0,0,0,Installers-UnifiedInstaller; Plone; ansible-playbook; container-historical; five.intid; plone.app.themingplugins; plone.app.vulnerabilities; plone.formwidget.multifile; plone.formwidget.recaptcha; plone.login
+99 tag: 5.0,10,0,0,0,0,0,Installers-UnifiedInstaller; Plone; ansible-playbook; container-historical; five.intid; plone.app.themingplugins; plone.app.vulnerabilities; plone.formwidget.multifile; plone.formwidget.recaptcha; plone.login
+99 tag: Foundation Information,1,0,0,0,1,0,ploneorg.core
+99 tag: GSoC 2018,2,0,0,0,13,2,bobtemplates.plone; plonecli
+99 tag: NEED AN IMPLEMENTER,1,0,0,0,2,0,Products.CMFPlone
+99 tag: OSX,1,0,0,0,5,0,Installers-UnifiedInstaller
+99 tag: PLIP 13260: Remove CMF,1,0,0,0,40,2,Products.CMFPlone
+99 tag: Plone 3,1,0,0,0,1,0,documentation
+99 tag: Plone 3.x,1,0,0,0,2,0,papyrus
+99 tag: Plone 4,1,0,0,0,11,2,documentation
+99 tag: Plone 7.x,1,0,0,0,0,0,documentation
+99 tag: React,1,0,0,0,10,2,training
+99 tag: Sprint,1,0,0,0,1,1,Installers-UnifiedInstaller
+99 tag: bundle barceloneta,1,0,0,0,1,0,mockup
+99 tag: bundle:foldercontents,1,0,0,0,9,0,mockup
+99 tag: bundle:toolbar,1,0,0,0,65,1,mockup
+99 tag: bundle:widgets,1,0,0,0,64,2,mockup
+99 tag: developer,2,0,0,0,17,1,plone.app.event; plone.formwidget.datetime
+99 tag: feedback-form,1,0,0,0,1,0,documentation
+99 tag: front-end (Volto),1,0,0,0,0,0,documentation
+99 tag: hacktoberfest-accepted,2,0,0,0,0,0,aurora; documentation
+99 tag: hosting,1,0,0,0,2,0,documentation
+99 tag: imported from dev.plone.org,1,0,0,0,1,0,Plone
+99 tag: invalid,35,0,0,0,13,0,ansible-playbook; ansible.plone_server; bobtemplates.plone; container-historical; documentation; executioner; experimental.publishtraverse; mockup; papyrus; plone.api; plone.app.mosaic; plone.app.multilingualindexes; plone.app.robotframework; plone.batching; plone.github; plone.jsonserializer; plone.login; plone.recipe.codeanalysis; plone.recipe.precompiler; plone.recipe.unifiedinstaller; plone.releaser; plone.rest; plone.restapi-angular; plone.schema; plone.staticresources; plone.versioncheck; plone.z3cform; plonecli; ploneorg.core; ploneorg.theme; plonetheme.barceloneta; plonetheme.classic; training; volto-reference-backend; zodbverify
+99 tag: pattern:filemanager,1,0,0,0,1,1,mockup
+99 tag: pattern:modal,1,0,0,0,37,3,mockup
+99 tag: pattern:pickadate,1,0,0,0,1,1,mockup
+99 tag: pattern:relateditems,1,0,0,0,9,0,mockup
+99 tag: pattern:resourceregistry,1,0,0,0,6,0,mockup
+99 tag: pattern:select2,1,0,0,0,4,0,mockup
+99 tag: pattern:thememapper,1,0,0,0,6,1,mockup
+99 tag: plone.app.blocks,1,0,0,0,2,0,plone.app.mosaic
+99 tag: plone.app.tiles,1,0,0,0,2,0,plone.app.mosaic
+99 tag: plone.app.widgets,1,0,0,0,5,0,mockup
+99 tag: plone.tiles,1,0,0,0,0,0,plone.app.mosaic
+99 tag: release,1,0,0,0,12,6,documentation
+99 tag: spam,1,0,0,0,0,0,documentation
+99 tag: style guide,1,0,0,0,7,0,documentation
+99 tag: styles,1,0,0,0,5,0,mockup
+99 tag: targets PAM 1.x,1,0,0,0,20,6,plone.app.multilingual
+99 tag: targets PAM 2.x,1,0,0,0,25,10,plone.app.multilingual
+99 tag: targets PAM 3.x,1,0,0,0,8,11,plone.app.multilingual
+99 tag: theme,1,0,0,0,3,0,documentation
+99 tag: widgets,1,0,0,0,17,0,plone.app.widgets
+99 tag: wine and beer sprint,1,0,0,0,1,0,plone.app.contenttypes
+99 tag: wontifx,19,0,0,0,2,0,ansible.plone_server; bobtemplates.plone; papyrus; plone.api; plone.app.mosaic; plone.app.robotframework; plone.batching; plone.github; plone.recipe.codeanalysis; plone.recipe.precompiler; plone.recipe.unifiedinstaller; plone.releaser; plone.rest; plone.schema; plone.versioncheck; ploneorg.core; ploneorg.theme; plonetheme.barceloneta; plonetheme.classic
+Ansible,1,0,0,0,9,0,jenkins.plone.org
+Breaking,1,0,0,0,0,5,volto
+Bug,1,0,0,0,34,1,jenkins.plone.org
+Build process,1,0,0,0,1,0,pastanaga-angular
+Epic,1,0,0,0,1,0,guillotina
+Jenkins VM donation,1,0,0,0,2,0,jenkins.plone.org
+WIP,2,0,0,0,0,2,guillotina_elasticsearch; pastanaga-angular
+blocked: Angular issue,1,0,0,0,0,0,pastanaga-angular
+duplicate,38,0,0,0,0,0,aiteam-mkpasswd; archive.plone.org; code-analysis-action; code-quality; copier-templates; demo.plone.org; dockerhub-docs; dockerhub-official-images; docs-guide; guillotina; guillotina-volto; guillotina_dbusers; guillotina_elasticsearch; guillotina_gcloudstorage; guillotina_mailer; guillotina_prometheus; guillotina_rediscache; guillotina_s3storage; guillotina_statsd; marketing-materials; mr.roboto; pastanaga; pastanaga-angular; pastanaga-icons; plone-mcp; plone-vs-snippets; plone.de; plone.dotfiles; plone.instanceprofiling; plone.jenkins_node; plone.jenkins_server; plone_best_practices_discussion; ploneconf2016.policy; plonedev.vagrant; pylons-project-assimilation; pytest-plone; quickstart; sphinxtheme.plone
+good first issue,21,0,0,0,0,0,aiteam-mkpasswd; code-analysis-action; code-quality; copier-templates; demo.plone.org; dockerhub-docs; dockerhub-official-images; docs-guide; guillotina-volto; guillotina_gcloudstorage; guillotina_prometheus; guillotina_rediscache; guillotina_s3storage; guillotina_statsd; pastanaga-angular; plone-mcp; plone-vs-snippets; plone.de; pylons-project-assimilation; pytest-plone; quickstart
+in progress,1,0,0,0,0,2,jenkins.plone.org
+invalid,38,0,0,0,0,0,aiteam-mkpasswd; archive.plone.org; code-analysis-action; code-quality; copier-templates; demo.plone.org; dockerhub-docs; dockerhub-official-images; docs-guide; guillotina; guillotina-volto; guillotina_dbusers; guillotina_elasticsearch; guillotina_gcloudstorage; guillotina_mailer; guillotina_prometheus; guillotina_rediscache; guillotina_s3storage; guillotina_statsd; marketing-materials; mr.roboto; pastanaga; pastanaga-angular; pastanaga-icons; plone-mcp; plone-vs-snippets; plone.de; plone.dotfiles; plone.instanceprofiling; plone.jenkins_node; plone.jenkins_server; plone_best_practices_discussion; ploneconf2016.policy; plonedev.vagrant; pylons-project-assimilation; pytest-plone; quickstart; sphinxtheme.plone
+pr orphaned,17,0,0,0,0,0,Installers-UnifiedInstaller; ansible-playbook; container-historical; five.intid; marketing-materials; mr.roboto; planet.plone.org; plone.app.themingplugins; plone.app.vulnerabilities; plone.dotfiles; plone.formwidget.multifile; plone.formwidget.recaptcha; plone.jenkins_node; plone.jenkins_server; plone.login; plonedev.vagrant; sphinxtheme.plone
+pr p4.3,8,0,0,0,0,0,marketing-materials; mr.roboto; planet.plone.org; plone.dotfiles; plone.jenkins_node; plone.jenkins_server; plonedev.vagrant; sphinxtheme.plone
+pr p5.0,8,0,0,0,0,0,marketing-materials; mr.roboto; planet.plone.org; plone.dotfiles; plone.jenkins_node; plone.jenkins_server; plonedev.vagrant; sphinxtheme.plone
+pr ready,8,0,0,0,0,3,marketing-materials; mr.roboto; planet.plone.org; plone.dotfiles; plone.jenkins_node; plone.jenkins_server; plonedev.vagrant; sphinxtheme.plone
+pr rebase,8,0,0,0,0,0,marketing-materials; mr.roboto; planet.plone.org; plone.dotfiles; plone.jenkins_node; plone.jenkins_server; plonedev.vagrant; sphinxtheme.plone
+pr review,8,0,0,0,0,3,marketing-materials; mr.roboto; planet.plone.org; plone.dotfiles; plone.jenkins_node; plone.jenkins_server; plonedev.vagrant; sphinxtheme.plone
+pr testing,8,0,0,0,0,1,marketing-materials; mr.roboto; planet.plone.org; plone.dotfiles; plone.jenkins_node; plone.jenkins_server; plonedev.vagrant; sphinxtheme.plone
+pr wip,8,0,0,0,0,1,marketing-materials; mr.roboto; planet.plone.org; plone.dotfiles; plone.jenkins_node; plone.jenkins_server; plonedev.vagrant; sphinxtheme.plone
+pre-commit.ci autofix,1,0,0,0,0,0,plone.app.contenttypes
+tag: duplicate,1,0,0,0,0,0,papyrus
+wayfinder:task,1,0,0,0,0,0,plone.gallery
+wontfix,38,0,0,0,0,0,aiteam-mkpasswd; archive.plone.org; code-analysis-action; code-quality; copier-templates; demo.plone.org; dockerhub-docs; dockerhub-official-images; docs-guide; guillotina; guillotina-volto; guillotina_dbusers; guillotina_elasticsearch; guillotina_gcloudstorage; guillotina_mailer; guillotina_prometheus; guillotina_rediscache; guillotina_s3storage; guillotina_statsd; marketing-materials; mr.roboto; pastanaga; pastanaga-angular; pastanaga-icons; plone-mcp; plone-vs-snippets; plone.de; plone.dotfiles; plone.instanceprofiling; plone.jenkins_node; plone.jenkins_server; plone_best_practices_discussion; ploneconf2016.policy; plonedev.vagrant; pylons-project-assimilation; pytest-plone; quickstart; sphinxtheme.plone

@@ -1,0 +1,1046 @@
+{
+ "55": {
+  "title": "Accessibility",
+  "total": 86,
+  "sampled": 86,
+  "from_public_repos": 86,
+  "open": 18,
+  "issue_typed": 4,
+  "repos": [
+   [
+    "volto",
+    85
+   ],
+   [
+    "Products.CMFPlone",
+    1
+   ]
+  ],
+  "status": [
+   [
+    "Done",
+    68
+   ],
+   [
+    "To do",
+    12
+   ],
+   [
+    "In progress",
+    3
+   ],
+   [
+    "Review in progress",
+    2
+   ],
+   [
+    "Reviewer approved",
+    1
+   ]
+  ],
+  "priority": [
+   [
+    null,
+    86
+   ]
+  ],
+  "labels": [
+   [
+    "99 tag: UX Accessibility",
+    78
+   ],
+   [
+    "01 type: bug",
+    54
+   ],
+   [
+    "21 status: confirmed",
+    12
+   ],
+   [
+    "61 scope: editor",
+    11
+   ],
+   [
+    "24 status: ready",
+    4
+   ],
+   [
+    "04 type: enhancement",
+    3
+   ],
+   [
+    "27 status: stale",
+    2
+   ],
+   [
+    "backport",
+    2
+   ],
+   [
+    "22 status: in-progress",
+    2
+   ],
+   [
+    "35 needs: rebase",
+    1
+   ],
+   [
+    "GSOC-input",
+    1
+   ],
+   [
+    "Abandoned",
+    1
+   ]
+  ]
+ },
+ "19": {
+  "title": "Volto Team Meeting",
+  "total": 239,
+  "sampled": 100,
+  "from_public_repos": 100,
+  "open": 13,
+  "issue_typed": 2,
+  "repos": [
+   [
+    "volto",
+    88
+   ],
+   [
+    "documentation",
+    9
+   ],
+   [
+    "training",
+    1
+   ],
+   [
+    "plone.restapi",
+    1
+   ],
+   [
+    "plone.volto",
+    1
+   ]
+  ],
+  "status": [
+   [
+    "Done",
+    87
+   ],
+   [
+    "Needs discussion",
+    9
+   ],
+   [
+    "Plan approved",
+    3
+   ],
+   [
+    "Work approved",
+    1
+   ]
+  ],
+  "priority": [
+   [
+    null,
+    100
+   ]
+  ],
+  "labels": [
+   [
+    "24 status: ready",
+    14
+   ],
+   [
+    "32 needs: review",
+    5
+   ],
+   [
+    "03 type: feature (plip)",
+    4
+   ],
+   [
+    "99 tag: docs-reorg",
+    4
+   ],
+   [
+    "04 type: enhancement",
+    4
+   ],
+   [
+    "01 type: bug",
+    3
+   ],
+   [
+    "43 lvl: complex",
+    3
+   ],
+   [
+    "33 needs: docs",
+    3
+   ],
+   [
+    "12 prio: high",
+    2
+   ],
+   [
+    "99 tag: docs",
+    2
+   ],
+   [
+    "99 tag: UX Accessibility",
+    1
+   ],
+   [
+    "22 status: in-progress",
+    1
+   ]
+  ]
+ },
+ "12": {
+  "title": "Plone Documentation",
+  "total": 1696,
+  "sampled": 100,
+  "from_public_repos": 100,
+  "open": 8,
+  "issue_typed": 0,
+  "repos": [
+   [
+    "documentation",
+    54
+   ],
+   [
+    "volto",
+    30
+   ],
+   [
+    "plone.restapi",
+    10
+   ],
+   [
+    "training",
+    5
+   ],
+   [
+    "plone.api",
+    1
+   ]
+  ],
+  "status": [
+   [
+    "Done",
+    92
+   ],
+   [
+    "Todo",
+    6
+   ],
+   [
+    "In Progress",
+    2
+   ]
+  ],
+  "priority": [
+   [
+    null,
+    100
+   ]
+  ],
+  "labels": [
+   [
+    "33 needs: docs",
+    38
+   ],
+   [
+    "99 tag: Plone 6.x",
+    35
+   ],
+   [
+    "01 type: bug",
+    22
+   ],
+   [
+    "04 type: enhancement",
+    15
+   ],
+   [
+    "05 type: question",
+    14
+   ],
+   [
+    "31 needs: help",
+    6
+   ],
+   [
+    "41 lvl: easy",
+    5
+   ],
+   [
+    "13 prio: normal",
+    2
+   ],
+   [
+    "14 prio: low",
+    2
+   ],
+   [
+    "99 tag: backend",
+    2
+   ],
+   [
+    "99 tag: good first issue",
+    2
+   ],
+   [
+    "99 tag: hacktoberfest",
+    2
+   ]
+  ]
+ },
+ "76": {
+  "title": "Beethoven Sprint 2026",
+  "total": 127,
+  "sampled": 100,
+  "from_public_repos": 94,
+  "open": 56,
+  "issue_typed": 80,
+  "repos": [
+   [
+    "aurora",
+    70
+   ],
+   [
+    "repoplone",
+    6
+   ],
+   [
+    "Products.CMFPlone",
+    5
+   ],
+   [
+    "volto",
+    3
+   ],
+   [
+    "pytest-plone",
+    3
+   ],
+   [
+    "plone.restapi",
+    2
+   ],
+   [
+    "meta",
+    2
+   ],
+   [
+    "cookieplone",
+    1
+   ]
+  ],
+  "status": [
+   [
+    "Done",
+    38
+   ],
+   [
+    "Backlog",
+    30
+   ],
+   [
+    "In progress",
+    19
+   ],
+   [
+    "ToDo",
+    6
+   ],
+   [
+    null,
+    1
+   ]
+  ],
+  "priority": [
+   [
+    null,
+    94
+   ]
+  ],
+  "labels": [
+   [
+    "06 type: plip task",
+    59
+   ],
+   [
+    "03 type: feature (plip)",
+    15
+   ],
+   [
+    "27 status: stale",
+    11
+   ],
+   [
+    "04 type: enhancement",
+    8
+   ],
+   [
+    "33 needs: docs",
+    5
+   ],
+   [
+    "43 lvl: complex",
+    4
+   ],
+   [
+    "01 type: bug",
+    3
+   ],
+   [
+    "30 needs: triage",
+    2
+   ],
+   [
+    "documentation",
+    1
+   ],
+   [
+    "question",
+    1
+   ],
+   [
+    "enhancement",
+    1
+   ],
+   [
+    "discussion",
+    1
+   ]
+  ]
+ },
+ "58": {
+  "title": "Aurora",
+  "total": 139,
+  "sampled": 100,
+  "from_public_repos": 100,
+  "open": 68,
+  "issue_typed": 61,
+  "repos": [
+   [
+    "aurora",
+    58
+   ],
+   [
+    "volto",
+    39
+   ],
+   [
+    "Products.CMFPlone",
+    3
+   ]
+  ],
+  "status": [
+   [
+    "Done",
+    32
+   ],
+   [
+    "In Progress",
+    30
+   ],
+   [
+    null,
+    22
+   ],
+   [
+    "Todo",
+    12
+   ],
+   [
+    "Ready for Review",
+    2
+   ],
+   [
+    "PoC / Draft",
+    2
+   ]
+  ],
+  "priority": [
+   [
+    null,
+    100
+   ]
+  ],
+  "labels": [
+   [
+    "06 type: plip task",
+    50
+   ],
+   [
+    "27 status: stale",
+    17
+   ],
+   [
+    "03 type: feature (plip)",
+    11
+   ],
+   [
+    "43 lvl: complex",
+    8
+   ],
+   [
+    "99 tag: seven",
+    8
+   ],
+   [
+    "04 type: enhancement",
+    3
+   ],
+   [
+    "30 needs: triage",
+    2
+   ],
+   [
+    "99 tag: bssp",
+    1
+   ],
+   [
+    "99 tag: Classic UI",
+    1
+   ],
+   [
+    "99 tag: UX Accessibility",
+    1
+   ],
+   [
+    "99 tag: sprint",
+    1
+   ],
+   [
+    "61 scope: editor",
+    1
+   ]
+  ]
+ },
+ "33": {
+  "title": "Volto Roadmap",
+  "total": 60,
+  "sampled": 60,
+  "from_public_repos": 60,
+  "open": 27,
+  "issue_typed": 25,
+  "repos": [
+   [
+    "volto",
+    51
+   ],
+   [
+    "documentation",
+    5
+   ],
+   [
+    "Products.CMFPlone",
+    3
+   ],
+   [
+    "aurora",
+    1
+   ]
+  ],
+  "status": [
+   [
+    "Done",
+    33
+   ],
+   [
+    "Backlog",
+    13
+   ],
+   [
+    null,
+    11
+   ],
+   [
+    "In progress",
+    3
+   ]
+  ],
+  "priority": [
+   [
+    null,
+    60
+   ]
+  ],
+  "labels": [
+   [
+    "03 type: feature (plip)",
+    37
+   ],
+   [
+    "43 lvl: complex",
+    18
+   ],
+   [
+    "04 type: enhancement",
+    13
+   ],
+   [
+    "42 lvl: moderate",
+    7
+   ],
+   [
+    "33 needs: docs",
+    6
+   ],
+   [
+    "01 type: bug",
+    4
+   ],
+   [
+    "99 tag: performance",
+    3
+   ],
+   [
+    "61 scope: editor",
+    2
+   ],
+   [
+    "24 status: ready",
+    2
+   ],
+   [
+    "32 needs: review",
+    2
+   ],
+   [
+    "13 prio: normal",
+    1
+   ],
+   [
+    "14 prio: low",
+    1
+   ]
+  ]
+ },
+ "47": {
+  "title": "PLIPs (core)",
+  "total": 81,
+  "sampled": 81,
+  "from_public_repos": 81,
+  "open": 64,
+  "issue_typed": 72,
+  "repos": [
+   [
+    "Products.CMFPlone",
+    55
+   ],
+   [
+    "volto",
+    23
+   ],
+   [
+    "aurora",
+    2
+   ],
+   [
+    "plone.restapi",
+    1
+   ]
+  ],
+  "status": [
+   [
+    null,
+    39
+   ],
+   [
+    "Closed",
+    18
+   ],
+   [
+    "In Process (approved)",
+    8
+   ],
+   [
+    "New (drafts)",
+    7
+   ],
+   [
+    "Submitted (info complete)",
+    6
+   ],
+   [
+    "Stalled (approved but inactive)",
+    3
+   ]
+  ],
+  "priority": [
+   [
+    null,
+    81
+   ]
+  ],
+  "labels": [
+   [
+    "03 type: feature (plip)",
+    81
+   ],
+   [
+    "43 lvl: complex",
+    13
+   ],
+   [
+    "04 type: enhancement",
+    5
+   ],
+   [
+    "22 status: in-progress",
+    5
+   ],
+   [
+    "13 prio: normal",
+    3
+   ],
+   [
+    "99 tag:backend",
+    2
+   ],
+   [
+    "53 target: major",
+    2
+   ],
+   [
+    "42 lvl: moderate",
+    2
+   ],
+   [
+    "99 tag: Classic UI",
+    2
+   ],
+   [
+    "99 tag: UX Accessibility",
+    2
+   ],
+   [
+    "27 status: stale",
+    2
+   ],
+   [
+    "99 tag: performance",
+    2
+   ]
+  ]
+ },
+ "28": {
+  "title": "Blicca Team",
+  "total": 91,
+  "sampled": 91,
+  "from_public_repos": 91,
+  "open": 34,
+  "issue_typed": 12,
+  "repos": [
+   [
+    "Products.CMFPlone",
+    29
+   ],
+   [
+    "documentation",
+    28
+   ],
+   [
+    "mockup",
+    7
+   ],
+   [
+    "plone.classicui",
+    5
+   ],
+   [
+    "plone.app.z3cform",
+    5
+   ],
+   [
+    "training",
+    3
+   ],
+   [
+    "plone.app.mosaic",
+    2
+   ],
+   [
+    "plone.app.multilingual",
+    2
+   ]
+  ],
+  "status": [
+   [
+    "Done",
+    56
+   ],
+   [
+    null,
+    21
+   ],
+   [
+    "Todo",
+    12
+   ],
+   [
+    "In Progress",
+    2
+   ]
+  ],
+  "priority": [
+   [
+    null,
+    91
+   ]
+  ],
+  "labels": [
+   [
+    "03 type: feature (plip)",
+    18
+   ],
+   [
+    "01 type: bug",
+    11
+   ],
+   [
+    "99 tag: classic-ui",
+    6
+   ],
+   [
+    "42 lvl: moderate",
+    5
+   ],
+   [
+    "04 type: enhancement",
+    5
+   ],
+   [
+    "21 status: confirmed",
+    5
+   ],
+   [
+    "99 tag: Plone 6.x",
+    4
+   ],
+   [
+    "31 needs: help",
+    4
+   ],
+   [
+    "33 needs: docs",
+    3
+   ],
+   [
+    "13 prio: normal",
+    2
+   ],
+   [
+    "99 tag: Classic UI",
+    2
+   ],
+   [
+    "06 type: release feature",
+    1
+   ]
+  ]
+ },
+ "72": {
+  "title": "Plone 6.3",
+  "total": 17,
+  "sampled": 17,
+  "from_public_repos": 17,
+  "open": 15,
+  "issue_typed": 13,
+  "repos": [
+   [
+    "Products.CMFPlone",
+    14
+   ],
+   [
+    "volto",
+    2
+   ],
+   [
+    "plone.restapi",
+    1
+   ]
+  ],
+  "status": [
+   [
+    null,
+    6
+   ],
+   [
+    "Todo",
+    6
+   ],
+   [
+    "In Progress",
+    3
+   ],
+   [
+    "Done",
+    2
+   ]
+  ],
+  "priority": [
+   [
+    null,
+    17
+   ]
+  ],
+  "labels": [
+   [
+    "03 type: feature (plip)",
+    13
+   ],
+   [
+    "22 status: in-progress",
+    2
+   ],
+   [
+    "43 lvl: complex",
+    2
+   ],
+   [
+    "31 needs: help",
+    1
+   ],
+   [
+    "99 tag: cleanup",
+    1
+   ],
+   [
+    "13 prio: normal",
+    1
+   ],
+   [
+    "42 lvl: moderate",
+    1
+   ],
+   [
+    "53 target: major",
+    1
+   ],
+   [
+    "99 tag: Classic UI",
+    1
+   ],
+   [
+    "04 type: enhancement",
+    1
+   ]
+  ]
+ },
+ "34": {
+  "title": "Plone 6.2",
+  "total": 44,
+  "sampled": 44,
+  "from_public_repos": 44,
+  "open": 18,
+  "issue_typed": 23,
+  "repos": [
+   [
+    "volto",
+    32
+   ],
+   [
+    "Products.CMFPlone",
+    5
+   ],
+   [
+    "plone.restapi",
+    2
+   ],
+   [
+    "plone.classicui",
+    2
+   ],
+   [
+    "plone.volto",
+    1
+   ],
+   [
+    "aurora",
+    1
+   ],
+   [
+    "buildout.coredev",
+    1
+   ]
+  ],
+  "status": [
+   [
+    "Done",
+    26
+   ],
+   [
+    null,
+    17
+   ],
+   [
+    "In Progress",
+    1
+   ]
+  ],
+  "priority": [
+   [
+    null,
+    44
+   ]
+  ],
+  "labels": [
+   [
+    "03 type: feature (plip)",
+    23
+   ],
+   [
+    "43 lvl: complex",
+    11
+   ],
+   [
+    "04 type: enhancement",
+    5
+   ],
+   [
+    "01 type: bug",
+    3
+   ],
+   [
+    "31 needs: help",
+    2
+   ],
+   [
+    "42 lvl: moderate",
+    2
+   ],
+   [
+    "99 tag: Classic UI",
+    2
+   ],
+   [
+    "27 status: stale",
+    2
+   ],
+   [
+    "99 tag: cleanup",
+    1
+   ],
+   [
+    "13 prio: normal",
+    1
+   ],
+   [
+    "53 target: major",
+    1
+   ],
+   [
+    "30 needs: triage",
+    1
+   ]
+  ]
+ }
+}

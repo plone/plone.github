@@ -1,0 +1,11729 @@
+[
+ {
+  "repo": "aiteam-mkpasswd",
+  "label": "bug",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "aiteam-mkpasswd",
+  "label": "duplicate",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "aiteam-mkpasswd",
+  "label": "enhancement",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "aiteam-mkpasswd",
+  "label": "good first issue",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "aiteam-mkpasswd",
+  "label": "help wanted",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "aiteam-mkpasswd",
+  "label": "invalid",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "aiteam-mkpasswd",
+  "label": "question",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "aiteam-mkpasswd",
+  "label": "wontfix",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "ansible-playbook",
+  "label": "99 tag: duplicate",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "ansible-playbook",
+  "label": "99 tag: invalid",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "ansible-playbook",
+  "label": "99 tag: wontfix",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "ansible-playbook",
+  "label": "pr orphaned",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "ansible-playbook",
+  "label": "99 tag: 4.3",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "ansible-playbook",
+  "label": "99 tag: 5.0",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "ansible.plone_server",
+  "label": "99 tag: duplicate",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "ansible.plone_server",
+  "label": "99 tag: invalid",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "ansible.plone_server",
+  "label": "99 tag: wontifx",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "ansible.plone_server",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "ansible.plone_server",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "archetypes.multilingual",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "archetypes.multilingual",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 1,
+  "openP": 0,
+  "allP": 2,
+  "recent": 0
+ },
+ {
+  "repo": "archetypes.querywidget",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 1,
+  "recent": 0
+ },
+ {
+  "repo": "archetypes.querywidget",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "archetypes.referencebrowserwidget",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 1,
+  "recent": 0
+ },
+ {
+  "repo": "archetypes.referencebrowserwidget",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 1,
+  "recent": 0
+ },
+ {
+  "repo": "archetypes.schemaextender",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "archetypes.schemaextender",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "archive.plone.org",
+  "label": "bug",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "archive.plone.org",
+  "label": "duplicate",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "archive.plone.org",
+  "label": "enhancement",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "archive.plone.org",
+  "label": "help wanted",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "archive.plone.org",
+  "label": "invalid",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "archive.plone.org",
+  "label": "question",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "archive.plone.org",
+  "label": "wontfix",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "aurora",
+  "label": "discussion",
+  "openI": 1,
+  "allI": 2,
+  "openP": 0,
+  "allP": 0,
+  "recent": 2
+ },
+ {
+  "repo": "aurora",
+  "label": "30 needs: triage",
+  "openI": 8,
+  "allI": 12,
+  "openP": 0,
+  "allP": 0,
+  "recent": 12
+ },
+ {
+  "repo": "aurora",
+  "label": "06 type: plip task",
+  "openI": 54,
+  "allI": 84,
+  "openP": 0,
+  "allP": 0,
+  "recent": 84
+ },
+ {
+  "repo": "aurora",
+  "label": "27 status: stale",
+  "openI": 21,
+  "allI": 26,
+  "openP": 0,
+  "allP": 0,
+  "recent": 23
+ },
+ {
+  "repo": "aurora",
+  "label": "99 tag: good first issue",
+  "openI": 1,
+  "allI": 1,
+  "openP": 0,
+  "allP": 0,
+  "recent": 1
+ },
+ {
+  "repo": "aurora",
+  "label": "99 tag: hacktoberfest",
+  "openI": 1,
+  "allI": 1,
+  "openP": 0,
+  "allP": 0,
+  "recent": 1
+ },
+ {
+  "repo": "aurora",
+  "label": "99 tag: hacktoberfest-accepted",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "bobtemplates.plone",
+  "label": "99 tag: duplicate",
+  "openI": 0,
+  "allI": 1,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "bobtemplates.plone",
+  "label": "99 tag: invalid",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "bobtemplates.plone",
+  "label": "99 tag: wontifx",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "bobtemplates.plone",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 1,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "bobtemplates.plone",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 3,
+  "openP": 0,
+  "allP": 3,
+  "recent": 0
+ },
+ {
+  "repo": "bobtemplates.plone",
+  "label": "99 tag: GSoC 2018",
+  "openI": 0,
+  "allI": 10,
+  "openP": 0,
+  "allP": 1,
+  "recent": 0
+ },
+ {
+  "repo": "bobtemplates.plone",
+  "label": "v5.x",
+  "openI": 1,
+  "allI": 1,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "bobtemplates.plone",
+  "label": "v6.x",
+  "openI": 1,
+  "allI": 1,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "bobtemplates.plone",
+  "label": "99 hacktoberfest-accepted",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 1,
+  "recent": 0
+ },
+ {
+  "repo": "bobtemplates.plone",
+  "label": "PloneConfSprint",
+  "openI": 8,
+  "allI": 8,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "borg.localrole",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "borg.localrole",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "borg.localrole",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 12,
+  "recent": 12
+ },
+ {
+  "repo": "borg.localrole",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 12,
+  "recent": 12
+ },
+ {
+  "repo": "buildout.coredev",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 1,
+  "openP": 0,
+  "allP": 13,
+  "recent": 0
+ },
+ {
+  "repo": "buildout.coredev",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 7,
+  "recent": 0
+ },
+ {
+  "repo": "buildout.coredev",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 1,
+  "recent": 0
+ },
+ {
+  "repo": "code-analysis-action",
+  "label": "bug",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "code-analysis-action",
+  "label": "documentation",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "code-analysis-action",
+  "label": "duplicate",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "code-analysis-action",
+  "label": "enhancement",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "code-analysis-action",
+  "label": "good first issue",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "code-analysis-action",
+  "label": "help wanted",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "code-analysis-action",
+  "label": "invalid",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "code-analysis-action",
+  "label": "question",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "code-analysis-action",
+  "label": "wontfix",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "code-quality",
+  "label": "bug",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "code-quality",
+  "label": "documentation",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "code-quality",
+  "label": "duplicate",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "code-quality",
+  "label": "enhancement",
+  "openI": 1,
+  "allI": 4,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "code-quality",
+  "label": "good first issue",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "code-quality",
+  "label": "help wanted",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "code-quality",
+  "label": "invalid",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "code-quality",
+  "label": "question",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "code-quality",
+  "label": "wontfix",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "collective.monkeypatcher",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "collective.monkeypatcher",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "collective.monkeypatcher",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 16,
+  "recent": 16
+ },
+ {
+  "repo": "collective.monkeypatcher",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 16,
+  "recent": 16
+ },
+ {
+  "repo": "container-backend",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 3,
+  "recent": 3
+ },
+ {
+  "repo": "container-backend",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 3,
+  "recent": 3
+ },
+ {
+  "repo": "container-historical",
+  "label": "99 tag: duplicate",
+  "openI": 0,
+  "allI": 6,
+  "openP": 0,
+  "allP": 0,
+  "recent": 6
+ },
+ {
+  "repo": "container-historical",
+  "label": "99 tag: invalid",
+  "openI": 0,
+  "allI": 1,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "container-historical",
+  "label": "99 tag: wontfix",
+  "openI": 0,
+  "allI": 4,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "container-historical",
+  "label": "pr orphaned",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "container-historical",
+  "label": "99 tag: 5.0",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "container-historical",
+  "label": "99 tag: 4.3",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "container-nick",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "container-nick",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "container-nick",
+  "label": "skip changelog",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "cookiecutter-zope-instance",
+  "label": "99 tag: documentation",
+  "openI": 0,
+  "allI": 7,
+  "openP": 0,
+  "allP": 0,
+  "recent": 7
+ },
+ {
+  "repo": "cookieplone",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 1,
+  "openP": 0,
+  "allP": 5,
+  "recent": 6
+ },
+ {
+  "repo": "cookieplone",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 5,
+  "recent": 5
+ },
+ {
+  "repo": "cookieplone-templates",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 3,
+  "allP": 14,
+  "recent": 14
+ },
+ {
+  "repo": "cookieplone-templates",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 3,
+  "allP": 14,
+  "recent": 14
+ },
+ {
+  "repo": "cookieplone-templates",
+  "label": "skip changelog",
+  "openI": 0,
+  "allI": 0,
+  "openP": 3,
+  "allP": 9,
+  "recent": 9
+ },
+ {
+  "repo": "copier-templates",
+  "label": "bug",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "copier-templates",
+  "label": "documentation",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "copier-templates",
+  "label": "duplicate",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "copier-templates",
+  "label": "enhancement",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "copier-templates",
+  "label": "good first issue",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "copier-templates",
+  "label": "help wanted",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "copier-templates",
+  "label": "invalid",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "copier-templates",
+  "label": "question",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "copier-templates",
+  "label": "wontfix",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "demo.plone.org",
+  "label": "bug",
+  "openI": 0,
+  "allI": 1,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "demo.plone.org",
+  "label": "documentation",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "demo.plone.org",
+  "label": "duplicate",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "demo.plone.org",
+  "label": "enhancement",
+  "openI": 0,
+  "allI": 1,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "demo.plone.org",
+  "label": "good first issue",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "demo.plone.org",
+  "label": "help wanted",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "demo.plone.org",
+  "label": "invalid",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "demo.plone.org",
+  "label": "question",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "demo.plone.org",
+  "label": "wontfix",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "diazo",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 1,
+  "allI": 1,
+  "openP": 0,
+  "allP": 2,
+  "recent": 0
+ },
+ {
+  "repo": "diazo",
+  "label": "99 tag: Plone 5.x",
+  "openI": 1,
+  "allI": 1,
+  "openP": 0,
+  "allP": 2,
+  "recent": 0
+ },
+ {
+  "repo": "diazo",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 4,
+  "recent": 4
+ },
+ {
+  "repo": "diazo",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 4,
+  "recent": 4
+ },
+ {
+  "repo": "dockerhub-docs",
+  "label": "bug",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "dockerhub-docs",
+  "label": "documentation",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "dockerhub-docs",
+  "label": "duplicate",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "dockerhub-docs",
+  "label": "enhancement",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "dockerhub-docs",
+  "label": "good first issue",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "dockerhub-docs",
+  "label": "help wanted",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "dockerhub-docs",
+  "label": "invalid",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "dockerhub-docs",
+  "label": "question",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "dockerhub-docs",
+  "label": "wontfix",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "dockerhub-official-images",
+  "label": "bug",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "dockerhub-official-images",
+  "label": "documentation",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "dockerhub-official-images",
+  "label": "duplicate",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "dockerhub-official-images",
+  "label": "enhancement",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "dockerhub-official-images",
+  "label": "good first issue",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "dockerhub-official-images",
+  "label": "help wanted",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "dockerhub-official-images",
+  "label": "invalid",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "dockerhub-official-images",
+  "label": "question",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "dockerhub-official-images",
+  "label": "wontfix",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "docs-guide",
+  "label": "bug",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "docs-guide",
+  "label": "duplicate",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "docs-guide",
+  "label": "enhancement",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "docs-guide",
+  "label": "good first issue",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "docs-guide",
+  "label": "help wanted",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "docs-guide",
+  "label": "invalid",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "docs-guide",
+  "label": "question",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "docs-guide",
+  "label": "wontfix",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "docs-guide",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 2,
+  "allP": 24,
+  "recent": 0
+ },
+ {
+  "repo": "documentation",
+  "label": "99 tag: duplicate",
+  "openI": 0,
+  "allI": 1,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "documentation",
+  "label": "99 tag: wontfix",
+  "openI": 0,
+  "allI": 13,
+  "openP": 0,
+  "allP": 1,
+  "recent": 0
+ },
+ {
+  "repo": "documentation",
+  "label": "99 tag: CI",
+  "openI": 0,
+  "allI": 3,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "documentation",
+  "label": "99 tag: missing",
+  "openI": 3,
+  "allI": 19,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "documentation",
+  "label": "99 tag: style guide",
+  "openI": 0,
+  "allI": 7,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "documentation",
+  "label": "99 tag: sprint",
+  "openI": 9,
+  "allI": 42,
+  "openP": 0,
+  "allP": 1,
+  "recent": 0
+ },
+ {
+  "repo": "documentation",
+  "label": "99 tag: release",
+  "openI": 0,
+  "allI": 12,
+  "openP": 0,
+  "allP": 6,
+  "recent": 0
+ },
+ {
+  "repo": "documentation",
+  "label": "99 tag: Plone 3",
+  "openI": 0,
+  "allI": 1,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "documentation",
+  "label": "99 tag: hosting",
+  "openI": 0,
+  "allI": 2,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "documentation",
+  "label": "99 tag: Plone 4",
+  "openI": 0,
+  "allI": 11,
+  "openP": 0,
+  "allP": 2,
+  "recent": 0
+ },
+ {
+  "repo": "documentation",
+  "label": "99 tag: Plone 5.x",
+  "openI": 1,
+  "allI": 51,
+  "openP": 0,
+  "allP": 28,
+  "recent": 0
+ },
+ {
+  "repo": "documentation",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "documentation",
+  "label": "99 tag: feedback-form",
+  "openI": 0,
+  "allI": 1,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "documentation",
+  "label": "99 tag: Plone 6.x",
+  "openI": 44,
+  "allI": 101,
+  "openP": 0,
+  "allP": 6,
+  "recent": 1
+ },
+ {
+  "repo": "documentation",
+  "label": "99 tag: backend",
+  "openI": 18,
+  "allI": 28,
+  "openP": 0,
+  "allP": 3,
+  "recent": 1
+ },
+ {
+  "repo": "documentation",
+  "label": "99 tag: classic-ui",
+  "openI": 5,
+  "allI": 16,
+  "openP": 0,
+  "allP": 7,
+  "recent": 1
+ },
+ {
+  "repo": "documentation",
+  "label": "99 tag: front-end (Volto)",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "documentation",
+  "label": "99 tag: theme",
+  "openI": 0,
+  "allI": 3,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "documentation",
+  "label": "dependencies",
+  "openI": 1,
+  "allI": 1,
+  "openP": 2,
+  "allP": 21,
+  "recent": 20
+ },
+ {
+  "repo": "documentation",
+  "label": "99 tag: Plone 7.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "documentation",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 10,
+  "recent": 10
+ },
+ {
+  "repo": "documentation",
+  "label": "python",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 9,
+  "recent": 9
+ },
+ {
+  "repo": "documentation",
+  "label": "multilingual",
+  "openI": 1,
+  "allI": 1,
+  "openP": 0,
+  "allP": 0,
+  "recent": 1
+ },
+ {
+  "repo": "documentation",
+  "label": "99 tag: good first issue",
+  "openI": 12,
+  "allI": 12,
+  "openP": 0,
+  "allP": 0,
+  "recent": 5
+ },
+ {
+  "repo": "documentation",
+  "label": "99 tag: spam",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "documentation",
+  "label": "99 tag: invalid",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "documentation",
+  "label": "99 tag: hacktoberfest-accepted",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "documentation",
+  "label": "99 tag: hacktoberfest",
+  "openI": 11,
+  "allI": 11,
+  "openP": 0,
+  "allP": 0,
+  "recent": 4
+ },
+ {
+  "repo": "executioner",
+  "label": "99 tag: duplicate",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "executioner",
+  "label": "99 tag: invalid",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "executioner",
+  "label": "99 tag: wontfix",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "executioner",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 6,
+  "allP": 36,
+  "recent": 0
+ },
+ {
+  "repo": "experimental.publishtraverse",
+  "label": "99 tag: duplicate",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "experimental.publishtraverse",
+  "label": "99 tag: invalid",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "experimental.publishtraverse",
+  "label": "99 tag: wontfix",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "five.intid",
+  "label": "pr orphaned",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "five.intid",
+  "label": "99 tag: 4.3",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "five.intid",
+  "label": "99 tag: 5.0",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "five.intid",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 14,
+  "recent": 14
+ },
+ {
+  "repo": "five.intid",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 14,
+  "recent": 14
+ },
+ {
+  "repo": "guillotina",
+  "label": "bug",
+  "openI": 2,
+  "allI": 16,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "guillotina",
+  "label": "duplicate",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "guillotina",
+  "label": "enhancement",
+  "openI": 15,
+  "allI": 20,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "guillotina",
+  "label": "help wanted",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "guillotina",
+  "label": "invalid",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "guillotina",
+  "label": "question",
+  "openI": 1,
+  "allI": 6,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "guillotina",
+  "label": "wontfix",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "guillotina",
+  "label": "wip",
+  "openI": 14,
+  "allI": 14,
+  "openP": 1,
+  "allP": 11,
+  "recent": 0
+ },
+ {
+  "repo": "guillotina",
+  "label": "GIP",
+  "openI": 17,
+  "allI": 25,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "guillotina",
+  "label": "Epic",
+  "openI": 0,
+  "allI": 1,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "guillotina",
+  "label": "contrib.dbusers",
+  "openI": 2,
+  "allI": 4,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "guillotina",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 10,
+  "recent": 0
+ },
+ {
+  "repo": "guillotina",
+  "label": "py39",
+  "openI": 1,
+  "allI": 1,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "guillotina-volto",
+  "label": "bug",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "guillotina-volto",
+  "label": "documentation",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "guillotina-volto",
+  "label": "duplicate",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "guillotina-volto",
+  "label": "enhancement",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "guillotina-volto",
+  "label": "good first issue",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "guillotina-volto",
+  "label": "help wanted",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "guillotina-volto",
+  "label": "invalid",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "guillotina-volto",
+  "label": "question",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "guillotina-volto",
+  "label": "wontfix",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "guillotina_dbusers",
+  "label": "bug",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "guillotina_dbusers",
+  "label": "duplicate",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "guillotina_dbusers",
+  "label": "enhancement",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "guillotina_dbusers",
+  "label": "help wanted",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "guillotina_dbusers",
+  "label": "invalid",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "guillotina_dbusers",
+  "label": "question",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "guillotina_dbusers",
+  "label": "wontfix",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "guillotina_elasticsearch",
+  "label": "bug",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "guillotina_elasticsearch",
+  "label": "duplicate",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "guillotina_elasticsearch",
+  "label": "enhancement",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "guillotina_elasticsearch",
+  "label": "help wanted",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "guillotina_elasticsearch",
+  "label": "invalid",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "guillotina_elasticsearch",
+  "label": "question",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "guillotina_elasticsearch",
+  "label": "wontfix",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "guillotina_elasticsearch",
+  "label": "WIP",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 1,
+  "recent": 0
+ },
+ {
+  "repo": "guillotina_gcloudstorage",
+  "label": "bug",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "guillotina_gcloudstorage",
+  "label": "duplicate",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "guillotina_gcloudstorage",
+  "label": "enhancement",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "guillotina_gcloudstorage",
+  "label": "good first issue",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "guillotina_gcloudstorage",
+  "label": "help wanted",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "guillotina_gcloudstorage",
+  "label": "invalid",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "guillotina_gcloudstorage",
+  "label": "question",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "guillotina_gcloudstorage",
+  "label": "wontfix",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "guillotina_mailer",
+  "label": "bug",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "guillotina_mailer",
+  "label": "duplicate",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "guillotina_mailer",
+  "label": "enhancement",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "guillotina_mailer",
+  "label": "help wanted",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "guillotina_mailer",
+  "label": "invalid",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "guillotina_mailer",
+  "label": "question",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "guillotina_mailer",
+  "label": "wontfix",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "guillotina_prometheus",
+  "label": "bug",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "guillotina_prometheus",
+  "label": "duplicate",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "guillotina_prometheus",
+  "label": "enhancement",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "guillotina_prometheus",
+  "label": "good first issue",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "guillotina_prometheus",
+  "label": "help wanted",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "guillotina_prometheus",
+  "label": "invalid",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "guillotina_prometheus",
+  "label": "question",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "guillotina_prometheus",
+  "label": "wontfix",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "guillotina_rediscache",
+  "label": "bug",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "guillotina_rediscache",
+  "label": "duplicate",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "guillotina_rediscache",
+  "label": "enhancement",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "guillotina_rediscache",
+  "label": "good first issue",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "guillotina_rediscache",
+  "label": "help wanted",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "guillotina_rediscache",
+  "label": "invalid",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "guillotina_rediscache",
+  "label": "question",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "guillotina_rediscache",
+  "label": "wontfix",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "guillotina_s3storage",
+  "label": "bug",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "guillotina_s3storage",
+  "label": "duplicate",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "guillotina_s3storage",
+  "label": "enhancement",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "guillotina_s3storage",
+  "label": "good first issue",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "guillotina_s3storage",
+  "label": "help wanted",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "guillotina_s3storage",
+  "label": "invalid",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "guillotina_s3storage",
+  "label": "question",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "guillotina_s3storage",
+  "label": "wontfix",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "guillotina_statsd",
+  "label": "bug",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "guillotina_statsd",
+  "label": "duplicate",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "guillotina_statsd",
+  "label": "enhancement",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "guillotina_statsd",
+  "label": "good first issue",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "guillotina_statsd",
+  "label": "help wanted",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "guillotina_statsd",
+  "label": "invalid",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "guillotina_statsd",
+  "label": "question",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "guillotina_statsd",
+  "label": "wontfix",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "Installers-UnifiedInstaller",
+  "label": "99 tag: OSX",
+  "openI": 0,
+  "allI": 5,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "Installers-UnifiedInstaller",
+  "label": "pr orphaned",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "Installers-UnifiedInstaller",
+  "label": "99 tag: 5.0",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "Installers-UnifiedInstaller",
+  "label": "99 tag: 4.3",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "Installers-UnifiedInstaller",
+  "label": "99 tag: Sprint",
+  "openI": 0,
+  "allI": 1,
+  "openP": 0,
+  "allP": 1,
+  "recent": 0
+ },
+ {
+  "repo": "Installers-UnifiedInstaller",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 1,
+  "recent": 0
+ },
+ {
+  "repo": "jenkins.plone.org",
+  "label": "Jenkins VM donation",
+  "openI": 0,
+  "allI": 2,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "jenkins.plone.org",
+  "label": "Ansible",
+  "openI": 0,
+  "allI": 9,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "jenkins.plone.org",
+  "label": "Jenkins Job Builder",
+  "openI": 1,
+  "allI": 17,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "jenkins.plone.org",
+  "label": "question",
+  "openI": 0,
+  "allI": 15,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "jenkins.plone.org",
+  "label": "ready",
+  "openI": 1,
+  "allI": 2,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "jenkins.plone.org",
+  "label": "in progress",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 2,
+  "recent": 0
+ },
+ {
+  "repo": "jenkins.plone.org",
+  "label": "Bug",
+  "openI": 0,
+  "allI": 34,
+  "openP": 0,
+  "allP": 1,
+  "recent": 0
+ },
+ {
+  "repo": "jenkins.plone.org",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 36,
+  "recent": 5
+ },
+ {
+  "repo": "jenkins.plone.org",
+  "label": "python",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 4,
+  "recent": 4
+ },
+ {
+  "repo": "marketing-materials",
+  "label": "bug",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "marketing-materials",
+  "label": "duplicate",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "marketing-materials",
+  "label": "enhancement",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "marketing-materials",
+  "label": "invalid",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "marketing-materials",
+  "label": "question",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "marketing-materials",
+  "label": "wontfix",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "marketing-materials",
+  "label": "pr testing",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "marketing-materials",
+  "label": "pr orphaned",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "marketing-materials",
+  "label": "pr wip",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "marketing-materials",
+  "label": "pr ready",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "marketing-materials",
+  "label": "pr review",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "marketing-materials",
+  "label": "pr p5.0",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "marketing-materials",
+  "label": "pr p4.3",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "marketing-materials",
+  "label": "pr rebase",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "meta",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 35,
+  "recent": 31
+ },
+ {
+  "repo": "meta",
+  "label": "python",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 1,
+  "recent": 0
+ },
+ {
+  "repo": "meta",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 31,
+  "recent": 31
+ },
+ {
+  "repo": "mockup",
+  "label": "99 tag: UX Accessibility",
+  "openI": 1,
+  "allI": 18,
+  "openP": 0,
+  "allP": 11,
+  "recent": 0
+ },
+ {
+  "repo": "mockup",
+  "label": "99 tag: documentation",
+  "openI": 1,
+  "allI": 41,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "mockup",
+  "label": "99 tag: bundle:toolbar",
+  "openI": 0,
+  "allI": 65,
+  "openP": 0,
+  "allP": 1,
+  "recent": 0
+ },
+ {
+  "repo": "mockup",
+  "label": "99 tag: bundle:widgets",
+  "openI": 0,
+  "allI": 64,
+  "openP": 0,
+  "allP": 2,
+  "recent": 0
+ },
+ {
+  "repo": "mockup",
+  "label": "99 tag: pattern:modal",
+  "openI": 0,
+  "allI": 37,
+  "openP": 0,
+  "allP": 3,
+  "recent": 0
+ },
+ {
+  "repo": "mockup",
+  "label": "99 tag: invalid",
+  "openI": 0,
+  "allI": 3,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "mockup",
+  "label": "99 tag: pattern:pickadate",
+  "openI": 0,
+  "allI": 1,
+  "openP": 0,
+  "allP": 1,
+  "recent": 0
+ },
+ {
+  "repo": "mockup",
+  "label": "99 tag: pattern:relateditems",
+  "openI": 0,
+  "allI": 9,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "mockup",
+  "label": "99 tag: bundle barceloneta",
+  "openI": 0,
+  "allI": 1,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "mockup",
+  "label": "99 tag: Plone 5.x",
+  "openI": 2,
+  "allI": 9,
+  "openP": 0,
+  "allP": 13,
+  "recent": 0
+ },
+ {
+  "repo": "mockup",
+  "label": "99 tag: bundle:foldercontents",
+  "openI": 0,
+  "allI": 9,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "mockup",
+  "label": "99 tag: pattern:resourceregistry",
+  "openI": 0,
+  "allI": 6,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "mockup",
+  "label": "99 tag: pattern:structure",
+  "openI": 2,
+  "allI": 23,
+  "openP": 0,
+  "allP": 3,
+  "recent": 0
+ },
+ {
+  "repo": "mockup",
+  "label": "99 tag: styles",
+  "openI": 0,
+  "allI": 5,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "mockup",
+  "label": "99 tag: plone.app.widgets",
+  "openI": 0,
+  "allI": 5,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "mockup",
+  "label": "99 tag: pattern:select2",
+  "openI": 0,
+  "allI": 4,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "mockup",
+  "label": "99 tag: pattern:querystring",
+  "openI": 1,
+  "allI": 4,
+  "openP": 0,
+  "allP": 1,
+  "recent": 0
+ },
+ {
+  "repo": "mockup",
+  "label": "99 tag: pattern:filemanager",
+  "openI": 0,
+  "allI": 1,
+  "openP": 0,
+  "allP": 1,
+  "recent": 0
+ },
+ {
+  "repo": "mockup",
+  "label": "99 tag: pattern:thememapper",
+  "openI": 0,
+  "allI": 6,
+  "openP": 0,
+  "allP": 1,
+  "recent": 0
+ },
+ {
+  "repo": "mockup",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 1,
+  "allI": 1,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "mockup",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 71,
+  "recent": 32
+ },
+ {
+  "repo": "mockup",
+  "label": "99 tag: bssp",
+  "openI": 1,
+  "allI": 3,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "mockup",
+  "label": "06 type: release feature",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 1,
+  "recent": 0
+ },
+ {
+  "repo": "mockup",
+  "label": "javascript",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 32,
+  "recent": 32
+ },
+ {
+  "repo": "mr.roboto",
+  "label": "bug",
+  "openI": 0,
+  "allI": 2,
+  "openP": 0,
+  "allP": 1,
+  "recent": 0
+ },
+ {
+  "repo": "mr.roboto",
+  "label": "duplicate",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "mr.roboto",
+  "label": "enhancement",
+  "openI": 1,
+  "allI": 2,
+  "openP": 0,
+  "allP": 2,
+  "recent": 0
+ },
+ {
+  "repo": "mr.roboto",
+  "label": "invalid",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "mr.roboto",
+  "label": "question",
+  "openI": 0,
+  "allI": 1,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "mr.roboto",
+  "label": "wontfix",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "mr.roboto",
+  "label": "pr orphaned",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "mr.roboto",
+  "label": "pr testing",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "mr.roboto",
+  "label": "pr review",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 2,
+  "recent": 0
+ },
+ {
+  "repo": "mr.roboto",
+  "label": "pr wip",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "mr.roboto",
+  "label": "pr p4.3",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "mr.roboto",
+  "label": "pr p5.0",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "mr.roboto",
+  "label": "pr ready",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "mr.roboto",
+  "label": "pr rebase",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "mr.roboto",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 52,
+  "recent": 36
+ },
+ {
+  "repo": "mr.roboto",
+  "label": "python",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 33,
+  "recent": 33
+ },
+ {
+  "repo": "mr.roboto",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 3,
+  "recent": 3
+ },
+ {
+  "repo": "nick",
+  "label": "03 type: feature",
+  "openI": 0,
+  "allI": 1,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "nick",
+  "label": "26 status: blocked",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "nick",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 5,
+  "allP": 12,
+  "recent": 12
+ },
+ {
+  "repo": "nick",
+  "label": "ruby",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 2,
+  "recent": 2
+ },
+ {
+  "repo": "nick",
+  "label": "javascript",
+  "openI": 0,
+  "allI": 0,
+  "openP": 5,
+  "allP": 10,
+  "recent": 10
+ },
+ {
+  "repo": "papyrus",
+  "label": "99 tag: invalid",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "papyrus",
+  "label": "99 tag: wontifx",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "papyrus",
+  "label": "tag: duplicate",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "papyrus",
+  "label": "tag: release",
+  "openI": 2,
+  "allI": 3,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "papyrus",
+  "label": "99 tag: CI",
+  "openI": 3,
+  "allI": 3,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "papyrus",
+  "label": "99 tag: Plone 3.x",
+  "openI": 0,
+  "allI": 2,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "papyrus",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "papyrus",
+  "label": "99 tag: Plone 5.x",
+  "openI": 1,
+  "allI": 2,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "papyrus",
+  "label": "99 tag: sprint",
+  "openI": 1,
+  "allI": 5,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "papyrus",
+  "label": "papyrus 1.5",
+  "openI": 6,
+  "allI": 7,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "pastanaga",
+  "label": "bug",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "pastanaga",
+  "label": "duplicate",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "pastanaga",
+  "label": "enhancement",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "pastanaga",
+  "label": "help wanted",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "pastanaga",
+  "label": "invalid",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "pastanaga",
+  "label": "question",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "pastanaga",
+  "label": "wontfix",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "pastanaga-angular",
+  "label": "bug",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "pastanaga-angular",
+  "label": "duplicate",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "pastanaga-angular",
+  "label": "enhancement",
+  "openI": 0,
+  "allI": 14,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "pastanaga-angular",
+  "label": "good first issue",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "pastanaga-angular",
+  "label": "help wanted",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "pastanaga-angular",
+  "label": "invalid",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "pastanaga-angular",
+  "label": "question",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "pastanaga-angular",
+  "label": "wontfix",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "pastanaga-angular",
+  "label": "WIP",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 1,
+  "recent": 0
+ },
+ {
+  "repo": "pastanaga-angular",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 141,
+  "recent": 96
+ },
+ {
+  "repo": "pastanaga-angular",
+  "label": "Build process",
+  "openI": 0,
+  "allI": 1,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "pastanaga-angular",
+  "label": "blocked: Angular issue",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "pastanaga-angular",
+  "label": "javascript",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 96,
+  "recent": 96
+ },
+ {
+  "repo": "pastanaga-icons",
+  "label": "bug",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "pastanaga-icons",
+  "label": "duplicate",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "pastanaga-icons",
+  "label": "enhancement",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "pastanaga-icons",
+  "label": "help wanted",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "pastanaga-icons",
+  "label": "invalid",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "pastanaga-icons",
+  "label": "question",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "pastanaga-icons",
+  "label": "wontfix",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "pastanaga-icons",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 59,
+  "recent": 0
+ },
+ {
+  "repo": "planet.plone.org",
+  "label": "pr orphaned",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "planet.plone.org",
+  "label": "pr testing",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "planet.plone.org",
+  "label": "pr review",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "planet.plone.org",
+  "label": "pr wip",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "planet.plone.org",
+  "label": "pr p5.0",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "planet.plone.org",
+  "label": "pr ready",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "planet.plone.org",
+  "label": "pr p4.3",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "planet.plone.org",
+  "label": "pr rebase",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "Plone",
+  "label": "99 tag: 4.3",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "Plone",
+  "label": "99 tag: 5.0",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "Plone",
+  "label": "99 tag: imported from dev.plone.org",
+  "openI": 0,
+  "allI": 1,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "Plone",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "Plone",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone-client",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 6,
+  "recent": 6
+ },
+ {
+  "repo": "plone-client",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 3,
+  "recent": 3
+ },
+ {
+  "repo": "plone-client",
+  "label": "python",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 3,
+  "recent": 3
+ },
+ {
+  "repo": "plone-client",
+  "label": "skip changelog",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 6,
+  "recent": 6
+ },
+ {
+  "repo": "plone-contributor-statistics",
+  "label": "99 tag: documentation",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 4,
+  "recent": 4
+ },
+ {
+  "repo": "plone-contributor-statistics",
+  "label": "99 tag: cleanup",
+  "openI": 0,
+  "allI": 1,
+  "openP": 0,
+  "allP": 0,
+  "recent": 1
+ },
+ {
+  "repo": "plone-contributor-statistics",
+  "label": "99 tag: data",
+  "openI": 5,
+  "allI": 17,
+  "openP": 0,
+  "allP": 28,
+  "recent": 45
+ },
+ {
+  "repo": "plone-contributor-statistics",
+  "label": "99 tag: community recognition",
+  "openI": 5,
+  "allI": 16,
+  "openP": 1,
+  "allP": 15,
+  "recent": 31
+ },
+ {
+  "repo": "plone-contributor-statistics",
+  "label": "99 tag: github stats",
+  "openI": 5,
+  "allI": 17,
+  "openP": 0,
+  "allP": 10,
+  "recent": 27
+ },
+ {
+  "repo": "plone-mcp",
+  "label": "bug",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone-mcp",
+  "label": "documentation",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone-mcp",
+  "label": "duplicate",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone-mcp",
+  "label": "enhancement",
+  "openI": 1,
+  "allI": 1,
+  "openP": 0,
+  "allP": 0,
+  "recent": 1
+ },
+ {
+  "repo": "plone-mcp",
+  "label": "good first issue",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone-mcp",
+  "label": "help wanted",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone-mcp",
+  "label": "invalid",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone-mcp",
+  "label": "question",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone-mcp",
+  "label": "wontfix",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone-ping",
+  "label": "demo-site",
+  "openI": 0,
+  "allI": 38,
+  "openP": 0,
+  "allP": 0,
+  "recent": 38
+ },
+ {
+  "repo": "plone-ping",
+  "label": "status",
+  "openI": 0,
+  "allI": 71,
+  "openP": 0,
+  "allP": 0,
+  "recent": 71
+ },
+ {
+  "repo": "plone-ping",
+  "label": "ci-jenkins",
+  "openI": 0,
+  "allI": 4,
+  "openP": 0,
+  "allP": 0,
+  "recent": 4
+ },
+ {
+  "repo": "plone-ping",
+  "label": "plone-brasil",
+  "openI": 0,
+  "allI": 25,
+  "openP": 0,
+  "allP": 0,
+  "recent": 25
+ },
+ {
+  "repo": "plone-ping",
+  "label": "plone-conference-2026",
+  "openI": 0,
+  "allI": 1,
+  "openP": 0,
+  "allP": 0,
+  "recent": 1
+ },
+ {
+  "repo": "plone-ping",
+  "label": "plone-conference-2024",
+  "openI": 0,
+  "allI": 2,
+  "openP": 0,
+  "allP": 0,
+  "recent": 2
+ },
+ {
+  "repo": "plone-ping",
+  "label": "static-files",
+  "openI": 0,
+  "allI": 1,
+  "openP": 0,
+  "allP": 0,
+  "recent": 1
+ },
+ {
+  "repo": "plone-sphinx-theme",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 3,
+  "allP": 7,
+  "recent": 7
+ },
+ {
+  "repo": "plone-sphinx-theme",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 3,
+  "allP": 7,
+  "recent": 7
+ },
+ {
+  "repo": "plone-stubs",
+  "label": "skip changelog",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 5,
+  "recent": 5
+ },
+ {
+  "repo": "plone-vs-snippets",
+  "label": "bug",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone-vs-snippets",
+  "label": "duplicate",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone-vs-snippets",
+  "label": "enhancement",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 1,
+  "recent": 0
+ },
+ {
+  "repo": "plone-vs-snippets",
+  "label": "good first issue",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone-vs-snippets",
+  "label": "help wanted",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone-vs-snippets",
+  "label": "invalid",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone-vs-snippets",
+  "label": "question",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone-vs-snippets",
+  "label": "wontfix",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.alterego",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.alterego",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.alterego",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 13,
+  "recent": 13
+ },
+ {
+  "repo": "plone.alterego",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 13,
+  "recent": 13
+ },
+ {
+  "repo": "plone.api",
+  "label": "99 tag: duplicate",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.api",
+  "label": "99 tag: invalid",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.api",
+  "label": "99 tag: wontifx",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.api",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.api",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.api",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 15,
+  "recent": 15
+ },
+ {
+  "repo": "plone.api",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 15,
+  "recent": 15
+ },
+ {
+  "repo": "plone.app.blob",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 2,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.blob",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 2,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.blocks",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 2,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.blocks",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 1,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.blocks",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 13,
+  "recent": 13
+ },
+ {
+  "repo": "plone.app.blocks",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 13,
+  "recent": 13
+ },
+ {
+  "repo": "plone.app.caching",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.caching",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 1,
+  "openP": 0,
+  "allP": 1,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.caching",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 8,
+  "recent": 7
+ },
+ {
+  "repo": "plone.app.caching",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 7,
+  "recent": 7
+ },
+ {
+  "repo": "plone.app.collection",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.collection",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.content",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 2,
+  "openP": 0,
+  "allP": 7,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.content",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 2,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.content",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 13,
+  "recent": 13
+ },
+ {
+  "repo": "plone.app.content",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 13,
+  "recent": 13
+ },
+ {
+  "repo": "plone.app.contentlisting",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.contentlisting",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 3,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.contentlisting",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 13,
+  "recent": 13
+ },
+ {
+  "repo": "plone.app.contentlisting",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 13,
+  "recent": 13
+ },
+ {
+  "repo": "plone.app.contentmenu",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 1,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.contentmenu",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 1,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.contentmenu",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 15,
+  "recent": 15
+ },
+ {
+  "repo": "plone.app.contentmenu",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 15,
+  "recent": 15
+ },
+ {
+  "repo": "plone.app.contentrules",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 1,
+  "openP": 0,
+  "allP": 3,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.contentrules",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.contentrules",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 17,
+  "recent": 17
+ },
+ {
+  "repo": "plone.app.contentrules",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 17,
+  "recent": 17
+ },
+ {
+  "repo": "plone.app.contenttypes",
+  "label": "99 tag: wine and beer sprint",
+  "openI": 0,
+  "allI": 1,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.contenttypes",
+  "label": "99 tag: migration",
+  "openI": 8,
+  "allI": 35,
+  "openP": 0,
+  "allP": 2,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.contenttypes",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 9,
+  "openP": 0,
+  "allP": 4,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.contenttypes",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 5,
+  "openP": 0,
+  "allP": 5,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.contenttypes",
+  "label": "99 tag: Plone 6.x",
+  "openI": 0,
+  "allI": 2,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.contenttypes",
+  "label": "pre-commit.ci autofix",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.contenttypes",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 14,
+  "recent": 14
+ },
+ {
+  "repo": "plone.app.contenttypes",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 14,
+  "recent": 14
+ },
+ {
+  "repo": "plone.app.controlpanel",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 1,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.controlpanel",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 1,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.customerize",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 1,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.customerize",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 2,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.customerize",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 13,
+  "recent": 13
+ },
+ {
+  "repo": "plone.app.customerize",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 13,
+  "recent": 13
+ },
+ {
+  "repo": "plone.app.debugtoolbar",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.debugtoolbar",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.debugtoolbar",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 3,
+  "recent": 3
+ },
+ {
+  "repo": "plone.app.debugtoolbar",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 3,
+  "recent": 3
+ },
+ {
+  "repo": "plone.app.dexterity",
+  "label": "99 tag: imported",
+  "openI": 2,
+  "allI": 52,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.dexterity",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 1,
+  "openP": 0,
+  "allP": 1,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.dexterity",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 1,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.dexterity",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 14,
+  "recent": 14
+ },
+ {
+  "repo": "plone.app.dexterity",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 14,
+  "recent": 14
+ },
+ {
+  "repo": "plone.app.discussion",
+  "label": "99 tag: Plone 5.x",
+  "openI": 2,
+  "allI": 2,
+  "openP": 0,
+  "allP": 2,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.discussion",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 1,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.discussion",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 15,
+  "recent": 15
+ },
+ {
+  "repo": "plone.app.discussion",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 15,
+  "recent": 15
+ },
+ {
+  "repo": "plone.app.drafts",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 1,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.drafts",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.drafts",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 9,
+  "recent": 9
+ },
+ {
+  "repo": "plone.app.drafts",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 9,
+  "recent": 9
+ },
+ {
+  "repo": "plone.app.event",
+  "label": "99 tag: developer",
+  "openI": 0,
+  "allI": 15,
+  "openP": 0,
+  "allP": 1,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.event",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 2,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.event",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 3,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.event",
+  "label": "99 tag: UX Accessibility",
+  "openI": 1,
+  "allI": 1,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.event",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 2,
+  "allP": 13,
+  "recent": 13
+ },
+ {
+  "repo": "plone.app.event",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 2,
+  "allP": 13,
+  "recent": 13
+ },
+ {
+  "repo": "plone.app.folder",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.folder",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.form",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 1,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.form",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.i18n",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.i18n",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.i18n",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 13,
+  "recent": 13
+ },
+ {
+  "repo": "plone.app.i18n",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 13,
+  "recent": 13
+ },
+ {
+  "repo": "plone.app.imaging",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 1,
+  "allI": 1,
+  "openP": 0,
+  "allP": 3,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.imaging",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 1,
+  "openP": 0,
+  "allP": 2,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.intid",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.intid",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.intid",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 13,
+  "recent": 13
+ },
+ {
+  "repo": "plone.app.intid",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 13,
+  "recent": 13
+ },
+ {
+  "repo": "plone.app.iterate",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 3,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.iterate",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 1,
+  "openP": 0,
+  "allP": 1,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.iterate",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 14,
+  "recent": 14
+ },
+ {
+  "repo": "plone.app.iterate",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 14,
+  "recent": 14
+ },
+ {
+  "repo": "plone.app.layout",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 1,
+  "openP": 0,
+  "allP": 5,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.layout",
+  "label": "99 tag: Plone 5.x",
+  "openI": 1,
+  "allI": 4,
+  "openP": 0,
+  "allP": 12,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.layout",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 17,
+  "recent": 17
+ },
+ {
+  "repo": "plone.app.layout",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 17,
+  "recent": 17
+ },
+ {
+  "repo": "plone.app.ldap",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.ldap",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.ldap",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 1,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.linkintegrity",
+  "label": "99 tag: imported",
+  "openI": 0,
+  "allI": 1,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.linkintegrity",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.linkintegrity",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.linkintegrity",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 13,
+  "recent": 13
+ },
+ {
+  "repo": "plone.app.linkintegrity",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 13,
+  "recent": 13
+ },
+ {
+  "repo": "plone.app.lockingbehavior",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.lockingbehavior",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.lockingbehavior",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 14,
+  "recent": 14
+ },
+ {
+  "repo": "plone.app.lockingbehavior",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 14,
+  "recent": 14
+ },
+ {
+  "repo": "plone.app.mosaic",
+  "label": "99 tag: duplicate",
+  "openI": 0,
+  "allI": 1,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.mosaic",
+  "label": "99 tag: invalid",
+  "openI": 0,
+  "allI": 4,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.mosaic",
+  "label": "99 tag: wontifx",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.mosaic",
+  "label": "99 tag: plone.app.blocks",
+  "openI": 0,
+  "allI": 2,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.mosaic",
+  "label": "99 tag: plone.app.standardtiles",
+  "openI": 2,
+  "allI": 14,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.mosaic",
+  "label": "99 tag: plone.app.tiles",
+  "openI": 0,
+  "allI": 2,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.mosaic",
+  "label": "99 tag: plone.tiles",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.mosaic",
+  "label": "99 tag: skunkworks",
+  "openI": 2,
+  "allI": 5,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.mosaic",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 1,
+  "allI": 1,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.mosaic",
+  "label": "99 tag: Plone 5.x",
+  "openI": 1,
+  "allI": 3,
+  "openP": 0,
+  "allP": 5,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.mosaic",
+  "label": "hacktoberfest-accepted",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 1,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.mosaic",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 3,
+  "allP": 61,
+  "recent": 44
+ },
+ {
+  "repo": "plone.app.mosaic",
+  "label": "javascript",
+  "openI": 0,
+  "allI": 0,
+  "openP": 2,
+  "allP": 19,
+  "recent": 19
+ },
+ {
+  "repo": "plone.app.mosaic",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 24,
+  "recent": 24
+ },
+ {
+  "repo": "plone.app.mosaic",
+  "label": "99 tag: Plone 6.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.multilingual",
+  "label": "99 tag: targets PAM 1.x",
+  "openI": 0,
+  "allI": 20,
+  "openP": 0,
+  "allP": 6,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.multilingual",
+  "label": "99 tag: targets PAM 2.x",
+  "openI": 0,
+  "allI": 25,
+  "openP": 0,
+  "allP": 10,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.multilingual",
+  "label": "99 tag: migration",
+  "openI": 0,
+  "allI": 7,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.multilingual",
+  "label": "99 tag: targets PAM 3.x",
+  "openI": 0,
+  "allI": 8,
+  "openP": 0,
+  "allP": 11,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.multilingual",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 14,
+  "recent": 14
+ },
+ {
+  "repo": "plone.app.multilingual",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 14,
+  "recent": 14
+ },
+ {
+  "repo": "plone.app.multilingualindexes",
+  "label": "99 tag: duplicate",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.multilingualindexes",
+  "label": "99 tag: invalid",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.multilingualindexes",
+  "label": "99 tag: wontfix",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.openid",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.openid",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.portlets",
+  "label": "99 tag: Plone 5.x",
+  "openI": 3,
+  "allI": 4,
+  "openP": 0,
+  "allP": 8,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.portlets",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 2,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.portlets",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 13,
+  "recent": 13
+ },
+ {
+  "repo": "plone.app.portlets",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 13,
+  "recent": 13
+ },
+ {
+  "repo": "plone.app.querystring",
+  "label": "99 tag: Plone 5.x",
+  "openI": 1,
+  "allI": 1,
+  "openP": 0,
+  "allP": 4,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.querystring",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.querystring",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 14,
+  "recent": 14
+ },
+ {
+  "repo": "plone.app.querystring",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 14,
+  "recent": 14
+ },
+ {
+  "repo": "plone.app.redirector",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.redirector",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.redirector",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 14,
+  "recent": 14
+ },
+ {
+  "repo": "plone.app.redirector",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 14,
+  "recent": 14
+ },
+ {
+  "repo": "plone.app.referenceablebehavior",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.referenceablebehavior",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.registry",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 3,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.registry",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 4,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.registry",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 15,
+  "recent": 15
+ },
+ {
+  "repo": "plone.app.registry",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 15,
+  "recent": 15
+ },
+ {
+  "repo": "plone.app.relationfield",
+  "label": "99 tag: imported",
+  "openI": 0,
+  "allI": 2,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.relationfield",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 1,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.relationfield",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.relationfield",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 16,
+  "recent": 16
+ },
+ {
+  "repo": "plone.app.relationfield",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 16,
+  "recent": 16
+ },
+ {
+  "repo": "plone.app.robotframework",
+  "label": "99 tag: duplicate",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.robotframework",
+  "label": "99 tag: invalid",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.robotframework",
+  "label": "99 tag: wontifx",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.robotframework",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 3,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.robotframework",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.robotframework",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 15,
+  "recent": 14
+ },
+ {
+  "repo": "plone.app.robotframework",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 14,
+  "recent": 14
+ },
+ {
+  "repo": "plone.app.search",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 1,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.search",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 1,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.standardtiles",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 4,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.standardtiles",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.standardtiles",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 15,
+  "recent": 15
+ },
+ {
+  "repo": "plone.app.standardtiles",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 15,
+  "recent": 15
+ },
+ {
+  "repo": "plone.app.testing",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.testing",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 2,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.testing",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 15,
+  "recent": 15
+ },
+ {
+  "repo": "plone.app.testing",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 15,
+  "recent": 15
+ },
+ {
+  "repo": "plone.app.textfield",
+  "label": "99 tag: imported",
+  "openI": 0,
+  "allI": 2,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.textfield",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.textfield",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.textfield",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 13,
+  "recent": 13
+ },
+ {
+  "repo": "plone.app.textfield",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 13,
+  "recent": 13
+ },
+ {
+  "repo": "plone.app.theming",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 1,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.theming",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 6,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.theming",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 16,
+  "recent": 16
+ },
+ {
+  "repo": "plone.app.theming",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 16,
+  "recent": 16
+ },
+ {
+  "repo": "plone.app.themingplugins",
+  "label": "pr orphaned",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.themingplugins",
+  "label": "99 tag: 5.0",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.themingplugins",
+  "label": "99 tag: 4.3",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.tiles",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 1,
+  "openP": 0,
+  "allP": 1,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.tiles",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.tiles",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 9,
+  "recent": 7
+ },
+ {
+  "repo": "plone.app.tiles",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 7,
+  "recent": 7
+ },
+ {
+  "repo": "plone.app.upgrade",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 3,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.upgrade",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 1,
+  "openP": 0,
+  "allP": 10,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.upgrade",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 14,
+  "recent": 14
+ },
+ {
+  "repo": "plone.app.upgrade",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 14,
+  "recent": 14
+ },
+ {
+  "repo": "plone.app.users",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 1,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.users",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 1,
+  "openP": 0,
+  "allP": 4,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.users",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 7,
+  "recent": 7
+ },
+ {
+  "repo": "plone.app.users",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 7,
+  "recent": 7
+ },
+ {
+  "repo": "plone.app.uuid",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.uuid",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.uuid",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 13,
+  "recent": 13
+ },
+ {
+  "repo": "plone.app.uuid",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 13,
+  "recent": 13
+ },
+ {
+  "repo": "plone.app.versioningbehavior",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.versioningbehavior",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 1,
+  "openP": 0,
+  "allP": 3,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.versioningbehavior",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 15,
+  "recent": 15
+ },
+ {
+  "repo": "plone.app.versioningbehavior",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 15,
+  "recent": 15
+ },
+ {
+  "repo": "plone.app.viewletmanager",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.viewletmanager",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.viewletmanager",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 16,
+  "recent": 16
+ },
+ {
+  "repo": "plone.app.viewletmanager",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 16,
+  "recent": 16
+ },
+ {
+  "repo": "plone.app.vocabularies",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 1,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.vocabularies",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.vocabularies",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 14,
+  "recent": 14
+ },
+ {
+  "repo": "plone.app.vocabularies",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 14,
+  "recent": 14
+ },
+ {
+  "repo": "plone.app.vulnerabilities",
+  "label": "pr orphaned",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.vulnerabilities",
+  "label": "99 tag: 5.0",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.vulnerabilities",
+  "label": "99 tag: 4.3",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.widgets",
+  "label": "99 tag: widgets",
+  "openI": 0,
+  "allI": 17,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.widgets",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 2,
+  "allI": 8,
+  "openP": 0,
+  "allP": 5,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.widgets",
+  "label": "99 tag: Plone 5.x",
+  "openI": 1,
+  "allI": 1,
+  "openP": 0,
+  "allP": 1,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.widgets",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 4,
+  "recent": 4
+ },
+ {
+  "repo": "plone.app.widgets",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 4,
+  "recent": 4
+ },
+ {
+  "repo": "plone.app.workflow",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 1,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.workflow",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.workflow",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 14,
+  "recent": 14
+ },
+ {
+  "repo": "plone.app.workflow",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 14,
+  "recent": 14
+ },
+ {
+  "repo": "plone.app.workflowmanager",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.workflowmanager",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.workflowmanager",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 1,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.z3cform",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 2,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.z3cform",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.z3cform",
+  "label": "99 tag: bssp",
+  "openI": 0,
+  "allI": 1,
+  "openP": 0,
+  "allP": 1,
+  "recent": 0
+ },
+ {
+  "repo": "plone.app.z3cform",
+  "label": "99 tag: Plone 6.1",
+  "openI": 0,
+  "allI": 1,
+  "openP": 0,
+  "allP": 0,
+  "recent": 1
+ },
+ {
+  "repo": "plone.app.z3cform",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 17,
+  "recent": 17
+ },
+ {
+  "repo": "plone.app.z3cform",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 17,
+  "recent": 17
+ },
+ {
+  "repo": "plone.autoform",
+  "label": "99 tag: imported",
+  "openI": 0,
+  "allI": 1,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.autoform",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.autoform",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.autoform",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 14,
+  "recent": 14
+ },
+ {
+  "repo": "plone.autoform",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 14,
+  "recent": 14
+ },
+ {
+  "repo": "plone.autoinclude",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 12,
+  "recent": 12
+ },
+ {
+  "repo": "plone.autoinclude",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 12,
+  "recent": 12
+ },
+ {
+  "repo": "plone.base",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 14,
+  "recent": 14
+ },
+ {
+  "repo": "plone.base",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 14,
+  "recent": 14
+ },
+ {
+  "repo": "plone.batching",
+  "label": "99 tag: duplicate",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.batching",
+  "label": "99 tag: invalid",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.batching",
+  "label": "99 tag: wontifx",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.batching",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.batching",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.batching",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 18,
+  "recent": 18
+ },
+ {
+  "repo": "plone.batching",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 18,
+  "recent": 18
+ },
+ {
+  "repo": "plone.behavior",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 1,
+  "recent": 0
+ },
+ {
+  "repo": "plone.behavior",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.behavior",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 13,
+  "recent": 13
+ },
+ {
+  "repo": "plone.behavior",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 13,
+  "recent": 13
+ },
+ {
+  "repo": "plone.browserlayer",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.browserlayer",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.browserlayer",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 14,
+  "recent": 14
+ },
+ {
+  "repo": "plone.browserlayer",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 14,
+  "recent": 14
+ },
+ {
+  "repo": "plone.cachepurging",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.cachepurging",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.cachepurging",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 14,
+  "recent": 14
+ },
+ {
+  "repo": "plone.cachepurging",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 14,
+  "recent": 14
+ },
+ {
+  "repo": "plone.caching",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.caching",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.caching",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 13,
+  "recent": 13
+ },
+ {
+  "repo": "plone.caching",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 13,
+  "recent": 13
+ },
+ {
+  "repo": "plone.classicui",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 12,
+  "recent": 12
+ },
+ {
+  "repo": "plone.classicui",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 12,
+  "recent": 12
+ },
+ {
+  "repo": "plone.contentrules",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.contentrules",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.contentrules",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 13,
+  "recent": 13
+ },
+ {
+  "repo": "plone.contentrules",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 13,
+  "recent": 13
+ },
+ {
+  "repo": "plone.de",
+  "label": "bug",
+  "openI": 2,
+  "allI": 3,
+  "openP": 0,
+  "allP": 0,
+  "recent": 1
+ },
+ {
+  "repo": "plone.de",
+  "label": "documentation",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.de",
+  "label": "duplicate",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.de",
+  "label": "enhancement",
+  "openI": 0,
+  "allI": 1,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.de",
+  "label": "good first issue",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.de",
+  "label": "help wanted",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.de",
+  "label": "invalid",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.de",
+  "label": "question",
+  "openI": 1,
+  "allI": 3,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.de",
+  "label": "wontfix",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.dexterity",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 1,
+  "recent": 0
+ },
+ {
+  "repo": "plone.dexterity",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.dexterity",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 16,
+  "recent": 16
+ },
+ {
+  "repo": "plone.dexterity",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 16,
+  "recent": 16
+ },
+ {
+  "repo": "plone.distribution",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 4,
+  "allP": 10,
+  "recent": 10
+ },
+ {
+  "repo": "plone.distribution",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 4,
+  "allP": 10,
+  "recent": 10
+ },
+ {
+  "repo": "plone.dotfiles",
+  "label": "bug",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.dotfiles",
+  "label": "duplicate",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.dotfiles",
+  "label": "enhancement",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.dotfiles",
+  "label": "invalid",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.dotfiles",
+  "label": "question",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.dotfiles",
+  "label": "wontfix",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.dotfiles",
+  "label": "pr orphaned",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.dotfiles",
+  "label": "pr testing",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.dotfiles",
+  "label": "pr review",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.dotfiles",
+  "label": "pr wip",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.dotfiles",
+  "label": "pr p4.3",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.dotfiles",
+  "label": "pr p5.0",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.dotfiles",
+  "label": "pr ready",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.dotfiles",
+  "label": "pr rebase",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.event",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 14,
+  "recent": 14
+ },
+ {
+  "repo": "plone.event",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 14,
+  "recent": 14
+ },
+ {
+  "repo": "plone.exportimport",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 11,
+  "recent": 11
+ },
+ {
+  "repo": "plone.exportimport",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 11,
+  "recent": 11
+ },
+ {
+  "repo": "plone.folder",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.folder",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.folder",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 13,
+  "recent": 13
+ },
+ {
+  "repo": "plone.folder",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 13,
+  "recent": 13
+ },
+ {
+  "repo": "plone.formwidget.autocomplete",
+  "label": "99 tag: imported",
+  "openI": 0,
+  "allI": 1,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.formwidget.autocomplete",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.formwidget.autocomplete",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.formwidget.autocomplete",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 3,
+  "recent": 3
+ },
+ {
+  "repo": "plone.formwidget.autocomplete",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 3,
+  "recent": 3
+ },
+ {
+  "repo": "plone.formwidget.contenttree",
+  "label": "99 tag: imported",
+  "openI": 1,
+  "allI": 1,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.formwidget.contenttree",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.formwidget.contenttree",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 1,
+  "recent": 0
+ },
+ {
+  "repo": "plone.formwidget.datetime",
+  "label": "99 tag: developer",
+  "openI": 0,
+  "allI": 2,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.formwidget.datetime",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.formwidget.datetime",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.formwidget.multifile",
+  "label": "pr orphaned",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.formwidget.multifile",
+  "label": "99 tag: 4.3",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.formwidget.multifile",
+  "label": "99 tag: 5.0",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.formwidget.namedfile",
+  "label": "99 tag: imported",
+  "openI": 0,
+  "allI": 1,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.formwidget.namedfile",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.formwidget.namedfile",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 3,
+  "recent": 0
+ },
+ {
+  "repo": "plone.formwidget.namedfile",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 14,
+  "recent": 14
+ },
+ {
+  "repo": "plone.formwidget.namedfile",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 14,
+  "recent": 14
+ },
+ {
+  "repo": "plone.formwidget.querystring",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.formwidget.querystring",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.formwidget.recaptcha",
+  "label": "pr orphaned",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.formwidget.recaptcha",
+  "label": "99 tag: 4.3",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.formwidget.recaptcha",
+  "label": "99 tag: 5.0",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.formwidget.recaptcha",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 3,
+  "recent": 3
+ },
+ {
+  "repo": "plone.formwidget.recaptcha",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 3,
+  "recent": 3
+ },
+ {
+  "repo": "plone.formwidget.recurrence",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.formwidget.recurrence",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.formwidget.recurrence",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 7,
+  "recent": 7
+ },
+ {
+  "repo": "plone.formwidget.recurrence",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 7,
+  "recent": 7
+ },
+ {
+  "repo": "plone.gallery",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 4,
+  "recent": 2
+ },
+ {
+  "repo": "plone.gallery",
+  "label": "javascript",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 2,
+  "recent": 2
+ },
+ {
+  "repo": "plone.gallery",
+  "label": "wayfinder:map",
+  "openI": 1,
+  "allI": 1,
+  "openP": 0,
+  "allP": 0,
+  "recent": 1
+ },
+ {
+  "repo": "plone.gallery",
+  "label": "wayfinder:prototype",
+  "openI": 0,
+  "allI": 1,
+  "openP": 0,
+  "allP": 0,
+  "recent": 1
+ },
+ {
+  "repo": "plone.gallery",
+  "label": "wayfinder:research",
+  "openI": 0,
+  "allI": 2,
+  "openP": 0,
+  "allP": 0,
+  "recent": 2
+ },
+ {
+  "repo": "plone.gallery",
+  "label": "wayfinder:grilling",
+  "openI": 3,
+  "allI": 3,
+  "openP": 0,
+  "allP": 0,
+  "recent": 3
+ },
+ {
+  "repo": "plone.gallery",
+  "label": "wayfinder:task",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.github",
+  "label": "99 tag: duplicate",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.github",
+  "label": "99 tag: invalid",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.github",
+  "label": "99 tag: wontifx",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.github",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.github",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.i18n",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.i18n",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.i18n",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 13,
+  "recent": 13
+ },
+ {
+  "repo": "plone.i18n",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 13,
+  "recent": 13
+ },
+ {
+  "repo": "plone.indexer",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.indexer",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.indexer",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 13,
+  "recent": 13
+ },
+ {
+  "repo": "plone.indexer",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 13,
+  "recent": 13
+ },
+ {
+  "repo": "plone.instanceprofiling",
+  "label": "bug",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.instanceprofiling",
+  "label": "duplicate",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.instanceprofiling",
+  "label": "enhancement",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.instanceprofiling",
+  "label": "help wanted",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.instanceprofiling",
+  "label": "invalid",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.instanceprofiling",
+  "label": "question",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.instanceprofiling",
+  "label": "wontfix",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.intelligenttext",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.intelligenttext",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.intelligenttext",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 13,
+  "recent": 13
+ },
+ {
+  "repo": "plone.intelligenttext",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 13,
+  "recent": 13
+ },
+ {
+  "repo": "plone.jenkins_node",
+  "label": "bug",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.jenkins_node",
+  "label": "duplicate",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.jenkins_node",
+  "label": "enhancement",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 1,
+  "recent": 0
+ },
+ {
+  "repo": "plone.jenkins_node",
+  "label": "help wanted",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.jenkins_node",
+  "label": "invalid",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.jenkins_node",
+  "label": "question",
+  "openI": 0,
+  "allI": 2,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.jenkins_node",
+  "label": "wontfix",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.jenkins_node",
+  "label": "pr testing",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.jenkins_node",
+  "label": "pr orphaned",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.jenkins_node",
+  "label": "pr wip",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.jenkins_node",
+  "label": "pr ready",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.jenkins_node",
+  "label": "pr review",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.jenkins_node",
+  "label": "pr p4.3",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.jenkins_node",
+  "label": "pr p5.0",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.jenkins_node",
+  "label": "pr rebase",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.jenkins_server",
+  "label": "bug",
+  "openI": 0,
+  "allI": 1,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.jenkins_server",
+  "label": "duplicate",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.jenkins_server",
+  "label": "enhancement",
+  "openI": 0,
+  "allI": 1,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.jenkins_server",
+  "label": "help wanted",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.jenkins_server",
+  "label": "invalid",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.jenkins_server",
+  "label": "question",
+  "openI": 0,
+  "allI": 4,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.jenkins_server",
+  "label": "wontfix",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.jenkins_server",
+  "label": "pr testing",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.jenkins_server",
+  "label": "pr orphaned",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.jenkins_server",
+  "label": "pr wip",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.jenkins_server",
+  "label": "pr ready",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.jenkins_server",
+  "label": "pr review",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.jenkins_server",
+  "label": "pr p5.0",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.jenkins_server",
+  "label": "pr p4.3",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.jenkins_server",
+  "label": "pr rebase",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.jsonserializer",
+  "label": "99 tag: duplicate",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.jsonserializer",
+  "label": "99 tag: invalid",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.jsonserializer",
+  "label": "99 tag: wontfix",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.jsonserializer",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 3,
+  "recent": 3
+ },
+ {
+  "repo": "plone.jsonserializer",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 3,
+  "recent": 3
+ },
+ {
+  "repo": "plone.keyring",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.keyring",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.keyring",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 13,
+  "recent": 13
+ },
+ {
+  "repo": "plone.keyring",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 13,
+  "recent": 13
+ },
+ {
+  "repo": "plone.locking",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.locking",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.locking",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 14,
+  "recent": 14
+ },
+ {
+  "repo": "plone.locking",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 14,
+  "recent": 14
+ },
+ {
+  "repo": "plone.login",
+  "label": "99 tag: duplicate",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.login",
+  "label": "99 tag: invalid",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.login",
+  "label": "99 tag: wontfix",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.login",
+  "label": "pr orphaned",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.login",
+  "label": "99 tag: 4.3",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.login",
+  "label": "99 tag: 5.0",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.memoize",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.memoize",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.memoize",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 14,
+  "recent": 14
+ },
+ {
+  "repo": "plone.memoize",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 14,
+  "recent": 14
+ },
+ {
+  "repo": "plone.multilingualbehavior",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 1,
+  "recent": 0
+ },
+ {
+  "repo": "plone.multilingualbehavior",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.namedfile",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 1,
+  "openP": 0,
+  "allP": 1,
+  "recent": 0
+ },
+ {
+  "repo": "plone.namedfile",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 3,
+  "recent": 0
+ },
+ {
+  "repo": "plone.namedfile",
+  "label": "99 tag: bssp",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 1,
+  "recent": 0
+ },
+ {
+  "repo": "plone.namedfile",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 9,
+  "recent": 9
+ },
+ {
+  "repo": "plone.namedfile",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 9,
+  "recent": 9
+ },
+ {
+  "repo": "plone.observability",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 7,
+  "recent": 7
+ },
+ {
+  "repo": "plone.observability",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 7,
+  "recent": 7
+ },
+ {
+  "repo": "plone.openid",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.openid",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.org",
+  "label": "60 sites: page content",
+  "openI": 2,
+  "allI": 10,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.org",
+  "label": "61 sites: visual/theming",
+  "openI": 5,
+  "allI": 16,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.org",
+  "label": "62 sites: graphics/images",
+  "openI": 1,
+  "allI": 1,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.org",
+  "label": "63 sites: information architecture",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.outputfilters",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 1,
+  "recent": 0
+ },
+ {
+  "repo": "plone.outputfilters",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 1,
+  "recent": 0
+ },
+ {
+  "repo": "plone.outputfilters",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 14,
+  "recent": 14
+ },
+ {
+  "repo": "plone.outputfilters",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 14,
+  "recent": 14
+ },
+ {
+  "repo": "plone.patternslib",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 41,
+  "recent": 9
+ },
+ {
+  "repo": "plone.patternslib",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 9,
+  "recent": 9
+ },
+ {
+  "repo": "plone.portlet.collection",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.portlet.collection",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.portlet.collection",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 12,
+  "recent": 12
+ },
+ {
+  "repo": "plone.portlet.collection",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 12,
+  "recent": 12
+ },
+ {
+  "repo": "plone.portlet.static",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.portlet.static",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.portlet.static",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 12,
+  "recent": 12
+ },
+ {
+  "repo": "plone.portlet.static",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 12,
+  "recent": 12
+ },
+ {
+  "repo": "plone.portlets",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.portlets",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.portlets",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 13,
+  "recent": 13
+ },
+ {
+  "repo": "plone.portlets",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 13,
+  "recent": 13
+ },
+ {
+  "repo": "plone.protect",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.protect",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 1,
+  "recent": 0
+ },
+ {
+  "repo": "plone.protect",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 15,
+  "recent": 15
+ },
+ {
+  "repo": "plone.protect",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 15,
+  "recent": 15
+ },
+ {
+  "repo": "plone.recipe.alltests",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.recipe.alltests",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.recipe.codeanalysis",
+  "label": "99 tag: duplicate",
+  "openI": 0,
+  "allI": 2,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.recipe.codeanalysis",
+  "label": "99 tag: invalid",
+  "openI": 0,
+  "allI": 2,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.recipe.codeanalysis",
+  "label": "99 tag: wontifx",
+  "openI": 0,
+  "allI": 1,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.recipe.codeanalysis",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.recipe.codeanalysis",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.recipe.codeanalysis",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 1,
+  "recent": 0
+ },
+ {
+  "repo": "plone.recipe.haproxy",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.recipe.haproxy",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.recipe.precompiler",
+  "label": "99 tag: duplicate",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.recipe.precompiler",
+  "label": "99 tag: invalid",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.recipe.precompiler",
+  "label": "99 tag: wontifx",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.recipe.precompiler",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.recipe.precompiler",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.recipe.unifiedinstaller",
+  "label": "99 tag: duplicate",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.recipe.unifiedinstaller",
+  "label": "99 tag: invalid",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.recipe.unifiedinstaller",
+  "label": "99 tag: wontifx",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.recipe.unifiedinstaller",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.recipe.unifiedinstaller",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.recipe.zeoserver",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.recipe.zeoserver",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 1,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.recipe.zeoserver",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 22,
+  "recent": 22
+ },
+ {
+  "repo": "plone.recipe.zeoserver",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 22,
+  "recent": 22
+ },
+ {
+  "repo": "plone.recipe.zope2instance",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.recipe.zope2instance",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 1,
+  "allI": 1,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.recipe.zope2instance",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 5,
+  "recent": 5
+ },
+ {
+  "repo": "plone.recipe.zope2instance",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 5,
+  "recent": 5
+ },
+ {
+  "repo": "plone.registry",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.registry",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.registry",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 14,
+  "recent": 14
+ },
+ {
+  "repo": "plone.registry",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 14,
+  "recent": 14
+ },
+ {
+  "repo": "plone.releaser",
+  "label": "99 tag: duplicate",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.releaser",
+  "label": "99 tag: invalid",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.releaser",
+  "label": "99 tag: wontifx",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.releaser",
+  "label": "help wanted",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.releaser",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.releaser",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.releaser",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 13,
+  "recent": 13
+ },
+ {
+  "repo": "plone.releaser",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 13,
+  "recent": 13
+ },
+ {
+  "repo": "plone.reload",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.reload",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.reload",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 11,
+  "recent": 11
+ },
+ {
+  "repo": "plone.reload",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 11,
+  "recent": 11
+ },
+ {
+  "repo": "plone.resource",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 1,
+  "recent": 0
+ },
+ {
+  "repo": "plone.resource",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.resource",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 15,
+  "recent": 15
+ },
+ {
+  "repo": "plone.resource",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 15,
+  "recent": 15
+ },
+ {
+  "repo": "plone.resourceeditor",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.resourceeditor",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.resourceeditor",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 15,
+  "recent": 15
+ },
+ {
+  "repo": "plone.resourceeditor",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 15,
+  "recent": 15
+ },
+ {
+  "repo": "plone.rest",
+  "label": "99 tag: duplicate",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.rest",
+  "label": "99 tag: invalid",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.rest",
+  "label": "99 tag: wontifx",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.rest",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.rest",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.rest",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 17,
+  "recent": 15
+ },
+ {
+  "repo": "plone.rest",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 15,
+  "recent": 15
+ },
+ {
+  "repo": "plone.restapi",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.restapi",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.restapi",
+  "label": "99 tag: sprint",
+  "openI": 0,
+  "allI": 19,
+  "openP": 0,
+  "allP": 1,
+  "recent": 0
+ },
+ {
+  "repo": "plone.restapi",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 15,
+  "recent": 15
+ },
+ {
+  "repo": "plone.restapi",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 15,
+  "recent": 15
+ },
+ {
+  "repo": "plone.restapi",
+  "label": "99 tag: Plone 6.2",
+  "openI": 0,
+  "allI": 1,
+  "openP": 0,
+  "allP": 0,
+  "recent": 1
+ },
+ {
+  "repo": "plone.restapi-angular",
+  "label": "99 tag: duplicate",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.restapi-angular",
+  "label": "99 tag: invalid",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.restapi-angular",
+  "label": "99 tag: wontfix",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.restapi-angular",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 4,
+  "allP": 35,
+  "recent": 0
+ },
+ {
+  "repo": "plone.rfc822",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.rfc822",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.rfc822",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 13,
+  "recent": 13
+ },
+ {
+  "repo": "plone.rfc822",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 13,
+  "recent": 13
+ },
+ {
+  "repo": "plone.scale",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.scale",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.scale",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 17,
+  "recent": 17
+ },
+ {
+  "repo": "plone.scale",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 17,
+  "recent": 17
+ },
+ {
+  "repo": "plone.schema",
+  "label": "99 tag: duplicate",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.schema",
+  "label": "99 tag: invalid",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.schema",
+  "label": "99 tag: wontifx",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.schema",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.schema",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.schema",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 13,
+  "recent": 13
+ },
+ {
+  "repo": "plone.schema",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 13,
+  "recent": 13
+ },
+ {
+  "repo": "plone.schemaeditor",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.schemaeditor",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 3,
+  "recent": 0
+ },
+ {
+  "repo": "plone.schemaeditor",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 16,
+  "recent": 16
+ },
+ {
+  "repo": "plone.schemaeditor",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 16,
+  "recent": 16
+ },
+ {
+  "repo": "plone.session",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.session",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 1,
+  "recent": 0
+ },
+ {
+  "repo": "plone.session",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 14,
+  "recent": 14
+ },
+ {
+  "repo": "plone.session",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 14,
+  "recent": 14
+ },
+ {
+  "repo": "plone.staticresources",
+  "label": "99 tag: duplicate",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.staticresources",
+  "label": "99 tag: invalid",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.staticresources",
+  "label": "99 tag: wontfix",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.staticresources",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 118,
+  "recent": 32
+ },
+ {
+  "repo": "plone.staticresources",
+  "label": "javascript",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 99,
+  "recent": 16
+ },
+ {
+  "repo": "plone.staticresources",
+  "label": "99 tag: bssp",
+  "openI": 0,
+  "allI": 1,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.staticresources",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 16,
+  "recent": 16
+ },
+ {
+  "repo": "plone.stringinterp",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.stringinterp",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.stringinterp",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 14,
+  "recent": 14
+ },
+ {
+  "repo": "plone.stringinterp",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 14,
+  "recent": 14
+ },
+ {
+  "repo": "plone.subrequest",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.subrequest",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.subrequest",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 15,
+  "recent": 15
+ },
+ {
+  "repo": "plone.subrequest",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 15,
+  "recent": 15
+ },
+ {
+  "repo": "plone.supermodel",
+  "label": "99 tag: imported",
+  "openI": 0,
+  "allI": 1,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.supermodel",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 1,
+  "recent": 0
+ },
+ {
+  "repo": "plone.supermodel",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.supermodel",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 15,
+  "recent": 14
+ },
+ {
+  "repo": "plone.supermodel",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 14,
+  "recent": 14
+ },
+ {
+  "repo": "plone.synchronize",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.synchronize",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.testing",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 1,
+  "openP": 0,
+  "allP": 3,
+  "recent": 0
+ },
+ {
+  "repo": "plone.testing",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.testing",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 16,
+  "recent": 16
+ },
+ {
+  "repo": "plone.testing",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 16,
+  "recent": 16
+ },
+ {
+  "repo": "plone.theme",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.theme",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.theme",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 13,
+  "recent": 13
+ },
+ {
+  "repo": "plone.theme",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 13,
+  "recent": 13
+ },
+ {
+  "repo": "plone.tiles",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.tiles",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 2,
+  "recent": 0
+ },
+ {
+  "repo": "plone.tiles",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 18,
+  "recent": 17
+ },
+ {
+  "repo": "plone.tiles",
+  "label": "python",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 1,
+  "recent": 1
+ },
+ {
+  "repo": "plone.tiles",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 16,
+  "recent": 16
+ },
+ {
+  "repo": "plone.transformchain",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.transformchain",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 1,
+  "recent": 0
+ },
+ {
+  "repo": "plone.transformchain",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 14,
+  "recent": 14
+ },
+ {
+  "repo": "plone.transformchain",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 14,
+  "recent": 14
+ },
+ {
+  "repo": "plone.uuid",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.uuid",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.uuid",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 14,
+  "recent": 14
+ },
+ {
+  "repo": "plone.uuid",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 14,
+  "recent": 14
+ },
+ {
+  "repo": "plone.versioncheck",
+  "label": "99 tag: duplicate",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.versioncheck",
+  "label": "99 tag: invalid",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.versioncheck",
+  "label": "99 tag: wontifx",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.volto",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 2,
+  "allP": 5,
+  "recent": 5
+ },
+ {
+  "repo": "plone.volto",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 2,
+  "allP": 5,
+  "recent": 5
+ },
+ {
+  "repo": "plone.z3cform",
+  "label": "99 tag: duplicate",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.z3cform",
+  "label": "99 tag: invalid",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.z3cform",
+  "label": "99 tag: wontfix",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone.z3cform",
+  "label": "99 tag: UX Accessibility",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 1,
+  "recent": 0
+ },
+ {
+  "repo": "plonecli",
+  "label": "99 tag: duplicate",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plonecli",
+  "label": "99 tag: invalid",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plonecli",
+  "label": "99 tag: wontfix",
+  "openI": 1,
+  "allI": 1,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plonecli",
+  "label": "99 tag: GSoC 2018",
+  "openI": 0,
+  "allI": 3,
+  "openP": 0,
+  "allP": 1,
+  "recent": 0
+ },
+ {
+  "repo": "plonecli",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 3,
+  "allP": 8,
+  "recent": 8
+ },
+ {
+  "repo": "plonecli",
+  "label": "python:uv",
+  "openI": 0,
+  "allI": 0,
+  "openP": 3,
+  "allP": 8,
+  "recent": 8
+ },
+ {
+  "repo": "ploneconf2016.policy",
+  "label": "bug",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "ploneconf2016.policy",
+  "label": "duplicate",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "ploneconf2016.policy",
+  "label": "enhancement",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "ploneconf2016.policy",
+  "label": "help wanted",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "ploneconf2016.policy",
+  "label": "invalid",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "ploneconf2016.policy",
+  "label": "question",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "ploneconf2016.policy",
+  "label": "wontfix",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plonedev.vagrant",
+  "label": "bug",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plonedev.vagrant",
+  "label": "duplicate",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plonedev.vagrant",
+  "label": "enhancement",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plonedev.vagrant",
+  "label": "invalid",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plonedev.vagrant",
+  "label": "question",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plonedev.vagrant",
+  "label": "wontfix",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plonedev.vagrant",
+  "label": "pr testing",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plonedev.vagrant",
+  "label": "pr orphaned",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plonedev.vagrant",
+  "label": "pr wip",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plonedev.vagrant",
+  "label": "pr ready",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plonedev.vagrant",
+  "label": "pr review",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plonedev.vagrant",
+  "label": "pr p4.3",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plonedev.vagrant",
+  "label": "pr p5.0",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plonedev.vagrant",
+  "label": "pr rebase",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "ploneorg.core",
+  "label": "99 tag: duplicate",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "ploneorg.core",
+  "label": "99 tag: invalid",
+  "openI": 0,
+  "allI": 1,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "ploneorg.core",
+  "label": "99 tag: wontifx",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "ploneorg.core",
+  "label": "99 tag: HomePage",
+  "openI": 1,
+  "allI": 8,
+  "openP": 0,
+  "allP": 1,
+  "recent": 0
+ },
+ {
+  "repo": "ploneorg.core",
+  "label": "99 tag: Contributor profile",
+  "openI": 2,
+  "allI": 11,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "ploneorg.core",
+  "label": "99 tag: Theme",
+  "openI": 3,
+  "allI": 39,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "ploneorg.core",
+  "label": "99 tag: Content",
+  "openI": 8,
+  "allI": 36,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "ploneorg.core",
+  "label": "99 tag: Design",
+  "openI": 2,
+  "allI": 9,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "ploneorg.core",
+  "label": "99 tag: Foundation Information",
+  "openI": 0,
+  "allI": 1,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "ploneorg.core",
+  "label": "99 tag: Content Migration",
+  "openI": 2,
+  "allI": 8,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "ploneorg.core",
+  "label": "99 tag: Sponorship",
+  "openI": 2,
+  "allI": 4,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "ploneorg.core",
+  "label": "99 tag: Deployment",
+  "openI": 4,
+  "allI": 11,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "ploneorg.core",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 1,
+  "recent": 0
+ },
+ {
+  "repo": "ploneorg.theme",
+  "label": "99 tag: duplicate",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "ploneorg.theme",
+  "label": "99 tag: invalid",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "ploneorg.theme",
+  "label": "99 tag: wontifx",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "ploneorg.theme",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "ploneorg.theme",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plonetheme.barceloneta",
+  "label": "99 tag: duplicate",
+  "openI": 0,
+  "allI": 1,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plonetheme.barceloneta",
+  "label": "99 tag: invalid",
+  "openI": 0,
+  "allI": 1,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plonetheme.barceloneta",
+  "label": "99 tag: wontifx",
+  "openI": 0,
+  "allI": 1,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plonetheme.barceloneta",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plonetheme.barceloneta",
+  "label": "99 tag: Plone 5.x",
+  "openI": 3,
+  "allI": 3,
+  "openP": 0,
+  "allP": 4,
+  "recent": 0
+ },
+ {
+  "repo": "plonetheme.barceloneta",
+  "label": "99 tag: dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 10,
+  "recent": 0
+ },
+ {
+  "repo": "plonetheme.barceloneta",
+  "label": "99 HACKTOBERFEST-ACCEPTED",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plonetheme.barceloneta",
+  "label": "99 tag: Plone 6.1",
+  "openI": 0,
+  "allI": 1,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plonetheme.barceloneta",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 4,
+  "allP": 22,
+  "recent": 22
+ },
+ {
+  "repo": "plonetheme.barceloneta",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 16,
+  "recent": 16
+ },
+ {
+  "repo": "plonetheme.barceloneta",
+  "label": "javascript",
+  "openI": 0,
+  "allI": 0,
+  "openP": 4,
+  "allP": 6,
+  "recent": 6
+ },
+ {
+  "repo": "plonetheme.classic",
+  "label": "99 tag: duplicate",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plonetheme.classic",
+  "label": "99 tag: invalid",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plonetheme.classic",
+  "label": "99 tag: wontifx",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plonetheme.classic",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 1,
+  "recent": 0
+ },
+ {
+  "repo": "plonetheme.classic",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plonetheme.sunburst",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 2,
+  "recent": 0
+ },
+ {
+  "repo": "plonetheme.sunburst",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone_best_practices_discussion",
+  "label": "bug",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone_best_practices_discussion",
+  "label": "duplicate",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone_best_practices_discussion",
+  "label": "enhancement",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone_best_practices_discussion",
+  "label": "help wanted",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone_best_practices_discussion",
+  "label": "invalid",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone_best_practices_discussion",
+  "label": "question",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "plone_best_practices_discussion",
+  "label": "wontfix",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "Products.Archetypes",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 2,
+  "recent": 0
+ },
+ {
+  "repo": "Products.Archetypes",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 1,
+  "recent": 0
+ },
+ {
+  "repo": "Products.ATContentTypes",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 2,
+  "recent": 0
+ },
+ {
+  "repo": "Products.ATContentTypes",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "Products.CMFDiffTool",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "Products.CMFDiffTool",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "Products.CMFDiffTool",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 14,
+  "recent": 14
+ },
+ {
+  "repo": "Products.CMFDiffTool",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 14,
+  "recent": 14
+ },
+ {
+  "repo": "Products.CMFDynamicViewFTI",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "Products.CMFDynamicViewFTI",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "Products.CMFDynamicViewFTI",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 13,
+  "recent": 13
+ },
+ {
+  "repo": "Products.CMFDynamicViewFTI",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 13,
+  "recent": 13
+ },
+ {
+  "repo": "Products.CMFEditions",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 1,
+  "recent": 0
+ },
+ {
+  "repo": "Products.CMFEditions",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 2,
+  "recent": 0
+ },
+ {
+  "repo": "Products.CMFEditions",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 15,
+  "recent": 15
+ },
+ {
+  "repo": "Products.CMFEditions",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 15,
+  "recent": 15
+ },
+ {
+  "repo": "Products.CMFFormController",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "Products.CMFFormController",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "Products.CMFPlacefulWorkflow",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "Products.CMFPlacefulWorkflow",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "Products.CMFPlacefulWorkflow",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 14,
+  "recent": 14
+ },
+ {
+  "repo": "Products.CMFPlacefulWorkflow",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 14,
+  "recent": 14
+ },
+ {
+  "repo": "Products.CMFPlone",
+  "label": "99 tag: PLIP 13260: Remove CMF",
+  "openI": 0,
+  "allI": 40,
+  "openP": 0,
+  "allP": 2,
+  "recent": 0
+ },
+ {
+  "repo": "Products.CMFPlone",
+  "label": "99 tag: UX Accessibility",
+  "openI": 14,
+  "allI": 48,
+  "openP": 0,
+  "allP": 1,
+  "recent": 1
+ },
+ {
+  "repo": "Products.CMFPlone",
+  "label": "99 tag: dependencies",
+  "openI": 0,
+  "allI": 17,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "Products.CMFPlone",
+  "label": "99 tag: sprint",
+  "openI": 1,
+  "allI": 90,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "Products.CMFPlone",
+  "label": "99 tag: UX Editor",
+  "openI": 13,
+  "allI": 122,
+  "openP": 0,
+  "allP": 1,
+  "recent": 0
+ },
+ {
+  "repo": "Products.CMFPlone",
+  "label": "99 tag: UX Site Admin",
+  "openI": 8,
+  "allI": 58,
+  "openP": 0,
+  "allP": 2,
+  "recent": 0
+ },
+ {
+  "repo": "Products.CMFPlone",
+  "label": "99 tag: UX Integrator/Themer",
+  "openI": 2,
+  "allI": 65,
+  "openP": 0,
+  "allP": 2,
+  "recent": 0
+ },
+ {
+  "repo": "Products.CMFPlone",
+  "label": "99 tag: documentation",
+  "openI": 2,
+  "allI": 12,
+  "openP": 0,
+  "allP": 1,
+  "recent": 1
+ },
+ {
+  "repo": "Products.CMFPlone",
+  "label": "99 tag: migration",
+  "openI": 0,
+  "allI": 13,
+  "openP": 0,
+  "allP": 0,
+  "recent": 1
+ },
+ {
+  "repo": "Products.CMFPlone",
+  "label": "99 tag: cleanup",
+  "openI": 10,
+  "allI": 24,
+  "openP": 0,
+  "allP": 2,
+  "recent": 0
+ },
+ {
+  "repo": "Products.CMFPlone",
+  "label": "99 tag: resource registry",
+  "openI": 1,
+  "allI": 14,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "Products.CMFPlone",
+  "label": "99 tag: NEED AN IMPLEMENTER",
+  "openI": 0,
+  "allI": 2,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "Products.CMFPlone",
+  "label": "99 tag: PLIP 3211 ES6",
+  "openI": 1,
+  "allI": 6,
+  "openP": 0,
+  "allP": 2,
+  "recent": 0
+ },
+ {
+  "repo": "Products.CMFPlone",
+  "label": "99 tag: bssp",
+  "openI": 4,
+  "allI": 7,
+  "openP": 0,
+  "allP": 1,
+  "recent": 0
+ },
+ {
+  "repo": "Products.CMFPlone",
+  "label": "99 tag: Plone 6.0",
+  "openI": 11,
+  "allI": 19,
+  "openP": 0,
+  "allP": 1,
+  "recent": 1
+ },
+ {
+  "repo": "Products.CMFPlone",
+  "label": "99 tag: Plone 5.2",
+  "openI": 8,
+  "allI": 16,
+  "openP": 0,
+  "allP": 1,
+  "recent": 1
+ },
+ {
+  "repo": "Products.CMFPlone",
+  "label": "99 HACKTOBERFEST-ACCEPTED",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "Products.CMFPlone",
+  "label": "99 tag: Plone 6.1",
+  "openI": 0,
+  "allI": 2,
+  "openP": 0,
+  "allP": 1,
+  "recent": 2
+ },
+ {
+  "repo": "Products.CMFPlone",
+  "label": "99 tag: Classic UI",
+  "openI": 4,
+  "allI": 4,
+  "openP": 0,
+  "allP": 0,
+  "recent": 2
+ },
+ {
+  "repo": "Products.CMFPlone",
+  "label": "99 tag:backend",
+  "openI": 1,
+  "allI": 3,
+  "openP": 0,
+  "allP": 0,
+  "recent": 2
+ },
+ {
+  "repo": "Products.CMFPlone",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 11,
+  "recent": 11
+ },
+ {
+  "repo": "Products.CMFPlone",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 11,
+  "recent": 11
+ },
+ {
+  "repo": "Products.CMFQuickInstallerTool",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 1,
+  "recent": 0
+ },
+ {
+  "repo": "Products.CMFQuickInstallerTool",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 1,
+  "recent": 0
+ },
+ {
+  "repo": "Products.contentmigration",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "Products.contentmigration",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "Products.ExtendedPathIndex",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "Products.ExtendedPathIndex",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "Products.ExtendedPathIndex",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 5,
+  "recent": 5
+ },
+ {
+  "repo": "Products.ExtendedPathIndex",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 5,
+  "recent": 5
+ },
+ {
+  "repo": "Products.isurlinportal",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 13,
+  "recent": 13
+ },
+ {
+  "repo": "Products.isurlinportal",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 13,
+  "recent": 13
+ },
+ {
+  "repo": "Products.LinguaPlone",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "Products.LinguaPlone",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "Products.Marshall",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 1,
+  "recent": 0
+ },
+ {
+  "repo": "Products.Marshall",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 1,
+  "recent": 0
+ },
+ {
+  "repo": "Products.MimetypesRegistry",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "Products.MimetypesRegistry",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "Products.MimetypesRegistry",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 14,
+  "recent": 14
+ },
+ {
+  "repo": "Products.MimetypesRegistry",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 14,
+  "recent": 14
+ },
+ {
+  "repo": "Products.PlacelessTranslationService",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "Products.PlacelessTranslationService",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "Products.PloneLanguageTool",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 1,
+  "recent": 0
+ },
+ {
+  "repo": "Products.PloneLanguageTool",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 1,
+  "recent": 0
+ },
+ {
+  "repo": "Products.PlonePAS",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 1,
+  "recent": 0
+ },
+ {
+  "repo": "Products.PlonePAS",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 1,
+  "recent": 0
+ },
+ {
+  "repo": "Products.PlonePAS",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 14,
+  "recent": 14
+ },
+ {
+  "repo": "Products.PlonePAS",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 14,
+  "recent": 14
+ },
+ {
+  "repo": "Products.PloneTestCase",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "Products.PloneTestCase",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "Products.PortalTransforms",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 1,
+  "recent": 0
+ },
+ {
+  "repo": "Products.PortalTransforms",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "Products.PortalTransforms",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 14,
+  "recent": 14
+ },
+ {
+  "repo": "Products.PortalTransforms",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 14,
+  "recent": 14
+ },
+ {
+  "repo": "Products.ResourceRegistries",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "Products.ResourceRegistries",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 1,
+  "recent": 0
+ },
+ {
+  "repo": "Products.statusmessages",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "Products.statusmessages",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "Products.statusmessages",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 15,
+  "recent": 14
+ },
+ {
+  "repo": "Products.statusmessages",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 14,
+  "recent": 14
+ },
+ {
+  "repo": "Products.validation",
+  "label": "99 tag: Plone 4.3.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "Products.validation",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "Products.validation",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 8,
+  "recent": 6
+ },
+ {
+  "repo": "Products.validation",
+  "label": "python",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 1,
+  "recent": 1
+ },
+ {
+  "repo": "Products.validation",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 5,
+  "recent": 5
+ },
+ {
+  "repo": "pylons-project-assimilation",
+  "label": "bug",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "pylons-project-assimilation",
+  "label": "duplicate",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "pylons-project-assimilation",
+  "label": "enhancement",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "pylons-project-assimilation",
+  "label": "good first issue",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "pylons-project-assimilation",
+  "label": "help wanted",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "pylons-project-assimilation",
+  "label": "invalid",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "pylons-project-assimilation",
+  "label": "question",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "pylons-project-assimilation",
+  "label": "wontfix",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "pylons-project-assimilation",
+  "label": "blocked",
+  "openI": 7,
+  "allI": 7,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "pytest-plone",
+  "label": "bug",
+  "openI": 1,
+  "allI": 3,
+  "openP": 0,
+  "allP": 0,
+  "recent": 2
+ },
+ {
+  "repo": "pytest-plone",
+  "label": "documentation",
+  "openI": 1,
+  "allI": 3,
+  "openP": 0,
+  "allP": 0,
+  "recent": 2
+ },
+ {
+  "repo": "pytest-plone",
+  "label": "duplicate",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "pytest-plone",
+  "label": "enhancement",
+  "openI": 2,
+  "allI": 8,
+  "openP": 0,
+  "allP": 7,
+  "recent": 7
+ },
+ {
+  "repo": "pytest-plone",
+  "label": "good first issue",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "pytest-plone",
+  "label": "help wanted",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "pytest-plone",
+  "label": "invalid",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "pytest-plone",
+  "label": "question",
+  "openI": 2,
+  "allI": 2,
+  "openP": 0,
+  "allP": 0,
+  "recent": 2
+ },
+ {
+  "repo": "pytest-plone",
+  "label": "wontfix",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "pytest-plone",
+  "label": "internal",
+  "openI": 0,
+  "allI": 2,
+  "openP": 0,
+  "allP": 1,
+  "recent": 3
+ },
+ {
+  "repo": "pytest-plone",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 5,
+  "recent": 5
+ },
+ {
+  "repo": "pytest-plone",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 5,
+  "recent": 5
+ },
+ {
+  "repo": "pytest-plone",
+  "label": "skip changelog",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 3,
+  "recent": 3
+ },
+ {
+  "repo": "quickstart",
+  "label": "bug",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "quickstart",
+  "label": "duplicate",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "quickstart",
+  "label": "enhancement",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "quickstart",
+  "label": "good first issue",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "quickstart",
+  "label": "help wanted",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "quickstart",
+  "label": "invalid",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "quickstart",
+  "label": "question",
+  "openI": 1,
+  "allI": 1,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "quickstart",
+  "label": "wontfix",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "repoplone",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 1,
+  "recent": 1
+ },
+ {
+  "repo": "repoplone",
+  "label": "python:uv",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 1,
+  "recent": 1
+ },
+ {
+  "repo": "sphinxtheme.plone",
+  "label": "bug",
+  "openI": 0,
+  "allI": 7,
+  "openP": 0,
+  "allP": 1,
+  "recent": 0
+ },
+ {
+  "repo": "sphinxtheme.plone",
+  "label": "duplicate",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "sphinxtheme.plone",
+  "label": "enhancement",
+  "openI": 2,
+  "allI": 8,
+  "openP": 0,
+  "allP": 1,
+  "recent": 0
+ },
+ {
+  "repo": "sphinxtheme.plone",
+  "label": "help wanted",
+  "openI": 1,
+  "allI": 1,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "sphinxtheme.plone",
+  "label": "invalid",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "sphinxtheme.plone",
+  "label": "question",
+  "openI": 2,
+  "allI": 11,
+  "openP": 0,
+  "allP": 1,
+  "recent": 0
+ },
+ {
+  "repo": "sphinxtheme.plone",
+  "label": "wontfix",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "sphinxtheme.plone",
+  "label": "pr testing",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 1,
+  "recent": 0
+ },
+ {
+  "repo": "sphinxtheme.plone",
+  "label": "pr orphaned",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "sphinxtheme.plone",
+  "label": "pr wip",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 1,
+  "recent": 0
+ },
+ {
+  "repo": "sphinxtheme.plone",
+  "label": "pr ready",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 3,
+  "recent": 0
+ },
+ {
+  "repo": "sphinxtheme.plone",
+  "label": "pr review",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 1,
+  "recent": 0
+ },
+ {
+  "repo": "sphinxtheme.plone",
+  "label": "pr p4.3",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "sphinxtheme.plone",
+  "label": "pr p5.0",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "sphinxtheme.plone",
+  "label": "pr rebase",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "training",
+  "label": "99 tag: duplicate",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "training",
+  "label": "99 tag: invalid",
+  "openI": 0,
+  "allI": 1,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "training",
+  "label": "99 tag: wontfix",
+  "openI": 0,
+  "allI": 6,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "training",
+  "label": "99 tag: Plone 5.x",
+  "openI": 0,
+  "allI": 10,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "training",
+  "label": "99 tag: React",
+  "openI": 0,
+  "allI": 10,
+  "openP": 0,
+  "allP": 2,
+  "recent": 0
+ },
+ {
+  "repo": "training",
+  "label": "99 tag: Plone 6.x",
+  "openI": 0,
+  "allI": 4,
+  "openP": 0,
+  "allP": 1,
+  "recent": 0
+ },
+ {
+  "repo": "training",
+  "label": "60: Mastering Plone 6",
+  "openI": 1,
+  "allI": 9,
+  "openP": 0,
+  "allP": 1,
+  "recent": 3
+ },
+ {
+  "repo": "training",
+  "label": "60: Mastering Plone 5",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "training",
+  "label": "60: Volto Hands-On",
+  "openI": 1,
+  "allI": 2,
+  "openP": 0,
+  "allP": 1,
+  "recent": 0
+ },
+ {
+  "repo": "training",
+  "label": "60: Volto Add-ons Development",
+  "openI": 0,
+  "allI": 2,
+  "openP": 0,
+  "allP": 1,
+  "recent": 1
+ },
+ {
+  "repo": "training",
+  "label": "60: Volto Customization for JavaScript Beginners",
+  "openI": 0,
+  "allI": 1,
+  "openP": 0,
+  "allP": 0,
+  "recent": 1
+ },
+ {
+  "repo": "training",
+  "label": "60: Effective Volto",
+  "openI": 0,
+  "allI": 3,
+  "openP": 0,
+  "allP": 0,
+  "recent": 2
+ },
+ {
+  "repo": "training",
+  "label": "60: Testing Plone",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "training",
+  "label": "60: Plone 6 Classic UI Theming",
+  "openI": 0,
+  "allI": 2,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "training",
+  "label": "60: Plone Deployment",
+  "openI": 0,
+  "allI": 2,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "training",
+  "label": "60: Plone Workflow",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "training",
+  "label": "60: Migration best practices",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "training",
+  "label": "30 needs: triage",
+  "openI": 4,
+  "allI": 7,
+  "openP": 0,
+  "allP": 0,
+  "recent": 7
+ },
+ {
+  "repo": "training",
+  "label": "60: Customizing Volto Light Theme",
+  "openI": 0,
+  "allI": 1,
+  "openP": 0,
+  "allP": 0,
+  "recent": 1
+ },
+ {
+  "repo": "training",
+  "label": "99 use case for AI assistance",
+  "openI": 1,
+  "allI": 1,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "training",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 8,
+  "recent": 8
+ },
+ {
+  "repo": "training",
+  "label": "github_actions",
+  "openI": 0,
+  "allI": 0,
+  "openP": 1,
+  "allP": 8,
+  "recent": 8
+ },
+ {
+  "repo": "training",
+  "label": "60: Content editing for Plone",
+  "openI": 0,
+  "allI": 1,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "volto",
+  "label": "99 tag: sprint",
+  "openI": 1,
+  "allI": 10,
+  "openP": 0,
+  "allP": 5,
+  "recent": 0
+ },
+ {
+  "repo": "volto",
+  "label": "26 status: blocked",
+  "openI": 2,
+  "allI": 9,
+  "openP": 0,
+  "allP": 2,
+  "recent": 2
+ },
+ {
+  "repo": "volto",
+  "label": "99 tag: UX",
+  "openI": 23,
+  "allI": 61,
+  "openP": 1,
+  "allP": 6,
+  "recent": 3
+ },
+ {
+  "repo": "volto",
+  "label": "99 tag: UX Accessibility",
+  "openI": 34,
+  "allI": 76,
+  "openP": 13,
+  "allP": 106,
+  "recent": 64
+ },
+ {
+  "repo": "volto",
+  "label": "99 tag: dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 136,
+  "recent": 5
+ },
+ {
+  "repo": "volto",
+  "label": "python",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 3,
+  "recent": 0
+ },
+ {
+  "repo": "volto",
+  "label": "javascript",
+  "openI": 0,
+  "allI": 0,
+  "openP": 6,
+  "allP": 199,
+  "recent": 75
+ },
+ {
+  "repo": "volto",
+  "label": "discussion",
+  "openI": 5,
+  "allI": 15,
+  "openP": 1,
+  "allP": 3,
+  "recent": 2
+ },
+ {
+  "repo": "volto",
+  "label": "proof of concept",
+  "openI": 0,
+  "allI": 0,
+  "openP": 2,
+  "allP": 10,
+  "recent": 0
+ },
+ {
+  "repo": "volto",
+  "label": "backport",
+  "openI": 0,
+  "allI": 1,
+  "openP": 0,
+  "allP": 245,
+  "recent": 2
+ },
+ {
+  "repo": "volto",
+  "label": "30.1 needs: confirmation",
+  "openI": 13,
+  "allI": 19,
+  "openP": 0,
+  "allP": 0,
+  "recent": 4
+ },
+ {
+  "repo": "volto",
+  "label": "GSOC-input",
+  "openI": 0,
+  "allI": 0,
+  "openP": 2,
+  "allP": 26,
+  "recent": 0
+ },
+ {
+  "repo": "volto",
+  "label": "First Contribution",
+  "openI": 0,
+  "allI": 0,
+  "openP": 5,
+  "allP": 62,
+  "recent": 11
+ },
+ {
+  "repo": "volto",
+  "label": "Breaking",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 5,
+  "recent": 0
+ },
+ {
+  "repo": "volto",
+  "label": "99 tag: docs-reorg",
+  "openI": 2,
+  "allI": 4,
+  "openP": 0,
+  "allP": 5,
+  "recent": 0
+ },
+ {
+  "repo": "volto",
+  "label": "30 needs: triage",
+  "openI": 14,
+  "allI": 134,
+  "openP": 0,
+  "allP": 2,
+  "recent": 122
+ },
+ {
+  "repo": "volto",
+  "label": "99 tag: performance",
+  "openI": 5,
+  "allI": 8,
+  "openP": 2,
+  "allP": 3,
+  "recent": 0
+ },
+ {
+  "repo": "volto",
+  "label": "Abandoned",
+  "openI": 0,
+  "allI": 0,
+  "openP": 3,
+  "allP": 18,
+  "recent": 0
+ },
+ {
+  "repo": "volto",
+  "label": "61 scope: editor",
+  "openI": 112,
+  "allI": 113,
+  "openP": 0,
+  "allP": 0,
+  "recent": 16
+ },
+ {
+  "repo": "volto",
+  "label": "62 scope: viewer",
+  "openI": 46,
+  "allI": 48,
+  "openP": 0,
+  "allP": 0,
+  "recent": 17
+ },
+ {
+  "repo": "volto",
+  "label": "needs: backport",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 1,
+  "recent": 1
+ },
+ {
+  "repo": "volto",
+  "label": "06 type: plip task",
+  "openI": 2,
+  "allI": 2,
+  "openP": 0,
+  "allP": 1,
+  "recent": 3
+ },
+ {
+  "repo": "volto",
+  "label": "dependencies",
+  "openI": 1,
+  "allI": 1,
+  "openP": 6,
+  "allP": 70,
+  "recent": 71
+ },
+ {
+  "repo": "volto",
+  "label": "27 status: stale",
+  "openI": 33,
+  "allI": 78,
+  "openP": 67,
+  "allP": 102,
+  "recent": 114
+ },
+ {
+  "repo": "volto",
+  "label": "hacktoberfest-accepted",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 11,
+  "recent": 11
+ },
+ {
+  "repo": "volto",
+  "label": "99 tag: docs",
+  "openI": 28,
+  "allI": 28,
+  "openP": 9,
+  "allP": 13,
+  "recent": 23
+ },
+ {
+  "repo": "volto",
+  "label": "99 tag: seven",
+  "openI": 0,
+  "allI": 0,
+  "openP": 17,
+  "allP": 19,
+  "recent": 19
+ },
+ {
+  "repo": "volto-reference-backend",
+  "label": "99 tag: duplicate",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "volto-reference-backend",
+  "label": "99 tag: invalid",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "volto-reference-backend",
+  "label": "99 tag: wontfix",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "volto-reference-backend",
+  "label": "dependencies",
+  "openI": 0,
+  "allI": 0,
+  "openP": 2,
+  "allP": 26,
+  "recent": 0
+ },
+ {
+  "repo": "zodbverify",
+  "label": "99 tag: duplicate",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "zodbverify",
+  "label": "99 tag: invalid",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ },
+ {
+  "repo": "zodbverify",
+  "label": "99 tag: wontfix",
+  "openI": 0,
+  "allI": 0,
+  "openP": 0,
+  "allP": 0,
+  "recent": 0
+ }
+]

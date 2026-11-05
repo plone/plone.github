@@ -1,0 +1,5025 @@
+{
+ "total_boards": 68,
+ "private_boards_omitted": 34,
+ "boards": [
+  {
+   "number": 55,
+   "title": "Accessibility",
+   "url": "https://github.com/orgs/plone/projects/55",
+   "closed": false,
+   "public": true,
+   "updatedAt": "2026-11-05T21:54:00Z",
+   "createdAt": "2024-08-26T21:01:19Z",
+   "items": {
+    "totalCount": 86
+   },
+   "fields": {
+    "nodes": [
+     {
+      "name": "Title",
+      "dataType": "TITLE"
+     },
+     {
+      "name": "Assignees",
+      "dataType": "ASSIGNEES"
+     },
+     {
+      "name": "Status",
+      "dataType": "SINGLE_SELECT",
+      "options": [
+       {
+        "name": "To do"
+       },
+       {
+        "name": "In progress"
+       },
+       {
+        "name": "Review in progress"
+       },
+       {
+        "name": "Reviewer approved"
+       },
+       {
+        "name": "Done"
+       }
+      ]
+     },
+     {
+      "name": "Labels",
+      "dataType": "LABELS"
+     },
+     {
+      "name": "Linked pull requests",
+      "dataType": "LINKED_PULL_REQUESTS"
+     },
+     {
+      "name": "Milestone",
+      "dataType": "MILESTONE"
+     },
+     {
+      "name": "Repository",
+      "dataType": "REPOSITORY"
+     },
+     {
+      "name": "Reviewers",
+      "dataType": "REVIEWERS"
+     },
+     {
+      "name": "Parent issue",
+      "dataType": "PARENT_ISSUE"
+     },
+     {
+      "name": "Sub-issues progress",
+      "dataType": "SUB_ISSUES_PROGRESS"
+     },
+     {
+      "name": "Created",
+      "dataType": "CREATED"
+     },
+     {
+      "name": "Updated",
+      "dataType": "UPDATED"
+     },
+     {
+      "name": "Closed",
+      "dataType": "CLOSED"
+     }
+    ]
+   },
+   "views": {
+    "nodes": [
+     {
+      "name": "View 1",
+      "layout": "BOARD_LAYOUT",
+      "filter": null,
+      "groupByFields": {
+       "nodes": []
+      },
+      "verticalGroupByFields": {
+       "nodes": [
+        {
+         "name": "Status"
+        }
+       ]
+      }
+     }
+    ]
+   }
+  },
+  {
+   "number": 53,
+   "title": "RedTurtle priorities",
+   "url": "https://github.com/orgs/plone/projects/53",
+   "closed": false,
+   "public": true,
+   "updatedAt": "2026-11-05T21:54:00Z",
+   "createdAt": "2024-08-26T21:01:15Z",
+   "items": {
+    "totalCount": 73
+   },
+   "fields": {
+    "nodes": [
+     {
+      "name": "Title",
+      "dataType": "TITLE"
+     },
+     {
+      "name": "Assignees",
+      "dataType": "ASSIGNEES"
+     },
+     {
+      "name": "Status",
+      "dataType": "SINGLE_SELECT",
+      "options": [
+       {
+        "name": "To do"
+       },
+       {
+        "name": "In progress"
+       },
+       {
+        "name": "Review in progress"
+       },
+       {
+        "name": "Reviewer approved"
+       },
+       {
+        "name": "Done"
+       }
+      ]
+     },
+     {
+      "name": "Labels",
+      "dataType": "LABELS"
+     },
+     {
+      "name": "Linked pull requests",
+      "dataType": "LINKED_PULL_REQUESTS"
+     },
+     {
+      "name": "Milestone",
+      "dataType": "MILESTONE"
+     },
+     {
+      "name": "Repository",
+      "dataType": "REPOSITORY"
+     },
+     {
+      "name": "Reviewers",
+      "dataType": "REVIEWERS"
+     },
+     {
+      "name": "Parent issue",
+      "dataType": "PARENT_ISSUE"
+     },
+     {
+      "name": "Sub-issues progress",
+      "dataType": "SUB_ISSUES_PROGRESS"
+     },
+     {
+      "name": "Created",
+      "dataType": "CREATED"
+     },
+     {
+      "name": "Updated",
+      "dataType": "UPDATED"
+     },
+     {
+      "name": "Closed",
+      "dataType": "CLOSED"
+     }
+    ]
+   },
+   "views": {
+    "nodes": [
+     {
+      "name": "View 1",
+      "layout": "BOARD_LAYOUT",
+      "filter": null,
+      "groupByFields": {
+       "nodes": []
+      },
+      "verticalGroupByFields": {
+       "nodes": [
+        {
+         "name": "Status"
+        }
+       ]
+      }
+     }
+    ]
+   }
+  },
+  {
+   "number": 19,
+   "title": "Volto Team Meeting",
+   "url": "https://github.com/orgs/plone/projects/19",
+   "closed": false,
+   "public": true,
+   "updatedAt": "2026-11-05T21:54:00Z",
+   "createdAt": "2023-01-04T10:31:04Z",
+   "items": {
+    "totalCount": 239
+   },
+   "fields": {
+    "nodes": [
+     {
+      "name": "Title",
+      "dataType": "TITLE"
+     },
+     {
+      "name": "Assignees",
+      "dataType": "ASSIGNEES"
+     },
+     {
+      "name": "Status",
+      "dataType": "SINGLE_SELECT",
+      "options": [
+       {
+        "name": "Needs discussion"
+       },
+       {
+        "name": "Plan approved"
+       },
+       {
+        "name": "Work approved"
+       },
+       {
+        "name": "Stale"
+       },
+       {
+        "name": "Done"
+       }
+      ]
+     },
+     {
+      "name": "Labels",
+      "dataType": "LABELS"
+     },
+     {
+      "name": "Linked pull requests",
+      "dataType": "LINKED_PULL_REQUESTS"
+     },
+     {
+      "name": "Reviewers",
+      "dataType": "REVIEWERS"
+     },
+     {
+      "name": "Repository",
+      "dataType": "REPOSITORY"
+     },
+     {
+      "name": "Milestone",
+      "dataType": "MILESTONE"
+     },
+     {
+      "name": "Parent issue",
+      "dataType": "PARENT_ISSUE"
+     },
+     {
+      "name": "Sub-issues progress",
+      "dataType": "SUB_ISSUES_PROGRESS"
+     },
+     {
+      "name": "Starvation",
+      "dataType": "NUMBER"
+     },
+     {
+      "name": "Created",
+      "dataType": "CREATED"
+     },
+     {
+      "name": "Updated",
+      "dataType": "UPDATED"
+     },
+     {
+      "name": "Closed",
+      "dataType": "CLOSED"
+     }
+    ]
+   },
+   "views": {
+    "nodes": [
+     {
+      "name": "Items",
+      "layout": "TABLE_LAYOUT",
+      "filter": "",
+      "groupByFields": {
+       "nodes": [
+        {
+         "name": "Status"
+        }
+       ]
+      },
+      "verticalGroupByFields": {
+       "nodes": []
+      }
+     },
+     {
+      "name": "View 3",
+      "layout": "ROADMAP_LAYOUT",
+      "filter": null,
+      "groupByFields": {
+       "nodes": []
+      },
+      "verticalGroupByFields": {
+       "nodes": []
+      }
+     }
+    ]
+   }
+  },
+  {
+   "number": 12,
+   "title": "Plone Documentation",
+   "url": "https://github.com/orgs/plone/projects/12",
+   "closed": false,
+   "public": true,
+   "updatedAt": "2026-11-05T09:10:30Z",
+   "createdAt": "2022-01-15T14:25:45Z",
+   "items": {
+    "totalCount": 1696
+   },
+   "fields": {
+    "nodes": [
+     {
+      "name": "Title",
+      "dataType": "TITLE"
+     },
+     {
+      "name": "Assignees",
+      "dataType": "ASSIGNEES"
+     },
+     {
+      "name": "Status",
+      "dataType": "SINGLE_SELECT",
+      "options": [
+       {
+        "name": "New"
+       },
+       {
+        "name": "Todo"
+       },
+       {
+        "name": "In Progress"
+       },
+       {
+        "name": "Approved"
+       },
+       {
+        "name": "Done"
+       }
+      ]
+     },
+     {
+      "name": "Labels",
+      "dataType": "LABELS"
+     },
+     {
+      "name": "Linked pull requests",
+      "dataType": "LINKED_PULL_REQUESTS"
+     },
+     {
+      "name": "Reviewers",
+      "dataType": "REVIEWERS"
+     },
+     {
+      "name": "Repository",
+      "dataType": "REPOSITORY"
+     },
+     {
+      "name": "Milestone",
+      "dataType": "MILESTONE"
+     },
+     {
+      "name": "Parent issue",
+      "dataType": "PARENT_ISSUE"
+     },
+     {
+      "name": "Sub-issues progress",
+      "dataType": "SUB_ISSUES_PROGRESS"
+     },
+     {
+      "name": "Date Due",
+      "dataType": "DATE"
+     },
+     {
+      "name": "Open Date",
+      "dataType": "DATE"
+     },
+     {
+      "name": "Created",
+      "dataType": "CREATED"
+     },
+     {
+      "name": "Updated",
+      "dataType": "UPDATED"
+     },
+     {
+      "name": "Closed",
+      "dataType": "CLOSED"
+     }
+    ]
+   },
+   "views": {
+    "nodes": [
+     {
+      "name": "List",
+      "layout": "TABLE_LAYOUT",
+      "filter": "",
+      "groupByFields": {
+       "nodes": []
+      },
+      "verticalGroupByFields": {
+       "nodes": []
+      }
+     },
+     {
+      "name": "Board",
+      "layout": "BOARD_LAYOUT",
+      "filter": "",
+      "groupByFields": {
+       "nodes": []
+      },
+      "verticalGroupByFields": {
+       "nodes": [
+        {
+         "name": "Status"
+        }
+       ]
+      }
+     },
+     {
+      "name": "Open Issues",
+      "layout": "TABLE_LAYOUT",
+      "filter": "-status:Done",
+      "groupByFields": {
+       "nodes": []
+      },
+      "verticalGroupByFields": {
+       "nodes": []
+      }
+     }
+    ]
+   }
+  },
+  {
+   "number": 23,
+   "title": "Website Team",
+   "url": "https://github.com/orgs/plone/projects/23",
+   "closed": false,
+   "public": true,
+   "updatedAt": "2026-11-02T17:44:53Z",
+   "createdAt": "2023-03-17T13:59:48Z",
+   "items": {
+    "totalCount": 34
+   },
+   "fields": {
+    "nodes": [
+     {
+      "name": "Title",
+      "dataType": "TITLE"
+     },
+     {
+      "name": "Assignees",
+      "dataType": "ASSIGNEES"
+     },
+     {
+      "name": "Status",
+      "dataType": "SINGLE_SELECT",
+      "options": [
+       {
+        "name": "Backlog"
+       },
+       {
+        "name": "Todo"
+       },
+       {
+        "name": "In Progress"
+       },
+       {
+        "name": "Done"
+       }
+      ]
+     },
+     {
+      "name": "Labels",
+      "dataType": "LABELS"
+     },
+     {
+      "name": "Linked pull requests",
+      "dataType": "LINKED_PULL_REQUESTS"
+     },
+     {
+      "name": "Reviewers",
+      "dataType": "REVIEWERS"
+     },
+     {
+      "name": "Repository",
+      "dataType": "REPOSITORY"
+     },
+     {
+      "name": "Milestone",
+      "dataType": "MILESTONE"
+     },
+     {
+      "name": "Parent issue",
+      "dataType": "PARENT_ISSUE"
+     },
+     {
+      "name": "Sub-issues progress",
+      "dataType": "SUB_ISSUES_PROGRESS"
+     },
+     {
+      "name": "Created",
+      "dataType": "CREATED"
+     },
+     {
+      "name": "Updated",
+      "dataType": "UPDATED"
+     },
+     {
+      "name": "Closed",
+      "dataType": "CLOSED"
+     }
+    ]
+   },
+   "views": {
+    "nodes": [
+     {
+      "name": "View 1",
+      "layout": "BOARD_LAYOUT",
+      "filter": "",
+      "groupByFields": {
+       "nodes": []
+      },
+      "verticalGroupByFields": {
+       "nodes": [
+        {
+         "name": "Status"
+        }
+       ]
+      }
+     }
+    ]
+   }
+  },
+  {
+   "number": 30,
+   "title": "Beethoven Sprint 2024",
+   "url": "https://github.com/orgs/plone/projects/30",
+   "closed": false,
+   "public": true,
+   "updatedAt": "2026-11-02T17:44:38Z",
+   "createdAt": "2023-12-13T10:55:11Z",
+   "items": {
+    "totalCount": 73
+   },
+   "fields": {
+    "nodes": [
+     {
+      "name": "Title",
+      "dataType": "TITLE"
+     },
+     {
+      "name": "Assignees",
+      "dataType": "ASSIGNEES"
+     },
+     {
+      "name": "Status",
+      "dataType": "SINGLE_SELECT",
+      "options": [
+       {
+        "name": "Backlog"
+       },
+       {
+        "name": "Ready"
+       },
+       {
+        "name": "In progress"
+       },
+       {
+        "name": "In review"
+       },
+       {
+        "name": "Done"
+       }
+      ]
+     },
+     {
+      "name": "Labels",
+      "dataType": "LABELS"
+     },
+     {
+      "name": "Linked pull requests",
+      "dataType": "LINKED_PULL_REQUESTS"
+     },
+     {
+      "name": "Reviewers",
+      "dataType": "REVIEWERS"
+     },
+     {
+      "name": "Repository",
+      "dataType": "REPOSITORY"
+     },
+     {
+      "name": "Milestone",
+      "dataType": "MILESTONE"
+     },
+     {
+      "name": "Priority",
+      "dataType": "SINGLE_SELECT",
+      "options": [
+       {
+        "name": "P0"
+       },
+       {
+        "name": "P1"
+       },
+       {
+        "name": "P2"
+       }
+      ]
+     },
+     {
+      "name": "Size",
+      "dataType": "SINGLE_SELECT",
+      "options": [
+       {
+        "name": "XS"
+       },
+       {
+        "name": "S"
+       },
+       {
+        "name": "M"
+       },
+       {
+        "name": "L"
+       },
+       {
+        "name": "XL"
+       }
+      ]
+     },
+     {
+      "name": "Estimate",
+      "dataType": "NUMBER"
+     },
+     {
+      "name": "Start date",
+      "dataType": "DATE"
+     },
+     {
+      "name": "End date",
+      "dataType": "DATE"
+     },
+     {
+      "name": "Parent issue",
+      "dataType": "PARENT_ISSUE"
+     },
+     {
+      "name": "Sub-issues progress",
+      "dataType": "SUB_ISSUES_PROGRESS"
+     },
+     {
+      "name": "Created",
+      "dataType": "CREATED"
+     },
+     {
+      "name": "Updated",
+      "dataType": "UPDATED"
+     },
+     {
+      "name": "Closed",
+      "dataType": "CLOSED"
+     }
+    ]
+   },
+   "views": {
+    "nodes": [
+     {
+      "name": "Backlog",
+      "layout": "BOARD_LAYOUT",
+      "filter": null,
+      "groupByFields": {
+       "nodes": []
+      },
+      "verticalGroupByFields": {
+       "nodes": [
+        {
+         "name": "Status"
+        }
+       ]
+      }
+     },
+     {
+      "name": "Priority board",
+      "layout": "BOARD_LAYOUT",
+      "filter": null,
+      "groupByFields": {
+       "nodes": [
+        {
+         "name": "Priority"
+        }
+       ]
+      },
+      "verticalGroupByFields": {
+       "nodes": [
+        {
+         "name": "Status"
+        }
+       ]
+      }
+     },
+     {
+      "name": "Team items",
+      "layout": "TABLE_LAYOUT",
+      "filter": null,
+      "groupByFields": {
+       "nodes": [
+        {
+         "name": "Status"
+        }
+       ]
+      },
+      "verticalGroupByFields": {
+       "nodes": []
+      }
+     },
+     {
+      "name": "Roadmap",
+      "layout": "ROADMAP_LAYOUT",
+      "filter": null,
+      "groupByFields": {
+       "nodes": []
+      },
+      "verticalGroupByFields": {
+       "nodes": []
+      }
+     },
+     {
+      "name": "In review",
+      "layout": "TABLE_LAYOUT",
+      "filter": "status:\"In review\"",
+      "groupByFields": {
+       "nodes": []
+      },
+      "verticalGroupByFields": {
+       "nodes": []
+      }
+     },
+     {
+      "name": "My items",
+      "layout": "TABLE_LAYOUT",
+      "filter": "assignee:@me",
+      "groupByFields": {
+       "nodes": []
+      },
+      "verticalGroupByFields": {
+       "nodes": []
+      }
+     }
+    ]
+   }
+  },
+  {
+   "number": 92,
+   "title": "Contributor Statistics",
+   "url": "https://github.com/orgs/plone/projects/92",
+   "closed": false,
+   "public": true,
+   "updatedAt": "2026-11-01T16:20:48Z",
+   "createdAt": "2026-10-16T11:16:02Z",
+   "items": {
+    "totalCount": 173
+   },
+   "fields": {
+    "nodes": [
+     {
+      "name": "Title",
+      "dataType": "TITLE"
+     },
+     {
+      "name": "Assignees",
+      "dataType": "ASSIGNEES"
+     },
+     {
+      "name": "Status",
+      "dataType": "SINGLE_SELECT",
+      "options": [
+       {
+        "name": "Backlog"
+       },
+       {
+        "name": "Ready"
+       },
+       {
+        "name": "Discussion"
+       },
+       {
+        "name": "In progress"
+       },
+       {
+        "name": "Waiting"
+       },
+       {
+        "name": "In review"
+       },
+       {
+        "name": "Done"
+       }
+      ]
+     },
+     {
+      "name": "Labels",
+      "dataType": "LABELS"
+     },
+     {
+      "name": "Linked pull requests",
+      "dataType": "LINKED_PULL_REQUESTS"
+     },
+     {
+      "name": "Milestone",
+      "dataType": "MILESTONE"
+     },
+     {
+      "name": "Repository",
+      "dataType": "REPOSITORY"
+     },
+     {
+      "name": "Reviewers",
+      "dataType": "REVIEWERS"
+     },
+     {
+      "name": "Parent issue",
+      "dataType": "PARENT_ISSUE"
+     },
+     {
+      "name": "Sub-issues progress",
+      "dataType": "SUB_ISSUES_PROGRESS"
+     },
+     {
+      "name": "Created",
+      "dataType": "CREATED"
+     },
+     {
+      "name": "Updated",
+      "dataType": "UPDATED"
+     },
+     {
+      "name": "Closed",
+      "dataType": "CLOSED"
+     }
+    ]
+   },
+   "views": {
+    "nodes": [
+     {
+      "name": "Board",
+      "layout": "BOARD_LAYOUT",
+      "filter": "",
+      "groupByFields": {
+       "nodes": []
+      },
+      "verticalGroupByFields": {
+       "nodes": [
+        {
+         "name": "Status"
+        }
+       ]
+      }
+     },
+     {
+      "name": "Bugs by priority",
+      "layout": "TABLE_LAYOUT",
+      "filter": "is:open label:\"01 type: bug\"",
+      "groupByFields": {
+       "nodes": []
+      },
+      "verticalGroupByFields": {
+       "nodes": []
+      }
+     }
+    ]
+   }
+  },
+  {
+   "number": 78,
+   "title": "Bucharest Sprint 2026",
+   "url": "https://github.com/orgs/plone/projects/78",
+   "closed": false,
+   "public": true,
+   "updatedAt": "2026-10-31T18:21:57Z",
+   "createdAt": "2026-02-28T10:13:35Z",
+   "items": {
+    "totalCount": 70
+   },
+   "fields": {
+    "nodes": [
+     {
+      "name": "Title",
+      "dataType": "TITLE"
+     },
+     {
+      "name": "Assignees",
+      "dataType": "ASSIGNEES"
+     },
+     {
+      "name": "Status",
+      "dataType": "SINGLE_SELECT",
+      "options": [
+       {
+        "name": "Todo"
+       },
+       {
+        "name": "In progress"
+       },
+       {
+        "name": "Done"
+       }
+      ]
+     },
+     {
+      "name": "Labels",
+      "dataType": "LABELS"
+     },
+     {
+      "name": "Linked pull requests",
+      "dataType": "LINKED_PULL_REQUESTS"
+     },
+     {
+      "name": "Milestone",
+      "dataType": "MILESTONE"
+     },
+     {
+      "name": "Repository",
+      "dataType": "REPOSITORY"
+     },
+     {
+      "name": "Reviewers",
+      "dataType": "REVIEWERS"
+     },
+     {
+      "name": "Parent issue",
+      "dataType": "PARENT_ISSUE"
+     },
+     {
+      "name": "Sub-issues progress",
+      "dataType": "SUB_ISSUES_PROGRESS"
+     },
+     {
+      "name": "Priority",
+      "dataType": "SINGLE_SELECT",
+      "options": [
+       {
+        "name": "P0"
+       },
+       {
+        "name": "P1"
+       },
+       {
+        "name": "P2"
+       }
+      ]
+     },
+     {
+      "name": "Size",
+      "dataType": "SINGLE_SELECT",
+      "options": [
+       {
+        "name": "XS"
+       },
+       {
+        "name": "S"
+       },
+       {
+        "name": "M"
+       },
+       {
+        "name": "L"
+       },
+       {
+        "name": "XL"
+       }
+      ]
+     },
+     {
+      "name": "Estimate",
+      "dataType": "NUMBER"
+     },
+     {
+      "name": "Iteration",
+      "dataType": "ITERATION"
+     },
+     {
+      "name": "Start date",
+      "dataType": "DATE"
+     },
+     {
+      "name": "Target date",
+      "dataType": "DATE"
+     },
+     {
+      "name": "Team",
+      "dataType": "SINGLE_SELECT",
+      "options": [
+       {
+        "name": "Core"
+       },
+       {
+        "name": "New editor UX"
+       },
+       {
+        "name": "Blocks"
+       },
+       {
+        "name": "Documentation"
+       },
+       {
+        "name": "Plone 6.2"
+       },
+       {
+        "name": "Widgets"
+       },
+       {
+        "name": "Contents"
+       },
+       {
+        "name": "DevOps / Testing"
+       },
+       {
+        "name": "NickCMS / BFF"
+       },
+       {
+        "name": "Digital assistants"
+       },
+       {
+        "name": "plone.org"
+       },
+       {
+        "name": "Beyond Plone 6.2"
+       },
+       {
+        "name": "plone.restapi"
+       },
+       {
+        "name": "Cookieplone"
+       }
+      ]
+     },
+     {
+      "name": "Created",
+      "dataType": "CREATED"
+     },
+     {
+      "name": "Updated",
+      "dataType": "UPDATED"
+     },
+     {
+      "name": "Closed",
+      "dataType": "CLOSED"
+     }
+    ]
+   },
+   "views": {
+    "nodes": [
+     {
+      "name": "Backlog",
+      "layout": "TABLE_LAYOUT",
+      "filter": "",
+      "groupByFields": {
+       "nodes": [
+        {
+         "name": "Team"
+        }
+       ]
+      },
+      "verticalGroupByFields": {
+       "nodes": []
+      }
+     },
+     {
+      "name": "Board",
+      "layout": "BOARD_LAYOUT",
+      "filter": "",
+      "groupByFields": {
+       "nodes": [
+        {
+         "name": "Team"
+        }
+       ]
+      },
+      "verticalGroupByFields": {
+       "nodes": [
+        {
+         "name": "Status"
+        }
+       ]
+      }
+     },
+     {
+      "name": "Current iteration",
+      "layout": "BOARD_LAYOUT",
+      "filter": "iteration:@current",
+      "groupByFields": {
+       "nodes": [
+        {
+         "name": "Priority"
+        }
+       ]
+      },
+      "verticalGroupByFields": {
+       "nodes": [
+        {
+         "name": "Status"
+        }
+       ]
+      }
+     },
+     {
+      "name": "Roadmap",
+      "layout": "ROADMAP_LAYOUT",
+      "filter": null,
+      "groupByFields": {
+       "nodes": []
+      },
+      "verticalGroupByFields": {
+       "nodes": []
+      }
+     },
+     {
+      "name": "My items",
+      "layout": "TABLE_LAYOUT",
+      "filter": "assignee:@me",
+      "groupByFields": {
+       "nodes": []
+      },
+      "verticalGroupByFields": {
+       "nodes": []
+      }
+     }
+    ]
+   }
+  },
+  {
+   "number": 76,
+   "title": "Beethoven Sprint 2026",
+   "url": "https://github.com/orgs/plone/projects/76",
+   "closed": false,
+   "public": true,
+   "updatedAt": "2026-10-31T18:21:57Z",
+   "createdAt": "2025-12-10T12:39:34Z",
+   "items": {
+    "totalCount": 127
+   },
+   "fields": {
+    "nodes": [
+     {
+      "name": "Title",
+      "dataType": "TITLE"
+     },
+     {
+      "name": "Assignees",
+      "dataType": "ASSIGNEES"
+     },
+     {
+      "name": "Status",
+      "dataType": "SINGLE_SELECT",
+      "options": [
+       {
+        "name": "Backlog"
+       },
+       {
+        "name": "ToDo"
+       },
+       {
+        "name": "In progress"
+       },
+       {
+        "name": "In review"
+       },
+       {
+        "name": "Done"
+       }
+      ]
+     },
+     {
+      "name": "Labels",
+      "dataType": "LABELS"
+     },
+     {
+      "name": "Linked pull requests",
+      "dataType": "LINKED_PULL_REQUESTS"
+     },
+     {
+      "name": "Milestone",
+      "dataType": "MILESTONE"
+     },
+     {
+      "name": "Repository",
+      "dataType": "REPOSITORY"
+     },
+     {
+      "name": "Reviewers",
+      "dataType": "REVIEWERS"
+     },
+     {
+      "name": "Parent issue",
+      "dataType": "PARENT_ISSUE"
+     },
+     {
+      "name": "Sub-issues progress",
+      "dataType": "SUB_ISSUES_PROGRESS"
+     },
+     {
+      "name": "Priority",
+      "dataType": "SINGLE_SELECT",
+      "options": [
+       {
+        "name": "P0"
+       },
+       {
+        "name": "P1"
+       },
+       {
+        "name": "P2"
+       }
+      ]
+     },
+     {
+      "name": "Size",
+      "dataType": "SINGLE_SELECT",
+      "options": [
+       {
+        "name": "XS"
+       },
+       {
+        "name": "S"
+       },
+       {
+        "name": "M"
+       },
+       {
+        "name": "L"
+       },
+       {
+        "name": "XL"
+       }
+      ]
+     },
+     {
+      "name": "Estimate",
+      "dataType": "NUMBER"
+     },
+     {
+      "name": "Start date",
+      "dataType": "DATE"
+     },
+     {
+      "name": "Target date",
+      "dataType": "DATE"
+     },
+     {
+      "name": "Created",
+      "dataType": "CREATED"
+     },
+     {
+      "name": "Updated",
+      "dataType": "UPDATED"
+     },
+     {
+      "name": "Closed",
+      "dataType": "CLOSED"
+     }
+    ]
+   },
+   "views": {
+    "nodes": [
+     {
+      "name": "Backlog",
+      "layout": "BOARD_LAYOUT",
+      "filter": null,
+      "groupByFields": {
+       "nodes": []
+      },
+      "verticalGroupByFields": {
+       "nodes": [
+        {
+         "name": "Status"
+        }
+       ]
+      }
+     },
+     {
+      "name": "Priority board",
+      "layout": "BOARD_LAYOUT",
+      "filter": null,
+      "groupByFields": {
+       "nodes": [
+        {
+         "name": "Priority"
+        }
+       ]
+      },
+      "verticalGroupByFields": {
+       "nodes": [
+        {
+         "name": "Status"
+        }
+       ]
+      }
+     },
+     {
+      "name": "Team items",
+      "layout": "TABLE_LAYOUT",
+      "filter": null,
+      "groupByFields": {
+       "nodes": [
+        {
+         "name": "Status"
+        }
+       ]
+      },
+      "verticalGroupByFields": {
+       "nodes": []
+      }
+     },
+     {
+      "name": "Roadmap",
+      "layout": "ROADMAP_LAYOUT",
+      "filter": null,
+      "groupByFields": {
+       "nodes": []
+      },
+      "verticalGroupByFields": {
+       "nodes": []
+      }
+     },
+     {
+      "name": "My items",
+      "layout": "TABLE_LAYOUT",
+      "filter": "assignee:@me",
+      "groupByFields": {
+       "nodes": []
+      },
+      "verticalGroupByFields": {
+       "nodes": []
+      }
+     }
+    ]
+   }
+  },
+  {
+   "number": 87,
+   "title": "Pole Position Sprint 2026",
+   "url": "https://github.com/orgs/plone/projects/87",
+   "closed": false,
+   "public": true,
+   "updatedAt": "2026-10-31T17:34:51Z",
+   "createdAt": "2026-05-22T14:52:33Z",
+   "items": {
+    "totalCount": 69
+   },
+   "fields": {
+    "nodes": [
+     {
+      "name": "Title",
+      "dataType": "TITLE"
+     },
+     {
+      "name": "Assignees",
+      "dataType": "ASSIGNEES"
+     },
+     {
+      "name": "Status",
+      "dataType": "SINGLE_SELECT",
+      "options": [
+       {
+        "name": "Backlog"
+       },
+       {
+        "name": "ToDo"
+       },
+       {
+        "name": "In progress"
+       },
+       {
+        "name": "In review"
+       },
+       {
+        "name": "Done"
+       }
+      ]
+     },
+     {
+      "name": "Labels",
+      "dataType": "LABELS"
+     },
+     {
+      "name": "Linked pull requests",
+      "dataType": "LINKED_PULL_REQUESTS"
+     },
+     {
+      "name": "Milestone",
+      "dataType": "MILESTONE"
+     },
+     {
+      "name": "Repository",
+      "dataType": "REPOSITORY"
+     },
+     {
+      "name": "Reviewers",
+      "dataType": "REVIEWERS"
+     },
+     {
+      "name": "Parent issue",
+      "dataType": "PARENT_ISSUE"
+     },
+     {
+      "name": "Sub-issues progress",
+      "dataType": "SUB_ISSUES_PROGRESS"
+     },
+     {
+      "name": "Created",
+      "dataType": "CREATED"
+     },
+     {
+      "name": "Updated",
+      "dataType": "UPDATED"
+     },
+     {
+      "name": "Closed",
+      "dataType": "CLOSED"
+     },
+     {
+      "name": "Priority",
+      "dataType": "SINGLE_SELECT",
+      "options": [
+       {
+        "name": "P0"
+       },
+       {
+        "name": "P1"
+       },
+       {
+        "name": "P2"
+       }
+      ]
+     },
+     {
+      "name": "Size",
+      "dataType": "SINGLE_SELECT",
+      "options": [
+       {
+        "name": "XS"
+       },
+       {
+        "name": "S"
+       },
+       {
+        "name": "M"
+       },
+       {
+        "name": "L"
+       },
+       {
+        "name": "XL"
+       }
+      ]
+     },
+     {
+      "name": "Estimate",
+      "dataType": "NUMBER"
+     },
+     {
+      "name": "Start date",
+      "dataType": "DATE"
+     },
+     {
+      "name": "Target date",
+      "dataType": "DATE"
+     }
+    ]
+   },
+   "views": {
+    "nodes": [
+     {
+      "name": "Backlog",
+      "layout": "BOARD_LAYOUT",
+      "filter": null,
+      "groupByFields": {
+       "nodes": []
+      },
+      "verticalGroupByFields": {
+       "nodes": [
+        {
+         "name": "Status"
+        }
+       ]
+      }
+     },
+     {
+      "name": "Priority board",
+      "layout": "BOARD_LAYOUT",
+      "filter": null,
+      "groupByFields": {
+       "nodes": [
+        {
+         "name": "Priority"
+        }
+       ]
+      },
+      "verticalGroupByFields": {
+       "nodes": [
+        {
+         "name": "Status"
+        }
+       ]
+      }
+     },
+     {
+      "name": "Team items",
+      "layout": "TABLE_LAYOUT",
+      "filter": null,
+      "groupByFields": {
+       "nodes": [
+        {
+         "name": "Status"
+        }
+       ]
+      },
+      "verticalGroupByFields": {
+       "nodes": []
+      }
+     },
+     {
+      "name": "Roadmap",
+      "layout": "ROADMAP_LAYOUT",
+      "filter": null,
+      "groupByFields": {
+       "nodes": []
+      },
+      "verticalGroupByFields": {
+       "nodes": []
+      }
+     },
+     {
+      "name": "My items",
+      "layout": "TABLE_LAYOUT",
+      "filter": "assignee:@me",
+      "groupByFields": {
+       "nodes": []
+      },
+      "verticalGroupByFields": {
+       "nodes": []
+      }
+     }
+    ]
+   }
+  },
+  {
+   "number": 63,
+   "title": "Bucharest Sprint 2025",
+   "url": "https://github.com/orgs/plone/projects/63",
+   "closed": false,
+   "public": true,
+   "updatedAt": "2026-10-31T17:34:51Z",
+   "createdAt": "2025-02-18T08:56:54Z",
+   "items": {
+    "totalCount": 108
+   },
+   "fields": {
+    "nodes": [
+     {
+      "name": "Title",
+      "dataType": "TITLE"
+     },
+     {
+      "name": "Assignees",
+      "dataType": "ASSIGNEES"
+     },
+     {
+      "name": "Status",
+      "dataType": "SINGLE_SELECT",
+      "options": [
+       {
+        "name": "Backlog"
+       },
+       {
+        "name": "Planned"
+       },
+       {
+        "name": "In Progress"
+       },
+       {
+        "name": "Done"
+       }
+      ]
+     },
+     {
+      "name": "Labels",
+      "dataType": "LABELS"
+     },
+     {
+      "name": "Linked pull requests",
+      "dataType": "LINKED_PULL_REQUESTS"
+     },
+     {
+      "name": "Milestone",
+      "dataType": "MILESTONE"
+     },
+     {
+      "name": "Repository",
+      "dataType": "REPOSITORY"
+     },
+     {
+      "name": "Reviewers",
+      "dataType": "REVIEWERS"
+     },
+     {
+      "name": "Parent issue",
+      "dataType": "PARENT_ISSUE"
+     },
+     {
+      "name": "Sub-issues progress",
+      "dataType": "SUB_ISSUES_PROGRESS"
+     },
+     {
+      "name": "Created",
+      "dataType": "CREATED"
+     },
+     {
+      "name": "Updated",
+      "dataType": "UPDATED"
+     },
+     {
+      "name": "Closed",
+      "dataType": "CLOSED"
+     }
+    ]
+   },
+   "views": {
+    "nodes": [
+     {
+      "name": "Overview",
+      "layout": "BOARD_LAYOUT",
+      "filter": "",
+      "groupByFields": {
+       "nodes": []
+      },
+      "verticalGroupByFields": {
+       "nodes": [
+        {
+         "name": "Status"
+        }
+       ]
+      }
+     },
+     {
+      "name": "By repository",
+      "layout": "BOARD_LAYOUT",
+      "filter": "",
+      "groupByFields": {
+       "nodes": []
+      },
+      "verticalGroupByFields": {
+       "nodes": [
+        {
+         "name": "Status"
+        }
+       ]
+      }
+     },
+     {
+      "name": "View 3",
+      "layout": "TABLE_LAYOUT",
+      "filter": null,
+      "groupByFields": {
+       "nodes": []
+      },
+      "verticalGroupByFields": {
+       "nodes": []
+      }
+     }
+    ]
+   }
+  },
+  {
+   "number": 58,
+   "title": "Aurora",
+   "url": "https://github.com/orgs/plone/projects/58",
+   "closed": false,
+   "public": true,
+   "updatedAt": "2026-10-31T17:34:51Z",
+   "createdAt": "2024-09-24T15:10:33Z",
+   "items": {
+    "totalCount": 139
+   },
+   "fields": {
+    "nodes": [
+     {
+      "name": "Title",
+      "dataType": "TITLE"
+     },
+     {
+      "name": "Assignees",
+      "dataType": "ASSIGNEES"
+     },
+     {
+      "name": "Status",
+      "dataType": "SINGLE_SELECT",
+      "options": [
+       {
+        "name": "PoC / Draft"
+       },
+       {
+        "name": "Todo"
+       },
+       {
+        "name": "In Progress"
+       },
+       {
+        "name": "Ready for Review"
+       },
+       {
+        "name": "Done"
+       }
+      ]
+     },
+     {
+      "name": "Labels",
+      "dataType": "LABELS"
+     },
+     {
+      "name": "Linked pull requests",
+      "dataType": "LINKED_PULL_REQUESTS"
+     },
+     {
+      "name": "Milestone",
+      "dataType": "MILESTONE"
+     },
+     {
+      "name": "Repository",
+      "dataType": "REPOSITORY"
+     },
+     {
+      "name": "Reviewers",
+      "dataType": "REVIEWERS"
+     },
+     {
+      "name": "Parent issue",
+      "dataType": "PARENT_ISSUE"
+     },
+     {
+      "name": "Sub-issues progress",
+      "dataType": "SUB_ISSUES_PROGRESS"
+     },
+     {
+      "name": "Estimate",
+      "dataType": "NUMBER"
+     },
+     {
+      "name": "Business Value",
+      "dataType": "NUMBER"
+     },
+     {
+      "name": "Q4 2024",
+      "dataType": "ITERATION"
+     },
+     {
+      "name": "2025",
+      "dataType": "ITERATION"
+     },
+     {
+      "name": "2026",
+      "dataType": "ITERATION"
+     },
+     {
+      "name": "Category",
+      "dataType": "SINGLE_SELECT",
+      "options": [
+       {
+        "name": "Architecture / Infrastructure"
+       },
+       {
+        "name": "Refactor"
+       },
+       {
+        "name": "Components"
+       },
+       {
+        "name": "Theming"
+       },
+       {
+        "name": "Testing"
+       },
+       {
+        "name": "Documentation"
+       }
+      ]
+     },
+     {
+      "name": "Created",
+      "dataType": "CREATED"
+     },
+     {
+      "name": "Updated",
+      "dataType": "UPDATED"
+     },
+     {
+      "name": "Closed",
+      "dataType": "CLOSED"
+     }
+    ]
+   },
+   "views": {
+    "nodes": [
+     {
+      "name": "Roadmap",
+      "layout": "ROADMAP_LAYOUT",
+      "filter": "",
+      "groupByFields": {
+       "nodes": []
+      },
+      "verticalGroupByFields": {
+       "nodes": []
+      }
+     },
+     {
+      "name": "Board",
+      "layout": "BOARD_LAYOUT",
+      "filter": "",
+      "groupByFields": {
+       "nodes": []
+      },
+      "verticalGroupByFields": {
+       "nodes": [
+        {
+         "name": "Status"
+        }
+       ]
+      }
+     },
+     {
+      "name": "Issues",
+      "layout": "TABLE_LAYOUT",
+      "filter": "is:issue ",
+      "groupByFields": {
+       "nodes": []
+      },
+      "verticalGroupByFields": {
+       "nodes": []
+      }
+     },
+     {
+      "name": "Per category",
+      "layout": "TABLE_LAYOUT",
+      "filter": "",
+      "groupByFields": {
+       "nodes": [
+        {
+         "name": "Category"
+        }
+       ]
+      },
+      "verticalGroupByFields": {
+       "nodes": []
+      }
+     },
+     {
+      "name": "PRs",
+      "layout": "TABLE_LAYOUT",
+      "filter": "is:pr",
+      "groupByFields": {
+       "nodes": [
+        {
+         "name": "Status"
+        }
+       ]
+      },
+      "verticalGroupByFields": {
+       "nodes": []
+      }
+     }
+    ]
+   }
+  },
+  {
+   "number": 33,
+   "title": "Volto Roadmap",
+   "url": "https://github.com/orgs/plone/projects/33",
+   "closed": false,
+   "public": true,
+   "updatedAt": "2026-10-31T17:32:11Z",
+   "createdAt": "2024-01-12T19:42:02Z",
+   "items": {
+    "totalCount": 60
+   },
+   "fields": {
+    "nodes": [
+     {
+      "name": "Title",
+      "dataType": "TITLE"
+     },
+     {
+      "name": "Assignees",
+      "dataType": "ASSIGNEES"
+     },
+     {
+      "name": "Status",
+      "dataType": "SINGLE_SELECT",
+      "options": [
+       {
+        "name": "Backlog"
+       },
+       {
+        "name": "In progress"
+       },
+       {
+        "name": "In review"
+       },
+       {
+        "name": "Done"
+       }
+      ]
+     },
+     {
+      "name": "Labels",
+      "dataType": "LABELS"
+     },
+     {
+      "name": "Linked pull requests",
+      "dataType": "LINKED_PULL_REQUESTS"
+     },
+     {
+      "name": "Reviewers",
+      "dataType": "REVIEWERS"
+     },
+     {
+      "name": "Repository",
+      "dataType": "REPOSITORY"
+     },
+     {
+      "name": "Milestone",
+      "dataType": "MILESTONE"
+     },
+     {
+      "name": "Category",
+      "dataType": "SINGLE_SELECT",
+      "options": [
+       {
+        "name": "API-first CMS"
+       },
+       {
+        "name": "CMSUI Improvements"
+       },
+       {
+        "name": "General Improvements"
+       },
+       {
+        "name": "New Theming"
+       },
+       {
+        "name": "Plone 7"
+       }
+      ]
+     },
+     {
+      "name": "Size",
+      "dataType": "SINGLE_SELECT",
+      "options": [
+       {
+        "name": "XS"
+       },
+       {
+        "name": "S"
+       },
+       {
+        "name": "M"
+       },
+       {
+        "name": "L"
+       },
+       {
+        "name": "XL"
+       }
+      ]
+     },
+     {
+      "name": "Estimate",
+      "dataType": "NUMBER"
+     },
+     {
+      "name": "Iteration",
+      "dataType": "ITERATION"
+     },
+     {
+      "name": "Start date",
+      "dataType": "DATE"
+     },
+     {
+      "name": "End date",
+      "dataType": "DATE"
+     },
+     {
+      "name": "Parent issue",
+      "dataType": "PARENT_ISSUE"
+     },
+     {
+      "name": "Sub-issues progress",
+      "dataType": "SUB_ISSUES_PROGRESS"
+     },
+     {
+      "name": "Created",
+      "dataType": "CREATED"
+     },
+     {
+      "name": "Updated",
+      "dataType": "UPDATED"
+     },
+     {
+      "name": "Closed",
+      "dataType": "CLOSED"
+     }
+    ]
+   },
+   "views": {
+    "nodes": [
+     {
+      "name": "Prioritized backlog",
+      "layout": "TABLE_LAYOUT",
+      "filter": "-status:Done",
+      "groupByFields": {
+       "nodes": [
+        {
+         "name": "Category"
+        }
+       ]
+      },
+      "verticalGroupByFields": {
+       "nodes": []
+      }
+     },
+     {
+      "name": "Status board",
+      "layout": "BOARD_LAYOUT",
+      "filter": "",
+      "groupByFields": {
+       "nodes": [
+        {
+         "name": "Category"
+        }
+       ]
+      },
+      "verticalGroupByFields": {
+       "nodes": [
+        {
+         "name": "Status"
+        }
+       ]
+      }
+     },
+     {
+      "name": "Roadmap",
+      "layout": "ROADMAP_LAYOUT",
+      "filter": null,
+      "groupByFields": {
+       "nodes": []
+      },
+      "verticalGroupByFields": {
+       "nodes": []
+      }
+     },
+     {
+      "name": "Bugs \ud83d\udc1b ",
+      "layout": "TABLE_LAYOUT",
+      "filter": "",
+      "groupByFields": {
+       "nodes": []
+      },
+      "verticalGroupByFields": {
+       "nodes": []
+      }
+     },
+     {
+      "name": "In review",
+      "layout": "TABLE_LAYOUT",
+      "filter": "status:\"In review\"",
+      "groupByFields": {
+       "nodes": []
+      },
+      "verticalGroupByFields": {
+       "nodes": []
+      }
+     },
+     {
+      "name": "Done",
+      "layout": "TABLE_LAYOUT",
+      "filter": "assignee:@me",
+      "groupByFields": {
+       "nodes": []
+      },
+      "verticalGroupByFields": {
+       "nodes": []
+      }
+     }
+    ]
+   }
+  },
+  {
+   "number": 61,
+   "title": "Alpine City Sprint 2025",
+   "url": "https://github.com/orgs/plone/projects/61",
+   "closed": false,
+   "public": true,
+   "updatedAt": "2026-10-28T13:58:47Z",
+   "createdAt": "2025-02-12T08:43:31Z",
+   "items": {
+    "totalCount": 78
+   },
+   "fields": {
+    "nodes": [
+     {
+      "name": "Title",
+      "dataType": "TITLE"
+     },
+     {
+      "name": "Assignees",
+      "dataType": "ASSIGNEES"
+     },
+     {
+      "name": "Status",
+      "dataType": "SINGLE_SELECT",
+      "options": [
+       {
+        "name": "Backlog"
+       },
+       {
+        "name": "Planned"
+       },
+       {
+        "name": "in progress"
+       },
+       {
+        "name": "Done"
+       }
+      ]
+     },
+     {
+      "name": "Labels",
+      "dataType": "LABELS"
+     },
+     {
+      "name": "Linked pull requests",
+      "dataType": "LINKED_PULL_REQUESTS"
+     },
+     {
+      "name": "Milestone",
+      "dataType": "MILESTONE"
+     },
+     {
+      "name": "Repository",
+      "dataType": "REPOSITORY"
+     },
+     {
+      "name": "Reviewers",
+      "dataType": "REVIEWERS"
+     },
+     {
+      "name": "Parent issue",
+      "dataType": "PARENT_ISSUE"
+     },
+     {
+      "name": "Sub-issues progress",
+      "dataType": "SUB_ISSUES_PROGRESS"
+     },
+     {
+      "name": "Created",
+      "dataType": "CREATED"
+     },
+     {
+      "name": "Updated",
+      "dataType": "UPDATED"
+     },
+     {
+      "name": "Closed",
+      "dataType": "CLOSED"
+     }
+    ]
+   },
+   "views": {
+    "nodes": [
+     {
+      "name": "Cards",
+      "layout": "BOARD_LAYOUT",
+      "filter": "",
+      "groupByFields": {
+       "nodes": []
+      },
+      "verticalGroupByFields": {
+       "nodes": [
+        {
+         "name": "Status"
+        }
+       ]
+      }
+     },
+     {
+      "name": "Issues by Repo",
+      "layout": "TABLE_LAYOUT",
+      "filter": "",
+      "groupByFields": {
+       "nodes": []
+      },
+      "verticalGroupByFields": {
+       "nodes": []
+      }
+     }
+    ]
+   }
+  },
+  {
+   "number": 43,
+   "title": "PLIP - plone.app.event based types",
+   "url": "https://github.com/orgs/plone/projects/43",
+   "closed": false,
+   "public": true,
+   "updatedAt": "2026-10-28T13:58:46Z",
+   "createdAt": "2024-04-09T08:46:23Z",
+   "items": {
+    "totalCount": 28
+   },
+   "fields": {
+    "nodes": [
+     {
+      "name": "Title",
+      "dataType": "TITLE"
+     },
+     {
+      "name": "Assignees",
+      "dataType": "ASSIGNEES"
+     },
+     {
+      "name": "Status",
+      "dataType": "SINGLE_SELECT",
+      "options": [
+       {
+        "name": "Triage"
+       },
+       {
+        "name": "Ready"
+       },
+       {
+        "name": "In progress"
+       },
+       {
+        "name": "In review"
+       },
+       {
+        "name": "Done"
+       }
+      ]
+     },
+     {
+      "name": "Labels",
+      "dataType": "LABELS"
+     },
+     {
+      "name": "Linked pull requests",
+      "dataType": "LINKED_PULL_REQUESTS"
+     },
+     {
+      "name": "Milestone",
+      "dataType": "MILESTONE"
+     },
+     {
+      "name": "Repository",
+      "dataType": "REPOSITORY"
+     },
+     {
+      "name": "Reviewers",
+      "dataType": "REVIEWERS"
+     },
+     {
+      "name": "Priority",
+      "dataType": "SINGLE_SELECT",
+      "options": [
+       {
+        "name": "P1"
+       },
+       {
+        "name": "P2"
+       },
+       {
+        "name": "P3"
+       }
+      ]
+     },
+     {
+      "name": "Size",
+      "dataType": "SINGLE_SELECT",
+      "options": [
+       {
+        "name": "XS"
+       },
+       {
+        "name": "S"
+       },
+       {
+        "name": "M"
+       },
+       {
+        "name": "L"
+       },
+       {
+        "name": "XL"
+       }
+      ]
+     },
+     {
+      "name": "Estimate",
+      "dataType": "NUMBER"
+     },
+     {
+      "name": "Iteration",
+      "dataType": "ITERATION"
+     },
+     {
+      "name": "Start date",
+      "dataType": "DATE"
+     },
+     {
+      "name": "End date",
+      "dataType": "DATE"
+     },
+     {
+      "name": "Parent issue",
+      "dataType": "PARENT_ISSUE"
+     },
+     {
+      "name": "Sub-issues progress",
+      "dataType": "SUB_ISSUES_PROGRESS"
+     },
+     {
+      "name": "Focus area",
+      "dataType": "SINGLE_SELECT",
+      "options": [
+       {
+        "name": "1: Timezones in events"
+       },
+       {
+        "name": "2: Use zoneinfo"
+       },
+       {
+        "name": "3: Widget improvements"
+       },
+       {
+        "name": "4: Miscellaneous bug fixes"
+       }
+      ]
+     },
+     {
+      "name": "Created",
+      "dataType": "CREATED"
+     },
+     {
+      "name": "Updated",
+      "dataType": "UPDATED"
+     },
+     {
+      "name": "Closed",
+      "dataType": "CLOSED"
+     }
+    ]
+   },
+   "views": {
+    "nodes": [
+     {
+      "name": "Focus areas, prioritized",
+      "layout": "TABLE_LAYOUT",
+      "filter": "",
+      "groupByFields": {
+       "nodes": [
+        {
+         "name": "Focus area"
+        }
+       ]
+      },
+      "verticalGroupByFields": {
+       "nodes": []
+      }
+     },
+     {
+      "name": "Status board",
+      "layout": "BOARD_LAYOUT",
+      "filter": "",
+      "groupByFields": {
+       "nodes": []
+      },
+      "verticalGroupByFields": {
+       "nodes": [
+        {
+         "name": "Status"
+        }
+       ]
+      }
+     },
+     {
+      "name": "Roadmap",
+      "layout": "ROADMAP_LAYOUT",
+      "filter": null,
+      "groupByFields": {
+       "nodes": []
+      },
+      "verticalGroupByFields": {
+       "nodes": []
+      }
+     },
+     {
+      "name": "Bugs \ud83d\udc1b ",
+      "layout": "TABLE_LAYOUT",
+      "filter": null,
+      "groupByFields": {
+       "nodes": []
+      },
+      "verticalGroupByFields": {
+       "nodes": []
+      }
+     },
+     {
+      "name": "In review",
+      "layout": "TABLE_LAYOUT",
+      "filter": "status:\"In review\"",
+      "groupByFields": {
+       "nodes": []
+      },
+      "verticalGroupByFields": {
+       "nodes": []
+      }
+     },
+     {
+      "name": "My items",
+      "layout": "TABLE_LAYOUT",
+      "filter": "assignee:@me",
+      "groupByFields": {
+       "nodes": []
+      },
+      "verticalGroupByFields": {
+       "nodes": []
+      }
+     }
+    ]
+   }
+  },
+  {
+   "number": 57,
+   "title": "kitconcept Priorities",
+   "url": "https://github.com/orgs/plone/projects/57",
+   "closed": false,
+   "public": true,
+   "updatedAt": "2026-10-27T23:58:13Z",
+   "createdAt": "2024-08-26T21:01:23Z",
+   "items": {
+    "totalCount": 9
+   },
+   "fields": {
+    "nodes": [
+     {
+      "name": "Title",
+      "dataType": "TITLE"
+     },
+     {
+      "name": "Assignees",
+      "dataType": "ASSIGNEES"
+     },
+     {
+      "name": "Status",
+      "dataType": "SINGLE_SELECT",
+      "options": [
+       {
+        "name": "To do"
+       },
+       {
+        "name": "In progress"
+       },
+       {
+        "name": "Review in progress"
+       },
+       {
+        "name": "Reviewer approved"
+       },
+       {
+        "name": "Done"
+       }
+      ]
+     },
+     {
+      "name": "Labels",
+      "dataType": "LABELS"
+     },
+     {
+      "name": "Linked pull requests",
+      "dataType": "LINKED_PULL_REQUESTS"
+     },
+     {
+      "name": "Milestone",
+      "dataType": "MILESTONE"
+     },
+     {
+      "name": "Repository",
+      "dataType": "REPOSITORY"
+     },
+     {
+      "name": "Reviewers",
+      "dataType": "REVIEWERS"
+     },
+     {
+      "name": "Parent issue",
+      "dataType": "PARENT_ISSUE"
+     },
+     {
+      "name": "Sub-issues progress",
+      "dataType": "SUB_ISSUES_PROGRESS"
+     },
+     {
+      "name": "Created",
+      "dataType": "CREATED"
+     },
+     {
+      "name": "Updated",
+      "dataType": "UPDATED"
+     },
+     {
+      "name": "Closed",
+      "dataType": "CLOSED"
+     }
+    ]
+   },
+   "views": {
+    "nodes": [
+     {
+      "name": "View 1",
+      "layout": "BOARD_LAYOUT",
+      "filter": null,
+      "groupByFields": {
+       "nodes": []
+      },
+      "verticalGroupByFields": {
+       "nodes": [
+        {
+         "name": "Status"
+        }
+       ]
+      }
+     }
+    ]
+   }
+  },
+  {
+   "number": 16,
+   "title": "Install Docs",
+   "url": "https://github.com/orgs/plone/projects/16",
+   "closed": false,
+   "public": true,
+   "updatedAt": "2026-10-27T22:22:08Z",
+   "createdAt": "2022-12-30T08:33:06Z",
+   "items": {
+    "totalCount": 152
+   },
+   "fields": {
+    "nodes": [
+     {
+      "name": "Title",
+      "dataType": "TITLE"
+     },
+     {
+      "name": "Assignees",
+      "dataType": "ASSIGNEES"
+     },
+     {
+      "name": "Status",
+      "dataType": "SINGLE_SELECT",
+      "options": [
+       {
+        "name": "Todo"
+       },
+       {
+        "name": "In Progress"
+       },
+       {
+        "name": "Done"
+       }
+      ]
+     },
+     {
+      "name": "Labels",
+      "dataType": "LABELS"
+     },
+     {
+      "name": "Linked pull requests",
+      "dataType": "LINKED_PULL_REQUESTS"
+     },
+     {
+      "name": "Reviewers",
+      "dataType": "REVIEWERS"
+     },
+     {
+      "name": "Repository",
+      "dataType": "REPOSITORY"
+     },
+     {
+      "name": "Milestone",
+      "dataType": "MILESTONE"
+     },
+     {
+      "name": "Parent issue",
+      "dataType": "PARENT_ISSUE"
+     },
+     {
+      "name": "Sub-issues progress",
+      "dataType": "SUB_ISSUES_PROGRESS"
+     },
+     {
+      "name": "Created",
+      "dataType": "CREATED"
+     },
+     {
+      "name": "Updated",
+      "dataType": "UPDATED"
+     },
+     {
+      "name": "Closed",
+      "dataType": "CLOSED"
+     }
+    ]
+   },
+   "views": {
+    "nodes": [
+     {
+      "name": "Board",
+      "layout": "BOARD_LAYOUT",
+      "filter": "",
+      "groupByFields": {
+       "nodes": []
+      },
+      "verticalGroupByFields": {
+       "nodes": [
+        {
+         "name": "Status"
+        }
+       ]
+      }
+     }
+    ]
+   }
+  },
+  {
+   "number": 68,
+   "title": "Beethoven Sprint 2025",
+   "url": "https://github.com/orgs/plone/projects/68",
+   "closed": false,
+   "public": true,
+   "updatedAt": "2026-10-27T22:20:00Z",
+   "createdAt": "2025-05-21T08:39:39Z",
+   "items": {
+    "totalCount": 49
+   },
+   "fields": {
+    "nodes": [
+     {
+      "name": "Title",
+      "dataType": "TITLE"
+     },
+     {
+      "name": "Assignees",
+      "dataType": "ASSIGNEES"
+     },
+     {
+      "name": "Status",
+      "dataType": "SINGLE_SELECT",
+      "options": [
+       {
+        "name": "Todo"
+       },
+       {
+        "name": "In Progress"
+       },
+       {
+        "name": "Done"
+       }
+      ]
+     },
+     {
+      "name": "Labels",
+      "dataType": "LABELS"
+     },
+     {
+      "name": "Linked pull requests",
+      "dataType": "LINKED_PULL_REQUESTS"
+     },
+     {
+      "name": "Milestone",
+      "dataType": "MILESTONE"
+     },
+     {
+      "name": "Repository",
+      "dataType": "REPOSITORY"
+     },
+     {
+      "name": "Reviewers",
+      "dataType": "REVIEWERS"
+     },
+     {
+      "name": "Parent issue",
+      "dataType": "PARENT_ISSUE"
+     },
+     {
+      "name": "Sub-issues progress",
+      "dataType": "SUB_ISSUES_PROGRESS"
+     },
+     {
+      "name": "Priority",
+      "dataType": "SINGLE_SELECT",
+      "options": [
+       {
+        "name": "P0"
+       },
+       {
+        "name": "P1"
+       },
+       {
+        "name": "P2"
+       }
+      ]
+     },
+     {
+      "name": "Size",
+      "dataType": "SINGLE_SELECT",
+      "options": [
+       {
+        "name": "XS"
+       },
+       {
+        "name": "S"
+       },
+       {
+        "name": "M"
+       },
+       {
+        "name": "L"
+       },
+       {
+        "name": "XL"
+       }
+      ]
+     },
+     {
+      "name": "Estimate",
+      "dataType": "NUMBER"
+     },
+     {
+      "name": "Iteration",
+      "dataType": "ITERATION"
+     },
+     {
+      "name": "Start date",
+      "dataType": "DATE"
+     },
+     {
+      "name": "End date",
+      "dataType": "DATE"
+     },
+     {
+      "name": "Team",
+      "dataType": "SINGLE_SELECT",
+      "options": [
+       {
+        "name": "Contents"
+       },
+       {
+        "name": "Public UI / Slots"
+       },
+       {
+        "name": "Header / dropdown menu"
+       },
+       {
+        "name": "Blocks rendering"
+       },
+       {
+        "name": "Storybook & Testing"
+       },
+       {
+        "name": "Widgets and components"
+       },
+       {
+        "name": "CMSUI"
+       },
+       {
+        "name": "Nick / BFF"
+       },
+       {
+        "name": "Cookieplone"
+       },
+       {
+        "name": "Documentation"
+       },
+       {
+        "name": "Plone 6.2"
+       }
+      ]
+     },
+     {
+      "name": "Created",
+      "dataType": "CREATED"
+     },
+     {
+      "name": "Updated",
+      "dataType": "UPDATED"
+     },
+     {
+      "name": "Closed",
+      "dataType": "CLOSED"
+     }
+    ]
+   },
+   "views": {
+    "nodes": [
+     {
+      "name": "Backlog",
+      "layout": "TABLE_LAYOUT",
+      "filter": "",
+      "groupByFields": {
+       "nodes": [
+        {
+         "name": "Team"
+        }
+       ]
+      },
+      "verticalGroupByFields": {
+       "nodes": []
+      }
+     },
+     {
+      "name": "My items",
+      "layout": "TABLE_LAYOUT",
+      "filter": "assignee:@me",
+      "groupByFields": {
+       "nodes": []
+      },
+      "verticalGroupByFields": {
+       "nodes": []
+      }
+     }
+    ]
+   }
+  },
+  {
+   "number": 47,
+   "title": "PLIPs (core)",
+   "url": "https://github.com/orgs/plone/projects/47",
+   "closed": false,
+   "public": true,
+   "updatedAt": "2026-10-23T07:54:22Z",
+   "createdAt": "2024-06-27T13:12:06Z",
+   "items": {
+    "totalCount": 81
+   },
+   "fields": {
+    "nodes": [
+     {
+      "name": "Title",
+      "dataType": "TITLE"
+     },
+     {
+      "name": "Assignees",
+      "dataType": "ASSIGNEES"
+     },
+     {
+      "name": "Status",
+      "dataType": "SINGLE_SELECT",
+      "options": [
+       {
+        "name": "New (drafts)"
+       },
+       {
+        "name": "Submitted (info complete)"
+       },
+       {
+        "name": "In Process (approved)"
+       },
+       {
+        "name": "Stalled (approved but inactive)"
+       },
+       {
+        "name": "Under Review (implemented)"
+       },
+       {
+        "name": "Merged"
+       },
+       {
+        "name": "Revoked"
+       },
+       {
+        "name": "Closed"
+       }
+      ]
+     },
+     {
+      "name": "Labels",
+      "dataType": "LABELS"
+     },
+     {
+      "name": "Linked pull requests",
+      "dataType": "LINKED_PULL_REQUESTS"
+     },
+     {
+      "name": "Milestone",
+      "dataType": "MILESTONE"
+     },
+     {
+      "name": "Repository",
+      "dataType": "REPOSITORY"
+     },
+     {
+      "name": "Reviewers",
+      "dataType": "REVIEWERS"
+     },
+     {
+      "name": "Parent issue",
+      "dataType": "PARENT_ISSUE"
+     },
+     {
+      "name": "Sub-issues progress",
+      "dataType": "SUB_ISSUES_PROGRESS"
+     },
+     {
+      "name": "Date",
+      "dataType": "DATE"
+     },
+     {
+      "name": "Created",
+      "dataType": "CREATED"
+     },
+     {
+      "name": "Updated",
+      "dataType": "UPDATED"
+     },
+     {
+      "name": "Closed",
+      "dataType": "CLOSED"
+     }
+    ]
+   },
+   "views": {
+    "nodes": [
+     {
+      "name": "Status Board",
+      "layout": "BOARD_LAYOUT",
+      "filter": "",
+      "groupByFields": {
+       "nodes": []
+      },
+      "verticalGroupByFields": {
+       "nodes": [
+        {
+         "name": "Status"
+        }
+       ]
+      }
+     },
+     {
+      "name": "Roadmap",
+      "layout": "ROADMAP_LAYOUT",
+      "filter": "-status:Closed",
+      "groupByFields": {
+       "nodes": [
+        {
+         "name": "Milestone"
+        }
+       ]
+      },
+      "verticalGroupByFields": {
+       "nodes": []
+      }
+     }
+    ]
+   }
+  },
+  {
+   "number": 28,
+   "title": "Blicca Team",
+   "url": "https://github.com/orgs/plone/projects/28",
+   "closed": false,
+   "public": true,
+   "updatedAt": "2026-10-23T07:54:22Z",
+   "createdAt": "2023-06-27T12:39:51Z",
+   "items": {
+    "totalCount": 91
+   },
+   "fields": {
+    "nodes": [
+     {
+      "name": "Title",
+      "dataType": "TITLE"
+     },
+     {
+      "name": "Assignees",
+      "dataType": "ASSIGNEES"
+     },
+     {
+      "name": "Status",
+      "dataType": "SINGLE_SELECT",
+      "options": [
+       {
+        "name": "Todo"
+       },
+       {
+        "name": "In Progress"
+       },
+       {
+        "name": "Done"
+       }
+      ]
+     },
+     {
+      "name": "Labels",
+      "dataType": "LABELS"
+     },
+     {
+      "name": "Linked pull requests",
+      "dataType": "LINKED_PULL_REQUESTS"
+     },
+     {
+      "name": "Reviewers",
+      "dataType": "REVIEWERS"
+     },
+     {
+      "name": "Repository",
+      "dataType": "REPOSITORY"
+     },
+     {
+      "name": "Milestone",
+      "dataType": "MILESTONE"
+     },
+     {
+      "name": "Parent issue",
+      "dataType": "PARENT_ISSUE"
+     },
+     {
+      "name": "Sub-issues progress",
+      "dataType": "SUB_ISSUES_PROGRESS"
+     },
+     {
+      "name": "Created",
+      "dataType": "CREATED"
+     },
+     {
+      "name": "Updated",
+      "dataType": "UPDATED"
+     },
+     {
+      "name": "Closed",
+      "dataType": "CLOSED"
+     }
+    ]
+   },
+   "views": {
+    "nodes": [
+     {
+      "name": "Board",
+      "layout": "BOARD_LAYOUT",
+      "filter": "",
+      "groupByFields": {
+       "nodes": []
+      },
+      "verticalGroupByFields": {
+       "nodes": [
+        {
+         "name": "Status"
+        }
+       ]
+      }
+     },
+     {
+      "name": "PLIPs",
+      "layout": "BOARD_LAYOUT",
+      "filter": "label:\"03 type: feature (plip)\" ",
+      "groupByFields": {
+       "nodes": []
+      },
+      "verticalGroupByFields": {
+       "nodes": [
+        {
+         "name": "Status"
+        }
+       ]
+      }
+     }
+    ]
+   }
+  },
+  {
+   "number": 72,
+   "title": "Plone 6.3",
+   "url": "https://github.com/orgs/plone/projects/72",
+   "closed": false,
+   "public": true,
+   "updatedAt": "2026-10-20T14:55:06Z",
+   "createdAt": "2025-10-22T10:40:02Z",
+   "items": {
+    "totalCount": 17
+   },
+   "fields": {
+    "nodes": [
+     {
+      "name": "Title",
+      "dataType": "TITLE"
+     },
+     {
+      "name": "Assignees",
+      "dataType": "ASSIGNEES"
+     },
+     {
+      "name": "Status",
+      "dataType": "SINGLE_SELECT",
+      "options": [
+       {
+        "name": "Todo"
+       },
+       {
+        "name": "In Progress"
+       },
+       {
+        "name": "Done"
+       }
+      ]
+     },
+     {
+      "name": "Labels",
+      "dataType": "LABELS"
+     },
+     {
+      "name": "Linked pull requests",
+      "dataType": "LINKED_PULL_REQUESTS"
+     },
+     {
+      "name": "Milestone",
+      "dataType": "MILESTONE"
+     },
+     {
+      "name": "Repository",
+      "dataType": "REPOSITORY"
+     },
+     {
+      "name": "Reviewers",
+      "dataType": "REVIEWERS"
+     },
+     {
+      "name": "Parent issue",
+      "dataType": "PARENT_ISSUE"
+     },
+     {
+      "name": "Sub-issues progress",
+      "dataType": "SUB_ISSUES_PROGRESS"
+     },
+     {
+      "name": "Priority",
+      "dataType": "SINGLE_SELECT",
+      "options": [
+       {
+        "name": "P0"
+       },
+       {
+        "name": "P1"
+       },
+       {
+        "name": "P2"
+       }
+      ]
+     },
+     {
+      "name": "Size",
+      "dataType": "SINGLE_SELECT",
+      "options": [
+       {
+        "name": "XS"
+       },
+       {
+        "name": "S"
+       },
+       {
+        "name": "M"
+       },
+       {
+        "name": "L"
+       },
+       {
+        "name": "XL"
+       }
+      ]
+     },
+     {
+      "name": "Estimate",
+      "dataType": "NUMBER"
+     },
+     {
+      "name": "Iteration",
+      "dataType": "ITERATION"
+     },
+     {
+      "name": "Start date",
+      "dataType": "DATE"
+     },
+     {
+      "name": "End date",
+      "dataType": "DATE"
+     },
+     {
+      "name": "Created",
+      "dataType": "CREATED"
+     },
+     {
+      "name": "Updated",
+      "dataType": "UPDATED"
+     },
+     {
+      "name": "Closed",
+      "dataType": "CLOSED"
+     }
+    ]
+   },
+   "views": {
+    "nodes": [
+     {
+      "name": "Backlog",
+      "layout": "BOARD_LAYOUT",
+      "filter": "type:PLIP",
+      "groupByFields": {
+       "nodes": []
+      },
+      "verticalGroupByFields": {
+       "nodes": [
+        {
+         "name": "Status"
+        }
+       ]
+      }
+     },
+     {
+      "name": "Roadmap",
+      "layout": "ROADMAP_LAYOUT",
+      "filter": null,
+      "groupByFields": {
+       "nodes": []
+      },
+      "verticalGroupByFields": {
+       "nodes": []
+      }
+     }
+    ]
+   }
+  },
+  {
+   "number": 70,
+   "title": "Salamina Sprint 2025",
+   "url": "https://github.com/orgs/plone/projects/70",
+   "closed": false,
+   "public": true,
+   "updatedAt": "2026-10-11T01:00:48Z",
+   "createdAt": "2025-09-08T07:39:59Z",
+   "items": {
+    "totalCount": 21
+   },
+   "fields": {
+    "nodes": [
+     {
+      "name": "Title",
+      "dataType": "TITLE"
+     },
+     {
+      "name": "Assignees",
+      "dataType": "ASSIGNEES"
+     },
+     {
+      "name": "Status",
+      "dataType": "SINGLE_SELECT",
+      "options": [
+       {
+        "name": "Todo"
+       },
+       {
+        "name": "In Progress"
+       },
+       {
+        "name": "Done"
+       }
+      ]
+     },
+     {
+      "name": "Labels",
+      "dataType": "LABELS"
+     },
+     {
+      "name": "Linked pull requests",
+      "dataType": "LINKED_PULL_REQUESTS"
+     },
+     {
+      "name": "Milestone",
+      "dataType": "MILESTONE"
+     },
+     {
+      "name": "Repository",
+      "dataType": "REPOSITORY"
+     },
+     {
+      "name": "Reviewers",
+      "dataType": "REVIEWERS"
+     },
+     {
+      "name": "Parent issue",
+      "dataType": "PARENT_ISSUE"
+     },
+     {
+      "name": "Sub-issues progress",
+      "dataType": "SUB_ISSUES_PROGRESS"
+     },
+     {
+      "name": "Priority",
+      "dataType": "SINGLE_SELECT",
+      "options": [
+       {
+        "name": "P0"
+       },
+       {
+        "name": "P1"
+       },
+       {
+        "name": "P2"
+       }
+      ]
+     },
+     {
+      "name": "Size",
+      "dataType": "SINGLE_SELECT",
+      "options": [
+       {
+        "name": "XS"
+       },
+       {
+        "name": "S"
+       },
+       {
+        "name": "M"
+       },
+       {
+        "name": "L"
+       },
+       {
+        "name": "XL"
+       }
+      ]
+     },
+     {
+      "name": "Estimate",
+      "dataType": "NUMBER"
+     },
+     {
+      "name": "Iteration",
+      "dataType": "ITERATION"
+     },
+     {
+      "name": "Start date",
+      "dataType": "DATE"
+     },
+     {
+      "name": "End date",
+      "dataType": "DATE"
+     },
+     {
+      "name": "Created",
+      "dataType": "CREATED"
+     },
+     {
+      "name": "Updated",
+      "dataType": "UPDATED"
+     },
+     {
+      "name": "Closed",
+      "dataType": "CLOSED"
+     }
+    ]
+   },
+   "views": {
+    "nodes": [
+     {
+      "name": "Backlog",
+      "layout": "BOARD_LAYOUT",
+      "filter": null,
+      "groupByFields": {
+       "nodes": []
+      },
+      "verticalGroupByFields": {
+       "nodes": [
+        {
+         "name": "Status"
+        }
+       ]
+      }
+     },
+     {
+      "name": "Team capacity",
+      "layout": "TABLE_LAYOUT",
+      "filter": null,
+      "groupByFields": {
+       "nodes": [
+        {
+         "name": "Priority"
+        }
+       ]
+      },
+      "verticalGroupByFields": {
+       "nodes": []
+      }
+     },
+     {
+      "name": "Current iteration",
+      "layout": "BOARD_LAYOUT",
+      "filter": "iteration:@current",
+      "groupByFields": {
+       "nodes": [
+        {
+         "name": "Priority"
+        }
+       ]
+      },
+      "verticalGroupByFields": {
+       "nodes": [
+        {
+         "name": "Status"
+        }
+       ]
+      }
+     },
+     {
+      "name": "Roadmap",
+      "layout": "ROADMAP_LAYOUT",
+      "filter": null,
+      "groupByFields": {
+       "nodes": []
+      },
+      "verticalGroupByFields": {
+       "nodes": []
+      }
+     },
+     {
+      "name": "My items",
+      "layout": "TABLE_LAYOUT",
+      "filter": "assignee:@me",
+      "groupByFields": {
+       "nodes": []
+      },
+      "verticalGroupByFields": {
+       "nodes": []
+      }
+     }
+    ]
+   }
+  },
+  {
+   "number": 34,
+   "title": "Plone 6.2",
+   "url": "https://github.com/orgs/plone/projects/34",
+   "closed": false,
+   "public": true,
+   "updatedAt": "2026-09-29T13:05:49Z",
+   "createdAt": "2024-02-12T18:40:06Z",
+   "items": {
+    "totalCount": 44
+   },
+   "fields": {
+    "nodes": [
+     {
+      "name": "Title",
+      "dataType": "TITLE"
+     },
+     {
+      "name": "Assignees",
+      "dataType": "ASSIGNEES"
+     },
+     {
+      "name": "Status",
+      "dataType": "SINGLE_SELECT",
+      "options": [
+       {
+        "name": "Todo"
+       },
+       {
+        "name": "In Progress"
+       },
+       {
+        "name": "Done"
+       }
+      ]
+     },
+     {
+      "name": "Labels",
+      "dataType": "LABELS"
+     },
+     {
+      "name": "Linked pull requests",
+      "dataType": "LINKED_PULL_REQUESTS"
+     },
+     {
+      "name": "Reviewers",
+      "dataType": "REVIEWERS"
+     },
+     {
+      "name": "Repository",
+      "dataType": "REPOSITORY"
+     },
+     {
+      "name": "Milestone",
+      "dataType": "MILESTONE"
+     },
+     {
+      "name": "Parent issue",
+      "dataType": "PARENT_ISSUE"
+     },
+     {
+      "name": "Sub-issues progress",
+      "dataType": "SUB_ISSUES_PROGRESS"
+     },
+     {
+      "name": "Date",
+      "dataType": "DATE"
+     },
+     {
+      "name": "Created",
+      "dataType": "CREATED"
+     },
+     {
+      "name": "Updated",
+      "dataType": "UPDATED"
+     },
+     {
+      "name": "Closed",
+      "dataType": "CLOSED"
+     }
+    ]
+   },
+   "views": {
+    "nodes": [
+     {
+      "name": "Roadmap",
+      "layout": "ROADMAP_LAYOUT",
+      "filter": "type:PLIP milestone:\"Plone 6.2\"",
+      "groupByFields": {
+       "nodes": []
+      },
+      "verticalGroupByFields": {
+       "nodes": []
+      }
+     },
+     {
+      "name": "Board",
+      "layout": "BOARD_LAYOUT",
+      "filter": "type:PLIP milestone:\"Plone 6.2\"",
+      "groupByFields": {
+       "nodes": []
+      },
+      "verticalGroupByFields": {
+       "nodes": [
+        {
+         "name": "Status"
+        }
+       ]
+      }
+     }
+    ]
+   }
+  },
+  {
+   "number": 90,
+   "title": "AI Roadmap (work in progress, target is Plone 6.3)",
+   "url": "https://github.com/orgs/plone/projects/90",
+   "closed": false,
+   "public": true,
+   "updatedAt": "2026-08-07T18:29:09Z",
+   "createdAt": "2026-06-14T15:50:27Z",
+   "items": {
+    "totalCount": 5
+   },
+   "fields": {
+    "nodes": [
+     {
+      "name": "Title",
+      "dataType": "TITLE"
+     },
+     {
+      "name": "Assignees",
+      "dataType": "ASSIGNEES"
+     },
+     {
+      "name": "Status",
+      "dataType": "SINGLE_SELECT",
+      "options": [
+       {
+        "name": "Todo"
+       },
+       {
+        "name": "In progress"
+       },
+       {
+        "name": "Done"
+       }
+      ]
+     },
+     {
+      "name": "Labels",
+      "dataType": "LABELS"
+     },
+     {
+      "name": "Linked pull requests",
+      "dataType": "LINKED_PULL_REQUESTS"
+     },
+     {
+      "name": "Milestone",
+      "dataType": "MILESTONE"
+     },
+     {
+      "name": "Repository",
+      "dataType": "REPOSITORY"
+     },
+     {
+      "name": "Reviewers",
+      "dataType": "REVIEWERS"
+     },
+     {
+      "name": "Parent issue",
+      "dataType": "PARENT_ISSUE"
+     },
+     {
+      "name": "Sub-issues progress",
+      "dataType": "SUB_ISSUES_PROGRESS"
+     },
+     {
+      "name": "Created",
+      "dataType": "CREATED"
+     },
+     {
+      "name": "Updated",
+      "dataType": "UPDATED"
+     },
+     {
+      "name": "Closed",
+      "dataType": "CLOSED"
+     },
+     {
+      "name": "Team",
+      "dataType": "SINGLE_SELECT",
+      "options": [
+       {
+        "name": "Squad 1"
+       },
+       {
+        "name": "Squad 2"
+       },
+       {
+        "name": "Squad 3"
+       }
+      ]
+     },
+     {
+      "name": "Iteration",
+      "dataType": "ITERATION"
+     },
+     {
+      "name": "Quarter",
+      "dataType": "ITERATION"
+     }
+    ]
+   },
+   "views": {
+    "nodes": [
+     {
+      "name": "Roadmap",
+      "layout": "ROADMAP_LAYOUT",
+      "filter": "",
+      "groupByFields": {
+       "nodes": [
+        {
+         "name": "Team"
+        }
+       ]
+      },
+      "verticalGroupByFields": {
+       "nodes": []
+      }
+     },
+     {
+      "name": "Backlog",
+      "layout": "TABLE_LAYOUT",
+      "filter": null,
+      "groupByFields": {
+       "nodes": [
+        {
+         "name": "Team"
+        }
+       ]
+      },
+      "verticalGroupByFields": {
+       "nodes": []
+      }
+     },
+     {
+      "name": "Kanban",
+      "layout": "BOARD_LAYOUT",
+      "filter": "",
+      "groupByFields": {
+       "nodes": []
+      },
+      "verticalGroupByFields": {
+       "nodes": [
+        {
+         "name": "Status"
+        }
+       ]
+      }
+     }
+    ]
+   }
+  },
+  {
+   "number": 35,
+   "title": "plone.org Long-Term Backlog",
+   "url": "https://github.com/orgs/plone/projects/35",
+   "closed": false,
+   "public": true,
+   "updatedAt": "2026-05-18T15:02:31Z",
+   "createdAt": "2024-02-16T15:23:18Z",
+   "items": {
+    "totalCount": 22
+   },
+   "fields": {
+    "nodes": [
+     {
+      "name": "Title",
+      "dataType": "TITLE"
+     },
+     {
+      "name": "Assignees",
+      "dataType": "ASSIGNEES"
+     },
+     {
+      "name": "Status",
+      "dataType": "SINGLE_SELECT",
+      "options": [
+       {
+        "name": "Assess"
+       },
+       {
+        "name": "Investigate"
+       },
+       {
+        "name": "Refine"
+       },
+       {
+        "name": "Done - Ready for Sprint"
+       }
+      ]
+     },
+     {
+      "name": "Labels",
+      "dataType": "LABELS"
+     },
+     {
+      "name": "Linked pull requests",
+      "dataType": "LINKED_PULL_REQUESTS"
+     },
+     {
+      "name": "Milestone",
+      "dataType": "MILESTONE"
+     },
+     {
+      "name": "Repository",
+      "dataType": "REPOSITORY"
+     },
+     {
+      "name": "Reviewers",
+      "dataType": "REVIEWERS"
+     },
+     {
+      "name": "Priority",
+      "dataType": "SINGLE_SELECT",
+      "options": [
+       {
+        "name": "P0"
+       },
+       {
+        "name": "P1"
+       },
+       {
+        "name": "P2"
+       }
+      ]
+     },
+     {
+      "name": "Size",
+      "dataType": "SINGLE_SELECT",
+      "options": [
+       {
+        "name": "XS"
+       },
+       {
+        "name": "S"
+       },
+       {
+        "name": "M"
+       },
+       {
+        "name": "L"
+       },
+       {
+        "name": "XL"
+       }
+      ]
+     },
+     {
+      "name": "Estimate",
+      "dataType": "NUMBER"
+     },
+     {
+      "name": "Iteration",
+      "dataType": "ITERATION"
+     },
+     {
+      "name": "Start date",
+      "dataType": "DATE"
+     },
+     {
+      "name": "End date",
+      "dataType": "DATE"
+     },
+     {
+      "name": "Parent issue",
+      "dataType": "PARENT_ISSUE"
+     },
+     {
+      "name": "Sub-issues progress",
+      "dataType": "SUB_ISSUES_PROGRESS"
+     },
+     {
+      "name": "Created",
+      "dataType": "CREATED"
+     },
+     {
+      "name": "Updated",
+      "dataType": "UPDATED"
+     },
+     {
+      "name": "Closed",
+      "dataType": "CLOSED"
+     }
+    ]
+   },
+   "views": {
+    "nodes": [
+     {
+      "name": "Backlog",
+      "layout": "BOARD_LAYOUT",
+      "filter": "",
+      "groupByFields": {
+       "nodes": []
+      },
+      "verticalGroupByFields": {
+       "nodes": [
+        {
+         "name": "Status"
+        }
+       ]
+      }
+     },
+     {
+      "name": "Team capacity",
+      "layout": "TABLE_LAYOUT",
+      "filter": null,
+      "groupByFields": {
+       "nodes": [
+        {
+         "name": "Priority"
+        }
+       ]
+      },
+      "verticalGroupByFields": {
+       "nodes": []
+      }
+     },
+     {
+      "name": "Current iteration",
+      "layout": "BOARD_LAYOUT",
+      "filter": "iteration:@current",
+      "groupByFields": {
+       "nodes": [
+        {
+         "name": "Priority"
+        }
+       ]
+      },
+      "verticalGroupByFields": {
+       "nodes": [
+        {
+         "name": "Status"
+        }
+       ]
+      }
+     },
+     {
+      "name": "Roadmap",
+      "layout": "ROADMAP_LAYOUT",
+      "filter": null,
+      "groupByFields": {
+       "nodes": []
+      },
+      "verticalGroupByFields": {
+       "nodes": []
+      }
+     },
+     {
+      "name": "My items",
+      "layout": "TABLE_LAYOUT",
+      "filter": "assignee:@me",
+      "groupByFields": {
+       "nodes": []
+      },
+      "verticalGroupByFields": {
+       "nodes": []
+      }
+     }
+    ]
+   }
+  },
+  {
+   "number": 56,
+   "title": "Volto Team",
+   "url": "https://github.com/orgs/plone/projects/56",
+   "closed": true,
+   "public": true,
+   "updatedAt": "2026-05-18T11:16:59Z",
+   "createdAt": "2024-08-26T21:01:22Z",
+   "items": {
+    "totalCount": 7
+   },
+   "fields": {
+    "nodes": [
+     {
+      "name": "Title",
+      "dataType": "TITLE"
+     },
+     {
+      "name": "Assignees",
+      "dataType": "ASSIGNEES"
+     },
+     {
+      "name": "Status",
+      "dataType": "SINGLE_SELECT",
+      "options": [
+       {
+        "name": "Todo"
+       },
+       {
+        "name": "Ready for review"
+       },
+       {
+        "name": "Review in progress"
+       },
+       {
+        "name": "Reviewer approved"
+       },
+       {
+        "name": "Done"
+       }
+      ]
+     },
+     {
+      "name": "Labels",
+      "dataType": "LABELS"
+     },
+     {
+      "name": "Linked pull requests",
+      "dataType": "LINKED_PULL_REQUESTS"
+     },
+     {
+      "name": "Milestone",
+      "dataType": "MILESTONE"
+     },
+     {
+      "name": "Repository",
+      "dataType": "REPOSITORY"
+     },
+     {
+      "name": "Reviewers",
+      "dataType": "REVIEWERS"
+     },
+     {
+      "name": "Parent issue",
+      "dataType": "PARENT_ISSUE"
+     },
+     {
+      "name": "Sub-issues progress",
+      "dataType": "SUB_ISSUES_PROGRESS"
+     },
+     {
+      "name": "Created",
+      "dataType": "CREATED"
+     },
+     {
+      "name": "Updated",
+      "dataType": "UPDATED"
+     },
+     {
+      "name": "Closed",
+      "dataType": "CLOSED"
+     }
+    ]
+   },
+   "views": {
+    "nodes": [
+     {
+      "name": "View 1",
+      "layout": "BOARD_LAYOUT",
+      "filter": null,
+      "groupByFields": {
+       "nodes": []
+      },
+      "verticalGroupByFields": {
+       "nodes": [
+        {
+         "name": "Status"
+        }
+       ]
+      }
+     }
+    ]
+   }
+  },
+  {
+   "number": 52,
+   "title": "Performance optimization",
+   "url": "https://github.com/orgs/plone/projects/52",
+   "closed": false,
+   "public": true,
+   "updatedAt": "2026-05-18T11:16:59Z",
+   "createdAt": "2024-08-26T21:01:14Z",
+   "items": {
+    "totalCount": 7
+   },
+   "fields": {
+    "nodes": [
+     {
+      "name": "Title",
+      "dataType": "TITLE"
+     },
+     {
+      "name": "Assignees",
+      "dataType": "ASSIGNEES"
+     },
+     {
+      "name": "Status",
+      "dataType": "SINGLE_SELECT",
+      "options": [
+       {
+        "name": "To do"
+       },
+       {
+        "name": "In progress"
+       },
+       {
+        "name": "Done"
+       }
+      ]
+     },
+     {
+      "name": "Labels",
+      "dataType": "LABELS"
+     },
+     {
+      "name": "Linked pull requests",
+      "dataType": "LINKED_PULL_REQUESTS"
+     },
+     {
+      "name": "Milestone",
+      "dataType": "MILESTONE"
+     },
+     {
+      "name": "Repository",
+      "dataType": "REPOSITORY"
+     },
+     {
+      "name": "Reviewers",
+      "dataType": "REVIEWERS"
+     },
+     {
+      "name": "Parent issue",
+      "dataType": "PARENT_ISSUE"
+     },
+     {
+      "name": "Sub-issues progress",
+      "dataType": "SUB_ISSUES_PROGRESS"
+     },
+     {
+      "name": "Created",
+      "dataType": "CREATED"
+     },
+     {
+      "name": "Updated",
+      "dataType": "UPDATED"
+     },
+     {
+      "name": "Closed",
+      "dataType": "CLOSED"
+     }
+    ]
+   },
+   "views": {
+    "nodes": [
+     {
+      "name": "View 1",
+      "layout": "BOARD_LAYOUT",
+      "filter": null,
+      "groupByFields": {
+       "nodes": []
+      },
+      "verticalGroupByFields": {
+       "nodes": [
+        {
+         "name": "Status"
+        }
+       ]
+      }
+     }
+    ]
+   }
+  },
+  {
+   "number": 73,
+   "title": "Stellenbosch Sprint 2026",
+   "url": "https://github.com/orgs/plone/projects/73",
+   "closed": false,
+   "public": true,
+   "updatedAt": "2026-01-12T17:28:13Z",
+   "createdAt": "2025-12-08T11:30:20Z",
+   "items": {
+    "totalCount": 0
+   },
+   "fields": {
+    "nodes": [
+     {
+      "name": "Title",
+      "dataType": "TITLE"
+     },
+     {
+      "name": "Assignees",
+      "dataType": "ASSIGNEES"
+     },
+     {
+      "name": "Status",
+      "dataType": "SINGLE_SELECT",
+      "options": [
+       {
+        "name": "No status"
+       },
+       {
+        "name": "Backlog"
+       },
+       {
+        "name": "Planned"
+       },
+       {
+        "name": "In progress"
+       },
+       {
+        "name": "Done"
+       }
+      ]
+     },
+     {
+      "name": "Labels",
+      "dataType": "LABELS"
+     },
+     {
+      "name": "Linked pull requests",
+      "dataType": "LINKED_PULL_REQUESTS"
+     },
+     {
+      "name": "Milestone",
+      "dataType": "MILESTONE"
+     },
+     {
+      "name": "Repository",
+      "dataType": "REPOSITORY"
+     },
+     {
+      "name": "Reviewers",
+      "dataType": "REVIEWERS"
+     },
+     {
+      "name": "Parent issue",
+      "dataType": "PARENT_ISSUE"
+     },
+     {
+      "name": "Sub-issues progress",
+      "dataType": "SUB_ISSUES_PROGRESS"
+     },
+     {
+      "name": "Created",
+      "dataType": "CREATED"
+     },
+     {
+      "name": "Updated",
+      "dataType": "UPDATED"
+     },
+     {
+      "name": "Closed",
+      "dataType": "CLOSED"
+     }
+    ]
+   },
+   "views": {
+    "nodes": [
+     {
+      "name": "Cards",
+      "layout": "BOARD_LAYOUT",
+      "filter": "",
+      "groupByFields": {
+       "nodes": []
+      },
+      "verticalGroupByFields": {
+       "nodes": [
+        {
+         "name": "Status"
+        }
+       ]
+      }
+     },
+     {
+      "name": "Issues by Repos",
+      "layout": "TABLE_LAYOUT",
+      "filter": "",
+      "groupByFields": {
+       "nodes": []
+      },
+      "verticalGroupByFields": {
+       "nodes": []
+      }
+     }
+    ]
+   }
+  },
+  {
+   "number": 44,
+   "title": "Buschenschanksprint 2024",
+   "url": "https://github.com/orgs/plone/projects/44",
+   "closed": false,
+   "public": true,
+   "updatedAt": "2025-03-31T08:02:16Z",
+   "createdAt": "2024-04-24T09:43:25Z",
+   "items": {
+    "totalCount": 24
+   },
+   "fields": {
+    "nodes": [
+     {
+      "name": "Title",
+      "dataType": "TITLE"
+     },
+     {
+      "name": "Assignees",
+      "dataType": "ASSIGNEES"
+     },
+     {
+      "name": "Status",
+      "dataType": "SINGLE_SELECT",
+      "options": [
+       {
+        "name": "Todo"
+       },
+       {
+        "name": "In Progress"
+       },
+       {
+        "name": "Done"
+       }
+      ]
+     },
+     {
+      "name": "Labels",
+      "dataType": "LABELS"
+     },
+     {
+      "name": "Linked pull requests",
+      "dataType": "LINKED_PULL_REQUESTS"
+     },
+     {
+      "name": "Milestone",
+      "dataType": "MILESTONE"
+     },
+     {
+      "name": "Repository",
+      "dataType": "REPOSITORY"
+     },
+     {
+      "name": "Reviewers",
+      "dataType": "REVIEWERS"
+     },
+     {
+      "name": "Parent issue",
+      "dataType": "PARENT_ISSUE"
+     },
+     {
+      "name": "Sub-issues progress",
+      "dataType": "SUB_ISSUES_PROGRESS"
+     },
+     {
+      "name": "Priority",
+      "dataType": "SINGLE_SELECT",
+      "options": [
+       {
+        "name": "P0"
+       },
+       {
+        "name": "P1"
+       },
+       {
+        "name": "P2"
+       }
+      ]
+     },
+     {
+      "name": "Size",
+      "dataType": "SINGLE_SELECT",
+      "options": [
+       {
+        "name": "XS"
+       },
+       {
+        "name": "S"
+       },
+       {
+        "name": "M"
+       },
+       {
+        "name": "L"
+       },
+       {
+        "name": "XL"
+       }
+      ]
+     },
+     {
+      "name": "Estimate",
+      "dataType": "NUMBER"
+     },
+     {
+      "name": "Iteration",
+      "dataType": "ITERATION"
+     },
+     {
+      "name": "Start date",
+      "dataType": "DATE"
+     },
+     {
+      "name": "End date",
+      "dataType": "DATE"
+     },
+     {
+      "name": "Created",
+      "dataType": "CREATED"
+     },
+     {
+      "name": "Updated",
+      "dataType": "UPDATED"
+     },
+     {
+      "name": "Closed",
+      "dataType": "CLOSED"
+     }
+    ]
+   },
+   "views": {
+    "nodes": [
+     {
+      "name": "Backlog",
+      "layout": "BOARD_LAYOUT",
+      "filter": "",
+      "groupByFields": {
+       "nodes": []
+      },
+      "verticalGroupByFields": {
+       "nodes": [
+        {
+         "name": "Status"
+        }
+       ]
+      }
+     }
+    ]
+   }
+  },
+  {
+   "number": 25,
+   "title": "Plone 6.1",
+   "url": "https://github.com/orgs/plone/projects/25",
+   "closed": true,
+   "public": true,
+   "updatedAt": "2025-03-08T17:53:19Z",
+   "createdAt": "2023-04-13T22:28:52Z",
+   "items": {
+    "totalCount": 24
+   },
+   "fields": {
+    "nodes": [
+     {
+      "name": "Title",
+      "dataType": "TITLE"
+     },
+     {
+      "name": "Assignees",
+      "dataType": "ASSIGNEES"
+     },
+     {
+      "name": "Status",
+      "dataType": "SINGLE_SELECT",
+      "options": [
+       {
+        "name": "Todo"
+       },
+       {
+        "name": "In Progress"
+       },
+       {
+        "name": "Done"
+       }
+      ]
+     },
+     {
+      "name": "Labels",
+      "dataType": "LABELS"
+     },
+     {
+      "name": "Linked pull requests",
+      "dataType": "LINKED_PULL_REQUESTS"
+     },
+     {
+      "name": "Reviewers",
+      "dataType": "REVIEWERS"
+     },
+     {
+      "name": "Repository",
+      "dataType": "REPOSITORY"
+     },
+     {
+      "name": "Milestone",
+      "dataType": "MILESTONE"
+     },
+     {
+      "name": "Parent issue",
+      "dataType": "PARENT_ISSUE"
+     },
+     {
+      "name": "Sub-issues progress",
+      "dataType": "SUB_ISSUES_PROGRESS"
+     },
+     {
+      "name": "Created",
+      "dataType": "CREATED"
+     },
+     {
+      "name": "Updated",
+      "dataType": "UPDATED"
+     },
+     {
+      "name": "Closed",
+      "dataType": "CLOSED"
+     }
+    ]
+   },
+   "views": {
+    "nodes": [
+     {
+      "name": "Board",
+      "layout": "BOARD_LAYOUT",
+      "filter": "",
+      "groupByFields": {
+       "nodes": []
+      },
+      "verticalGroupByFields": {
+       "nodes": [
+        {
+         "name": "Status"
+        }
+       ]
+      }
+     },
+     {
+      "name": "Roadmap",
+      "layout": "ROADMAP_LAYOUT",
+      "filter": "",
+      "groupByFields": {
+       "nodes": []
+      },
+      "verticalGroupByFields": {
+       "nodes": []
+      }
+     }
+    ]
+   }
+  },
+  {
+   "number": 24,
+   "title": "Beethoven Sprint 2023",
+   "url": "https://github.com/orgs/plone/projects/24",
+   "closed": true,
+   "public": true,
+   "updatedAt": "2025-03-08T17:53:16Z",
+   "createdAt": "2023-04-11T07:22:20Z",
+   "items": {
+    "totalCount": 10
+   },
+   "fields": {
+    "nodes": [
+     {
+      "name": "Title",
+      "dataType": "TITLE"
+     },
+     {
+      "name": "Assignees",
+      "dataType": "ASSIGNEES"
+     },
+     {
+      "name": "Status",
+      "dataType": "SINGLE_SELECT",
+      "options": [
+       {
+        "name": "Todo"
+       },
+       {
+        "name": "In Progress"
+       },
+       {
+        "name": "Done"
+       }
+      ]
+     },
+     {
+      "name": "Labels",
+      "dataType": "LABELS"
+     },
+     {
+      "name": "Linked pull requests",
+      "dataType": "LINKED_PULL_REQUESTS"
+     },
+     {
+      "name": "Reviewers",
+      "dataType": "REVIEWERS"
+     },
+     {
+      "name": "Repository",
+      "dataType": "REPOSITORY"
+     },
+     {
+      "name": "Milestone",
+      "dataType": "MILESTONE"
+     },
+     {
+      "name": "Parent issue",
+      "dataType": "PARENT_ISSUE"
+     },
+     {
+      "name": "Sub-issues progress",
+      "dataType": "SUB_ISSUES_PROGRESS"
+     },
+     {
+      "name": "Created",
+      "dataType": "CREATED"
+     },
+     {
+      "name": "Updated",
+      "dataType": "UPDATED"
+     },
+     {
+      "name": "Closed",
+      "dataType": "CLOSED"
+     }
+    ]
+   },
+   "views": {
+    "nodes": [
+     {
+      "name": "View 1",
+      "layout": "TABLE_LAYOUT",
+      "filter": null,
+      "groupByFields": {
+       "nodes": []
+      },
+      "verticalGroupByFields": {
+       "nodes": []
+      }
+     }
+    ]
+   }
+  },
+  {
+   "number": 32,
+   "title": "Plone 7",
+   "url": "https://github.com/orgs/plone/projects/32",
+   "closed": true,
+   "public": true,
+   "updatedAt": "2025-02-04T19:14:12Z",
+   "createdAt": "2023-12-16T15:24:05Z",
+   "items": {
+    "totalCount": 0
+   },
+   "fields": {
+    "nodes": [
+     {
+      "name": "Title",
+      "dataType": "TITLE"
+     },
+     {
+      "name": "Assignees",
+      "dataType": "ASSIGNEES"
+     },
+     {
+      "name": "Status",
+      "dataType": "SINGLE_SELECT",
+      "options": [
+       {
+        "name": "Todo"
+       },
+       {
+        "name": "In progress"
+       },
+       {
+        "name": "Done"
+       }
+      ]
+     },
+     {
+      "name": "Labels",
+      "dataType": "LABELS"
+     },
+     {
+      "name": "Linked pull requests",
+      "dataType": "LINKED_PULL_REQUESTS"
+     },
+     {
+      "name": "Reviewers",
+      "dataType": "REVIEWERS"
+     },
+     {
+      "name": "Repository",
+      "dataType": "REPOSITORY"
+     },
+     {
+      "name": "Milestone",
+      "dataType": "MILESTONE"
+     },
+     {
+      "name": "Team",
+      "dataType": "SINGLE_SELECT",
+      "options": [
+       {
+        "name": "Squad 1"
+       },
+       {
+        "name": "Squad 2"
+       },
+       {
+        "name": "Squad 3"
+       }
+      ]
+     },
+     {
+      "name": "Iteration",
+      "dataType": "ITERATION"
+     },
+     {
+      "name": "Quarter",
+      "dataType": "ITERATION"
+     },
+     {
+      "name": "Start date",
+      "dataType": "DATE"
+     },
+     {
+      "name": "End date",
+      "dataType": "DATE"
+     },
+     {
+      "name": "Parent issue",
+      "dataType": "PARENT_ISSUE"
+     },
+     {
+      "name": "Sub-issues progress",
+      "dataType": "SUB_ISSUES_PROGRESS"
+     },
+     {
+      "name": "Created",
+      "dataType": "CREATED"
+     },
+     {
+      "name": "Updated",
+      "dataType": "UPDATED"
+     },
+     {
+      "name": "Closed",
+      "dataType": "CLOSED"
+     }
+    ]
+   },
+   "views": {
+    "nodes": [
+     {
+      "name": "Monthly roadmap",
+      "layout": "ROADMAP_LAYOUT",
+      "filter": "",
+      "groupByFields": {
+       "nodes": [
+        {
+         "name": "Team"
+        }
+       ]
+      },
+      "verticalGroupByFields": {
+       "nodes": [
+        {
+         "name": "Quarter"
+        }
+       ]
+      }
+     },
+     {
+      "name": "Quarterly roadmap",
+      "layout": "ROADMAP_LAYOUT",
+      "filter": "",
+      "groupByFields": {
+       "nodes": [
+        {
+         "name": "Team"
+        }
+       ]
+      },
+      "verticalGroupByFields": {
+       "nodes": []
+      }
+     },
+     {
+      "name": "Backlog",
+      "layout": "TABLE_LAYOUT",
+      "filter": null,
+      "groupByFields": {
+       "nodes": [
+        {
+         "name": "Team"
+        }
+       ]
+      },
+      "verticalGroupByFields": {
+       "nodes": []
+      }
+     },
+     {
+      "name": "View 4",
+      "layout": "TABLE_LAYOUT",
+      "filter": null,
+      "groupByFields": {
+       "nodes": []
+      },
+      "verticalGroupByFields": {
+       "nodes": []
+      }
+     }
+    ]
+   }
+  },
+  {
+   "number": 54,
+   "title": "Polished Volto",
+   "url": "https://github.com/orgs/plone/projects/54",
+   "closed": false,
+   "public": true,
+   "updatedAt": "2024-09-25T12:58:54Z",
+   "createdAt": "2024-08-26T21:01:17Z",
+   "items": {
+    "totalCount": 8
+   },
+   "fields": {
+    "nodes": [
+     {
+      "name": "Title",
+      "dataType": "TITLE"
+     },
+     {
+      "name": "Assignees",
+      "dataType": "ASSIGNEES"
+     },
+     {
+      "name": "Status",
+      "dataType": "SINGLE_SELECT",
+      "options": [
+       {
+        "name": "To do"
+       },
+       {
+        "name": "In progress"
+       },
+       {
+        "name": "Done"
+       }
+      ]
+     },
+     {
+      "name": "Labels",
+      "dataType": "LABELS"
+     },
+     {
+      "name": "Linked pull requests",
+      "dataType": "LINKED_PULL_REQUESTS"
+     },
+     {
+      "name": "Milestone",
+      "dataType": "MILESTONE"
+     },
+     {
+      "name": "Repository",
+      "dataType": "REPOSITORY"
+     },
+     {
+      "name": "Reviewers",
+      "dataType": "REVIEWERS"
+     },
+     {
+      "name": "Parent issue",
+      "dataType": "PARENT_ISSUE"
+     },
+     {
+      "name": "Sub-issues progress",
+      "dataType": "SUB_ISSUES_PROGRESS"
+     },
+     {
+      "name": "Created",
+      "dataType": "CREATED"
+     },
+     {
+      "name": "Updated",
+      "dataType": "UPDATED"
+     },
+     {
+      "name": "Closed",
+      "dataType": "CLOSED"
+     }
+    ]
+   },
+   "views": {
+    "nodes": [
+     {
+      "name": "View 1",
+      "layout": "BOARD_LAYOUT",
+      "filter": null,
+      "groupByFields": {
+       "nodes": []
+      },
+      "verticalGroupByFields": {
+       "nodes": [
+        {
+         "name": "Status"
+        }
+       ]
+      }
+     }
+    ]
+   }
+  },
+  {
+   "number": 26,
+   "title": "GSoC Nuclia Search",
+   "url": "https://github.com/orgs/plone/projects/26",
+   "closed": false,
+   "public": true,
+   "updatedAt": "2023-07-15T08:12:15Z",
+   "createdAt": "2023-05-09T20:29:04Z",
+   "items": {
+    "totalCount": 2
+   },
+   "fields": {
+    "nodes": [
+     {
+      "name": "Title",
+      "dataType": "TITLE"
+     },
+     {
+      "name": "Assignees",
+      "dataType": "ASSIGNEES"
+     },
+     {
+      "name": "Status",
+      "dataType": "SINGLE_SELECT",
+      "options": [
+       {
+        "name": "Todo"
+       },
+       {
+        "name": "In Progress"
+       },
+       {
+        "name": "Done"
+       }
+      ]
+     },
+     {
+      "name": "Labels",
+      "dataType": "LABELS"
+     },
+     {
+      "name": "Linked pull requests",
+      "dataType": "LINKED_PULL_REQUESTS"
+     },
+     {
+      "name": "Reviewers",
+      "dataType": "REVIEWERS"
+     },
+     {
+      "name": "Repository",
+      "dataType": "REPOSITORY"
+     },
+     {
+      "name": "Milestone",
+      "dataType": "MILESTONE"
+     },
+     {
+      "name": "Parent issue",
+      "dataType": "PARENT_ISSUE"
+     },
+     {
+      "name": "Sub-issues progress",
+      "dataType": "SUB_ISSUES_PROGRESS"
+     },
+     {
+      "name": "Created",
+      "dataType": "CREATED"
+     },
+     {
+      "name": "Updated",
+      "dataType": "UPDATED"
+     },
+     {
+      "name": "Closed",
+      "dataType": "CLOSED"
+     }
+    ]
+   },
+   "views": {
+    "nodes": [
+     {
+      "name": "Roadmap",
+      "layout": "ROADMAP_LAYOUT",
+      "filter": "",
+      "groupByFields": {
+       "nodes": []
+      },
+      "verticalGroupByFields": {
+       "nodes": []
+      }
+     },
+     {
+      "name": "Table",
+      "layout": "TABLE_LAYOUT",
+      "filter": "",
+      "groupByFields": {
+       "nodes": []
+      },
+      "verticalGroupByFields": {
+       "nodes": []
+      }
+     },
+     {
+      "name": "Board",
+      "layout": "BOARD_LAYOUT",
+      "filter": "",
+      "groupByFields": {
+       "nodes": []
+      },
+      "verticalGroupByFields": {
+       "nodes": [
+        {
+         "name": "Status"
+        }
+       ]
+      }
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+label,open_issues,open_prs,created_since_2025_any_state
+01 type: bug,596,18,594
+02 type: regression,42,0,9
+03 type: feature (plip),125,2,71
+04 type: enhancement,688,34,441
+05 type: question,106,0,29
+11 prio: blocker,2,0,1
+12 prio: high,35,1,21
+13 prio: normal,78,9,26
+14 prio: low,98,3,18
+21 status: confirmed,309,1,75
+22 status: in-progress,11,24,17
+23 status: testing,4,15,6
+24 status: ready,0,9,45
+25 status: deferred,2,14,0
+31 needs: help,175,8,22
+32 needs: review,4,28,62
+33 needs: docs,113,1,48
+34 needs: tests,2,3,0
+35 needs: rebase,0,3,0
+36 needs: cla,0,2,1
+37 needs: release,1,0,1
+41 lvl: easy,122,4,52
+42 lvl: moderate,69,3,13
+43 lvl: complex,50,1,24
+51 target: patch,0,1,1
+52 target: minor,3,1,2
+53 target: major,3,1,1
