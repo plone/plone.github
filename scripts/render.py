@@ -97,7 +97,7 @@ def appendix_c(sheet_csv: Path, definitions_json: Path) -> str:
     canon = canon_from_sheet(sheet_csv)
     defs = json.load(definitions_json.open())
     colours = {k.lower(): v for k, v in defs["LABELS"].items()}
-    rows = [[f"`{label}`", f"`{colours.get(label, '')}`", desc] for label, desc in canon.items()]
+    rows = [[f"`{label}`", f"`{colours.get(label, '')}`", desc] for label, desc in sorted(canon.items())]
     return "\n".join([
         "# The 2015 scheme for reference", "",
         f"Twenty-seven labels, defined in the archived sheet and in `definitions.json` of the 2019 tool, "
