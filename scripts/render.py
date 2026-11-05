@@ -20,7 +20,10 @@ def render(text: str, values: dict) -> str:
             raise KeyError(key)
         v = values[key]
         return ", ".join(map(str, v)) if isinstance(v, list) else str(v)
-    return PLACEHOLDER.sub(sub, text)
+    out = PLACEHOLDER.sub(sub, text)
+    if "{{" in out:
+        raise ValueError("leftover placeholder: " + out[out.index("{{"):][:40])
+    return out
 
 
 def assemble(src_dir: Path) -> str:
@@ -51,7 +54,7 @@ def appendix_b(data_dir: Path) -> str:
 
     parts = ["# The audit in numbers", "",
              "All figures cover the public repositories of the organization and are produced by the "
-             "scripts in `data/scripts`. Dead: at most ten items created since 2025-01-01 and at most "
+             "scripts in `scripts/`. Dead: at most ten items created since 2025-01-01 and at most "
              "twenty open; `11 prio: blocker` is exempt as rare by nature. Redundant: in use, but a native "
              "feature covers it.", "",
              "## Usage of the 2015 labels", "",
@@ -66,15 +69,15 @@ def appendix_b(data_dir: Path) -> str:
               f"Repositories whose scheme says `24 status: deferred` instead of `25`: "
               f"{sum(1 for c in conf if '24 status: deferred' in c['drift'])}.", "",
               "## Project boards", "",
-              f"{boards['total_boards']} boards in the organization, {len(boards['boards'])} of them public; "
-              f"only public boards are listed. Views that filter on a 2015 label:", ""]
+              f"{len(boards['boards'])} public boards; private boards are not listed. "
+              f"Views that filter on a 2015 label:", ""]
     views = [[b["title"], v["name"], f"`{v['filter']}`"] for b in boards["boards"] if not b["closed"]
              for v in b["views"]["nodes"] if LABEL_FILTER_RE.search(v["filter"] or "")]
     parts += [_table(["Board", "View", "Filter"], views) if views else "None.", "",
               "Labels carried by the items of the key public boards (sample of the first hundred items "
               "from public repositories):", ""]
-    parts += [_table(["Board", "Items", "Open", "Most frequent labels"],
-                     [[s["title"], s["total"], s["open"],
+    parts += [_table(["Board", "Items", "Sampled", "Open (of sample)", "Most frequent labels (of sample)"],
+                     [[s["title"], s["total"], s["from_public_repos"], s["open"],
                        ", ".join(f"`{l}` ({n})" for l, n in s["labels"][:3])] for s in samples.values()]), "",
               "## Native features in use", "",
               _table(["Feature", "State"], [
@@ -107,8 +110,18 @@ def appendix_c(sheet_csv: Path, definitions_json: Path) -> str:
     ]) + "\n"
 
 
+def version() -> str:
+    """git describe of the checkout: the tag on a release build, else a short hash."""
+    import subprocess
+    try:
+        return subprocess.run(["git", "describe", "--tags", "--always", "--dirty"], cwd=ROOT,
+                              capture_output=True, text=True, check=True).stdout.strip() or "unreleased"
+    except (OSError, subprocess.CalledProcessError):
+        return "unreleased"
+
+
 def main() -> None:
-    numbers = json.load((DATA / "numbers.json").open())
+    numbers = {**json.load((DATA / "numbers.json").open()), "version": version()}
     BUILD.mkdir(exist_ok=True)
     parts = []
     for p in sorted(SRC.glob("*.md")):

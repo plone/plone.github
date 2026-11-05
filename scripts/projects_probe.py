@@ -79,14 +79,14 @@ def main() -> None:
     projects = fetch_projects()
     public = [p for p in projects if p["public"]]
     (DATA / "projects.json").write_text(json.dumps(
-        {"total_boards": len(projects), "private_boards_omitted": len(projects) - len(public), "boards": public},
+        {"boards": public},
         indent=1) + "\n")
     samples = {}
     for p in public:
         if p["number"] in KEY_BOARDS:
             samples[str(p["number"])] = {"title": p["title"], **sample(p["number"], public_repos)}
     (DATA / "projects_items_sample.json").write_text(json.dumps(samples, indent=1) + "\n")
-    print(f"{len(public)} public boards of {len(projects)}; sampled {len(samples)} key boards")
+    print(f"{len(public)} public boards; sampled {len(samples)} key boards")
 
 
 if __name__ == "__main__":

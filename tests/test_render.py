@@ -36,3 +36,16 @@ def test_appendix_c_lists_the_2015_scheme():
     md = appendix_c(root / "archive/google-sheet/Github-Plone-Organisation-Labels-2026-11-05.csv",
                     root / "archive/2015-label-tool/definitions.json")
     assert "01 type: bug" in md and "fa0000" in md and "something does not work" in md
+
+
+def test_appendix_b_board_table_shows_sample_size_and_right_path():
+    from pathlib import Path
+    from scripts.render import appendix_b
+    md = appendix_b(Path(__file__).resolve().parents[1] / "data")
+    assert "Sampled" in md
+    assert "data/scripts" not in md and "`scripts/`" in md
+
+
+def test_render_rejects_leftover_braces():
+    with pytest.raises(ValueError):
+        render("{{ key }} stays", {"key": 1})

@@ -7,7 +7,6 @@ data/numbers.json.
 import csv
 import json
 import re
-from datetime import datetime, timezone
 from pathlib import Path
 
 from scripts.common import DATA, normalize
@@ -30,6 +29,11 @@ def dead_labels(rows: list[dict]) -> list[str]:
     return [r["label"] for r in rows
             if is_dead(int(r["created_since_2025_any_state"]),
                        int(r["open_issues"]) + int(r["open_prs"]), r["label"])]
+
+
+def fetch_date(data_dir: Path) -> str:
+    """The day the data was fetched, recorded by fetch_labels (never a file mtime)."""
+    return json.load((data_dir / "fetched_at.json").open())["date"]
 
 
 def _usage(data_dir: Path) -> list[dict]:
@@ -56,9 +60,8 @@ def compute(data_dir: Path = DATA) -> dict:
     aconf = [c for c in conf if not c["archived"]]
     cls = lambda name: sum(1 for c in aconf if c["cls"] == name)  # noqa: E731
     dead = dead_labels(usage)
-    fetched = datetime.fromtimestamp((data_dir / "plone_labels.json").stat().st_mtime, tz=timezone.utc)
     return {
-        "date": fetched.strftime("%Y-%m-%d"),
+        "date": fetch_date(data_dir),
         "repos_total": len(repos),
         "repos_active": len(active),
         "repos_archived": len(repos) - len(active),
@@ -79,8 +82,8 @@ def compute(data_dir: Path = DATA) -> dict:
         "needs_triage_repos": _repos_with(active, "30 needs: triage"),
         "typed_open_issues": feats["typed_open_issues"],
         "typed_share_since_2025_06": round(100 * feats["typed_since_2025_06"] / max(1, feats["issues_since_2025_06"])),
-        "projects_total": feats["projects_total"],
-        "projects_open": feats["projects_open"],
+        "projects_total": len(boards),
+        "projects_open": sum(1 for b in boards if not b["closed"]),
         "open_draft_prs": feats["open_draft_prs"],
         "open_automerge_prs": feats["open_automerge_prs"],
         "open_regressions": feats["open_regressions"],

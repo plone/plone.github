@@ -11,6 +11,6 @@ def test_workflow_shape():
     assert "push" in on and "pull_request" in on
     assert on["push"]["tags"] == ["proposal-v*"]
     steps = " ".join(s.get("run", "") + " " + s.get("uses", "") for s in wf["jobs"]["pdf"]["steps"])
-    for needle in ("fonts-lato", "make test", "make pdf", "upload-artifact", "gh release create"):
+    for needle in ("fonts-lato", "fonts-dejavu-core", "make test", "make pdf", "upload-artifact", "gh release create"):
         assert needle in steps, needle
     assert wf["permissions"]["contents"] == "write"

@@ -12,3 +12,5 @@ def test_make_pdf_builds_and_uses_lato():
     assert "Lato" in fonts
     text = subprocess.run(["pdftotext", pdf, "-"], capture_output=True, text=True).stdout
     assert "Management summary" in text
+    first_page = subprocess.run(["pdftotext", "-f", "1", "-l", "1", pdf, "-"], capture_output=True, text=True).stdout
+    assert "Version" in first_page and "github.com/plone/plone.github" in first_page

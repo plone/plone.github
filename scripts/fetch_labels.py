@@ -4,6 +4,7 @@ Writes data/plone_labels.json: a list of
 {"name", "archived", "fork", "visibility": "public", "createdAt", "labels": [...]}.
 """
 import json
+from datetime import datetime, timezone
 from typing import Iterator
 
 from scripts.common import DATA
@@ -71,6 +72,7 @@ def main() -> None:
     repos = collect()
     DATA.mkdir(exist_ok=True)
     (DATA / "plone_labels.json").write_text(json.dumps(repos, indent=1) + "\n")
+    (DATA / "fetched_at.json").write_text(json.dumps({"date": datetime.now(timezone.utc).strftime("%Y-%m-%d")}) + "\n")
     print(f"{len(repos)} public repositories, {sum(len(r['labels']) for r in repos)} labels")
 
 

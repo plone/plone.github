@@ -16,7 +16,6 @@ PUB = "org:plone is:public"
 QUERY = """{
   types: repository(owner: "plone", name: "volto") { issueTypes(first: 25) { nodes { name isEnabled } } }
   %s
-  boards: organization(login: "plone") { projectsV2(first: 100) { totalCount nodes { closed public } } }
   typed_open: search(type: ISSUE, query: "%s is:issue is:open type:Bug,Feature,Task,PLIP") { issueCount }
   typed_recent: search(type: ISSUE, query: "%s is:issue created:>=2025-06-01 type:Bug,Feature,Task,PLIP") { issueCount }
   all_recent: search(type: ISSUE, query: "%s is:issue created:>=2025-06-01") { issueCount }
@@ -33,7 +32,6 @@ def main() -> None:
         f'r{i}: repository(owner: "plone", name: "{name}") {{ hasDiscussionsEnabled }}'
         for i, name in enumerate(CORE_REPOS))
     data = gql(QUERY % ((repo_parts,) + (PUB,) * 8))
-    boards = data["boards"]["projectsV2"]
     fields = rest("orgs/plone/issue-fields")
     cfg = rest("repos/plone/.github/contents/.github/ISSUE_TEMPLATE/config.yml")
     config_yml = base64.b64decode(cfg["content"]).decode()
@@ -43,9 +41,6 @@ def main() -> None:
         "typed_open_issues": data["typed_open"]["issueCount"],
         "typed_since_2025_06": data["typed_recent"]["issueCount"],
         "issues_since_2025_06": data["all_recent"]["issueCount"],
-        "projects_total": boards["totalCount"],
-        "projects_open": sum(1 for b in boards["nodes"] if not b["closed"]),
-        "projects_public": sum(1 for b in boards["nodes"] if b["public"]),
         "discussions_enabled": {name: data[f"r{i}"]["hasDiscussionsEnabled"] for i, name in enumerate(CORE_REPOS)},
         "open_draft_prs": data["drafts"]["issueCount"],
         "open_automerge_prs": data["automerge"]["issueCount"],

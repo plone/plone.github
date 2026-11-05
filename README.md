@@ -15,10 +15,11 @@ the rest, and a lighter process for the people who triage.
 
 ```
 archive/        the 2015 tool and the Google Sheet, as they were
-data/           audit of every public repository in the org (2026-11-05) and
-                the scripts that produced it
+data/           audit of every public repository in the org (2026-11-05)
+scripts/        the fetchers and reducers that produce data/ and build/proposal.md
 proposal/       Markdown sources of the proposal PDF, diagrams, PDF template,
                 and the forum post
+tests/          pytest suite (data privacy, language rules, build)
 Makefile        make test | make pdf | make data
 ```
 
@@ -28,7 +29,7 @@ Needs Python 3.12+, [uv](https://docs.astral.sh/uv/), pandoc, XeLaTeX with
 the Lato font, Graphviz and poppler-utils. On Debian/Ubuntu:
 
 ```
-sudo apt-get install pandoc texlive-xetex texlive-latex-extra texlive-fonts-recommended fonts-lato graphviz poppler-utils
+sudo apt-get install pandoc texlive-xetex texlive-latex-extra texlive-fonts-recommended fonts-lato fonts-dejavu-core graphviz poppler-utils
 uv sync
 make pdf          # → build/proposal.pdf
 make test

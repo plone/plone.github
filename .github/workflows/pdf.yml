@@ -18,7 +18,7 @@ jobs:
       - name: Install pandoc, XeLaTeX, Lato, Graphviz, poppler
         run: |
           sudo apt-get update
-          sudo apt-get install -y pandoc texlive-xetex texlive-latex-extra texlive-fonts-recommended fonts-lato graphviz poppler-utils
+          sudo apt-get install -y pandoc texlive-xetex texlive-latex-extra texlive-fonts-recommended fonts-lato fonts-dejavu-core graphviz poppler-utils
       - run: uv sync
       - run: make test
       - run: make pdf
