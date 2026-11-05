@@ -15,6 +15,7 @@ data:
 	$(UV) run python -m scripts.extra_usage
 	$(UV) run python -m scripts.projects_probe
 	$(UV) run python -m scripts.features_probe
+	$(UV) run python -m scripts.conformance
 
 numbers:
 	$(UV) run python -m scripts.numbers
