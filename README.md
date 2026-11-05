@@ -1,5 +1,7 @@
 # plone.github
 
+[![Proposal PDF](https://github.com/plone/plone.github/actions/workflows/pdf.yml/badge.svg)](https://github.com/plone/plone.github/actions/workflows/pdf.yml)
+
 Definitions, data and the 2026 proposal for how repositories in the
 [Plone GitHub organization](https://github.com/plone) handle issues and labels.
 
@@ -41,5 +43,7 @@ Private repositories are never read or written.
 
 ## Discussion
 
-The proposal is discussed on the Plone community forum: TBD (link added
-when posted). Feedback as issues or pull requests here is welcome too.
+The proposal is discussed on the Plone community forum (link added when
+posted; the post itself is [`proposal/forum-post.md`](proposal/forum-post.md)).
+Feedback as issues or pull requests here is welcome too. The PDF of each
+proposal version is attached to a GitHub release tagged `proposal-v*`.
