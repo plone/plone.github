@@ -1,0 +1,33 @@
+name: Proposal PDF
+
+on:
+  push:
+    branches: ["**"]
+    tags: ["proposal-v*"]
+  pull_request:
+
+permissions:
+  contents: write
+
+jobs:
+  pdf:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v5
+      - name: Install pandoc, XeLaTeX, Lato, Graphviz, poppler
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc texlive-xetex texlive-latex-extra texlive-fonts-recommended fonts-lato graphviz poppler-utils
+      - run: uv sync
+      - run: make test
+      - run: make pdf
+      - uses: actions/upload-artifact@v4
+        with:
+          name: proposal-pdf
+          path: build/proposal.pdf
+      - name: Publish the PDF as a release on a proposal-v* tag
+        if: startsWith(github.ref, 'refs/tags/proposal-v')
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh release create "$GITHUB_REF_NAME" build/proposal.pdf --title "Proposal $GITHUB_REF_NAME" --generate-notes
