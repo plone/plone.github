@@ -10,7 +10,7 @@ What people experience today: a reporter opens an issue and often hears nothing,
 2. **GitHub features take over the rest**: issue types for bug, feature, task and PLIP; the Priority and Effort fields; Discussions for questions and ideas; draft pull requests and checks for the state of a PR; milestones for release targets; close reasons; boards for planning.
 3. **Issue forms set the first state.** A new issue arrives typed and marked `needs: triage`. The common move for a maintainer is to remove a label or click a native control, never to remember a convention.
 4. **Issues are for work with a definition of done.** Questions and ideas get a home in Discussions or on community.plone.org, where they can find their people. Moving an idea there is hospitality, not rejection.
-5. **One source of truth and an automatic check**, so that the drift of the last seven years cannot repeat and a new repository arrives with everything in place.
+5. **One source of truth and an automatic check**, so that the drift since the tool was last run in 2019 cannot repeat and a new repository arrives with everything in place.
 
 **What changes for whom**
 
