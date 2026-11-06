@@ -36,7 +36,7 @@ def test_no_ai_focus():
 
 def test_forum_post_length_and_trailer():
     text = (ROOT / "proposal/forum-post.md").read_text().strip()
-    lines = text.splitlines()
+    lines = [l for l in text.splitlines() if not l.startswith("<!--")]  # Discourse drops HTML comments
     assert re.search(r"(?i)assisted-by:? Claude Fable 5\.1", lines[-1]), lines[-1]
     body = "\n".join(lines[:-1])
     assert len(body.split()) <= 350, len(body.split())
