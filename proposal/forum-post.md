@@ -11,7 +11,7 @@ The short version of what I propose:
 - **Forms set the first state**, so a maintainer removes a label instead of remembering a convention. `good first issue` and `help wanted` work with GitHub's newcomer discovery again.
 - **An invitation, not a rule.** Nothing obliges anyone, an unlabeled issue stays a fine issue, and every team keeps its own local labels and automation. The one central step costs a repository nothing.
 
-The full proposal, with the reasoning, the data and the complete mapping from old to new, is a PDF: <PDF-URL>. Sources and audit scripts: https://github.com/plone/plone.github.
+The full proposal, with the reasoning, the data and the complete mapping from old to new, is a PDF: https://github.com/plone/plone.github/releases/download/proposal-v1/proposal.pdf. Sources and audit scripts: https://github.com/plone/plone.github.
 
 **What I am asking you!** Read it and tell me what would not work for the repository you work with or your team. Here or on Discord. In about 4 weeks I plan to open a PLIP-style issue in plone/plone.github, look for a seconder and +1s from team leads, release managers, Plonistas with an opinion. And if nobody objects, roll it out scripted. The documentation team is going to be in the loop, since the contributing docs change with it a bit.
 

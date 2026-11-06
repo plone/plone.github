@@ -40,4 +40,4 @@ def test_forum_post_length_and_trailer():
     assert re.search(r"(?i)assisted-by:? Claude Fable 5\.1", lines[-1]), lines[-1]
     body = "\n".join(lines[:-1])
     assert len(body.split()) <= 350, len(body.split())
-    assert "<PDF-URL>" in body
+    assert "https://github.com/plone/plone.github/releases/download/proposal-v" in body
